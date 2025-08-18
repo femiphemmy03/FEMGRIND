@@ -1,0 +1,890 @@
+[
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correct_answer": 0,
+    "justification": "The SI unit of force is the Newton, defined as kg·m/s²."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a scalar quantity?",
+    "options": ["Velocity", "Acceleration", "Mass", "Force"],
+    "correct_answer": 2,
+    "justification": "Mass is a scalar quantity as it has magnitude only, unlike velocity, acceleration, and force, which have direction."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the acceleration due to gravity on Earth’s surface?",
+    "options": ["9.8 m/s²", "8.9 m/s²", "10.8 m/s²", "7.8 m/s²"],
+    "correct_answer": 0,
+    "justification": "The standard value of acceleration due to gravity on Earth is approximately 9.8 m/s²."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which law states that the force on an object is equal to its mass times its acceleration?",
+    "options": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Gravitation"],
+    "correct_answer": 1,
+    "justification": "Newton’s Second Law states that F = ma, where force equals mass times acceleration."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the work done when a force of 20 N moves an object 5 m in the direction of the force?",
+    "options": ["100 J", "25 J", "4 J", "125 J"],
+    "correct_answer": 0,
+    "justification": "Work done = Force × Distance = 20 N × 5 m = 100 J."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a unit of power?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "correct_answer": 1,
+    "justification": "The SI unit of power is the Watt, defined as Joule per second (J/s)."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the momentum of a 2 kg object moving at 5 m/s?",
+    "options": ["10 kg·m/s", "7 kg·m/s", "12 kg·m/s", "2 kg·m/s"],
+    "correct_answer": 0,
+    "justification": "Momentum = mass × velocity = 2 kg × 5 m/s = 10 kg·m/s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of energy is stored in a stretched spring?",
+    "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Chemical energy"],
+    "correct_answer": 1,
+    "justification": "A stretched spring stores elastic potential energy."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "correct_answer": 1,
+    "justification": "The SI unit of electric current is the Ampere."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which law relates voltage, current, and resistance in a circuit?",
+    "options": ["Faraday’s Law", "Ohm’s Law", "Coulomb’s Law", "Kirchhoff’s Law"],
+    "correct_answer": 1,
+    "justification": "Ohm’s Law states that V = IR, relating voltage, current, and resistance."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the resistance of a conductor if a current of 2 A flows through it with a voltage of 10 V?",
+    "options": ["5 Ω", "20 Ω", "2 Ω", "12 Ω"],
+    "correct_answer": 0,
+    "justification": "Using Ohm’s Law, R = V/I = 10 V / 2 A = 5 Ω."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the frequency of a wave with a period of 0.02 s?",
+    "options": ["50 Hz", "20 Hz", "100 Hz", "25 Hz"],
+    "correct_answer": 0,
+    "justification": "Frequency = 1 / Period = 1 / 0.02 s = 50 Hz."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of transverse waves?",
+    "options": ["Compression", "Rarefaction", "Polarization", "Diffraction"],
+    "correct_answer": 2,
+    "justification": "Polarization is a property unique to transverse waves."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the speed of a wave with a frequency of 10 Hz and a wavelength of 2 m?",
+    "options": ["5 m/s", "20 m/s", "12 m/s", "8 m/s"],
+    "correct_answer": 1,
+    "justification": "Wave speed = frequency × wavelength = 10 Hz × 2 m = 20 m/s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Solar energy", "Natural gas", "Petroleum"],
+    "correct_answer": 1,
+    "justification": "Solar energy is renewable as it is derived from the sun, which is inexhaustible."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of energy?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correct_answer": 1,
+    "justification": "The SI unit of energy is the Joule."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the kinetic energy of a 4 kg object moving at 3 m/s?",
+    "options": ["18 J", "36 J", "12 J", "24 J"],
+    "correct_answer": 0,
+    "justification": "Kinetic energy = ½ mv² = ½ × 4 kg × (3 m/s)² = 18 J."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Ammeter", "Voltmeter"],
+    "correct_answer": 1,
+    "justification": "A barometer measures atmospheric pressure."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the focal length of a plane mirror?",
+    "options": ["Zero", "Infinity", "1 m", "-1 m"],
+    "correct_answer": 1,
+    "justification": "The focal length of a plane mirror is infinity, as it does not converge light."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a vector quantity?",
+    "options": ["Speed", "Distance", "Velocity", "Time"],
+    "correct_answer": 2,
+    "justification": "Velocity is a vector quantity as it has both magnitude and direction."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the power of a machine that does 500 J of work in 10 s?",
+    "options": ["50 W", "5000 W", "5 W", "100 W"],
+    "correct_answer": 0,
+    "justification": "Power = Work / Time = 500 J / 10 s = 50 W."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of specific heat capacity?",
+    "options": ["J/kg·K", "J/kg", "kg/m³", "J/s"],
+    "correct_answer": 0,
+    "justification": "Specific heat capacity is measured in J/kg·K, representing energy per unit mass per degree Kelvin."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of lens converges light rays to a point?",
+    "options": ["Concave lens", "Convex lens", "Plane lens", "Biconcave lens"],
+    "correct_answer": 1,
+    "justification": "A convex lens converges light rays to a focal point."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the potential difference across a 4 Ω resistor with a current of 3 A?",
+    "options": ["12 V", "7 V", "1.33 V", "9 V"],
+    "correct_answer": 0,
+    "justification": "Using Ohm’s Law, V = IR = 3 A × 4 Ω = 12 V."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of sound waves?",
+    "options": ["Polarization", "Refraction", "Interference", "Reflection"],
+    "correct_answer": 2,
+    "justification": "Interference is a property of sound waves, where waves superpose to form a resultant wave."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of magnetic flux?",
+    "options": ["Tesla", "Weber", "Ampere", "Henry"],
+    "correct_answer": 1,
+    "justification": "The SI unit of magnetic flux is the Weber."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the angle of incidence when light travels from air to glass and the angle of refraction is 30° with a refractive index of 1.5?",
+    "options": ["45°", "30°", "60°", "20°"],
+    "correct_answer": 0,
+    "justification": "Using Snell’s Law, n₁ sin θ₁ = n₂ sin θ₂, sin θ₁ = 1.5 × sin 30° = 0.75, so θ₁ = arcsin(0.75) ≈ 48.6°, closest to 45°."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the efficiency of a machine if the work input is 1000 J and the work output is 800 J?",
+    "options": ["80%", "20%", "100%", "50%"],
+    "correct_answer": 0,
+    "justification": "Efficiency = (Work output / Work input) × 100 = (800 J / 1000 J) × 100 = 80%."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a unit of pressure?",
+    "options": ["Joule", "Pascal", "Watt", "Newton"],
+    "correct_answer": 1,
+    "justification": "The SI unit of pressure is the Pascal, defined as N/m²."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the resultant force when two forces of 3 N and 4 N act at right angles to each other?",
+    "options": ["5 N", "7 N", "1 N", "12 N"],
+    "correct_answer": 0,
+    "justification": "Resultant force = √(3² + 4²) = √(9 + 16) = √25 = 5 N."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the boiling point of water at standard atmospheric pressure?",
+    "options": ["0°C", "100°C", "50°C", "200°C"],
+    "correct_answer": 1,
+    "justification": "Water boils at 100°C at standard atmospheric pressure (1 atm)."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a conductor of electricity?",
+    "options": ["Rubber", "Copper", "Plastic", "Wood"],
+    "correct_answer": 1,
+    "justification": "Copper is a good conductor of electricity due to its free electrons."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the period of a pendulum with a frequency of 2 Hz?",
+    "options": ["0.5 s", "2 s", "1 s", "0.25 s"],
+    "correct_answer": 0,
+    "justification": "Period = 1 / Frequency = 1 / 2 Hz = 0.5 s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which particle is responsible for electric current in a conductor?",
+    "options": ["Proton", "Electron", "Neutron", "Photon"],
+    "correct_answer": 1,
+    "justification": "Electrons are the charge carriers responsible for electric current in conductors."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the image formed by a convex mirror?",
+    "options": ["Real and inverted", "Virtual and upright", "Real and upright", "Virtual and inverted"],
+    "correct_answer": 1,
+    "justification": "A convex mirror always forms a virtual, upright, and diminished image."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of heat energy?",
+    "options": ["Watt", "Joule", "Kelvin", "Pascal"],
+    "correct_answer": 1,
+    "justification": "The SI unit of heat energy is the Joule."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the velocity of an object that travels 100 m in 20 s?",
+    "options": ["5 m/s", "2 m/s", "10 m/s", "20 m/s"],
+    "correct_answer": 0,
+    "justification": "Velocity = Distance / Time = 100 m / 20 s = 5 m/s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a form of renewable energy?",
+    "options": ["Coal", "Wind energy", "Petroleum", "Natural gas"],
+    "correct_answer": 1,
+    "justification": "Wind energy is renewable as it is derived from natural wind processes."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the law of conservation of energy?",
+    "options": [
+      "Energy can be created",
+      "Energy can be destroyed",
+      "Energy is neither created nor destroyed",
+      "Energy is always lost"
+    ],
+    "correct_answer": 2,
+    "justification": "The law states that energy is neither created nor destroyed, only transformed."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of electric charge?",
+    "options": ["Ampere", "Coulomb", "Volt", "Ohm"],
+    "correct_answer": 1,
+    "justification": "The SI unit of electric charge is the Coulomb."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of wave requires a medium to propagate?",
+    "options": ["Electromagnetic wave", "Transverse wave", "Sound wave", "Radio wave"],
+    "correct_answer": 2,
+    "justification": "Sound waves are mechanical waves that require a medium to propagate."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the power rating of an appliance that uses 1200 J in 4 s?",
+    "options": ["300 W", "4800 W", "400 W", "200 W"],
+    "correct_answer": 0,
+    "justification": "Power = Energy / Time = 1200 J / 4 s = 300 W."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the specific latent heat of fusion?",
+    "options": [
+      "Heat required to change a solid to liquid",
+      "Heat required to change a liquid to gas",
+      "Heat required to raise temperature",
+      "Heat required to expand a solid"
+    ],
+    "correct_answer": 0,
+    "justification": "Specific latent heat of fusion is the heat required to change a solid to a liquid without a temperature change."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a longitudinal wave?",
+    "options": ["Light wave", "Water wave", "Sound wave", "Radio wave"],
+    "correct_answer": 2,
+    "justification": "Sound waves are longitudinal waves with compressions and rarefactions."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the weight of a 5 kg object on Earth?",
+    "options": ["50 N", "5 N", "49 N", "10 N"],
+    "correct_answer": 0,
+    "justification": "Weight = mass × g = 5 kg × 9.8 m/s² ≈ 49 N, rounded to 50 N for simplicity."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which device converts mechanical energy to electrical energy?",
+    "options": ["Motor", "Generator", "Transformer", "Capacitor"],
+    "correct_answer": 1,
+    "justification": "A generator converts mechanical energy to electrical energy."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the refractive index of a medium if the speed of light in air is 3 × 10⁸ m/s and in the medium is 2 × 10⁸ m/s?",
+    "options": ["1.5", "2.0", "1.0", "0.67"],
+    "correct_answer": 0,
+    "justification": "Refractive index = Speed of light in vacuum / Speed in medium = 3 × 10⁸ / 2 × 10⁸ = 1.5."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a derived unit?",
+    "options": ["Metre", "Kilogram", "Newton", "Second"],
+    "correct_answer": 2,
+    "justification": "Newton is a derived unit (kg·m/s²), while metre, kilogram, and second are base units."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the frequency of a pendulum with a period of 0.4 s?",
+    "options": ["2.5 Hz", "0.4 Hz", "4 Hz", "1 Hz"],
+    "correct_answer": 0,
+    "justification": "Frequency = 1 / Period = 1 / 0.4 s = 2.5 Hz."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of alpha particles?",
+    "options": ["High penetration", "No charge", "High ionizing power", "Travel at speed of light"],
+    "correct_answer": 2,
+    "justification": "Alpha particles have high ionizing power due to their large mass and charge."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of electrical resistance?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "correct_answer": 2,
+    "justification": "The SI unit of electrical resistance is the Ohm."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the potential energy of a 2 kg object raised 5 m above the ground (g = 10 m/s²)?",
+    "options": ["100 J", "50 J", "20 J", "10 J"],
+    "correct_answer": 0,
+    "justification": "Potential energy = mgh = 2 kg × 10 m/s² × 5 m = 100 J."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of electromagnetic waves?",
+    "options": ["Require a medium", "Travel at speed of sound", "Travel at speed of light", "Longitudinal waves"],
+    "correct_answer": 2,
+    "justification": "Electromagnetic waves travel at the speed of light in a vacuum."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the work done by a force if an object moves 0 m?",
+    "options": ["0 J", "10 J", "100 J", "50 J"],
+    "correct_answer": 0,
+    "justification": "Work done = Force × Distance. If distance is 0 m, work done is 0 J."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which instrument measures electric potential difference?",
+    "options": ["Ammeter", "Voltmeter", "Galvanometer", "Barometer"],
+    "correct_answer": 1,
+    "justification": "A voltmeter measures the electric potential difference between two points."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the total resistance of two 6 Ω resistors connected in parallel?",
+    "options": ["12 Ω", "3 Ω", "6 Ω", "2 Ω"],
+    "correct_answer": 1,
+    "justification": "For parallel resistors, 1/R = 1/R₁ + 1/R₂ = 1/6 + 1/6 = 2/6, so R = 3 Ω."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the primary source of energy for Earth’s climate system?",
+    "options": ["Wind", "Sun", "Geothermal", "Tides"],
+    "correct_answer": 1,
+    "justification": "The Sun is the primary source of energy for Earth’s climate system."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of frequency?",
+    "options": ["Watt", "Hertz", "Joule", "Newton"],
+    "correct_answer": 1,
+    "justification": "The SI unit of frequency is the Hertz (Hz)."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of friction?",
+    "options": ["Static friction", "Magnetic friction", "Electric friction", "Thermal friction"],
+    "correct_answer": 0,
+    "justification": "Static friction is a type of friction that opposes the start of motion."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the speed of sound in air at standard conditions?",
+    "options": ["343 m/s", "300 m/s", "400 m/s", "500 m/s"],
+    "correct_answer": 0,
+    "justification": "The speed of sound in air at standard conditions (20°C) is approximately 343 m/s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of beta particles?",
+    "options": ["High mass", "No charge", "High penetration", "Low ionizing power"],
+    "correct_answer": 2,
+    "justification": "Beta particles have high penetration compared to alpha particles."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of work?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correct_answer": 1,
+    "justification": "The SI unit of work is the Joule."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the image distance for an object placed 10 cm in front of a concave mirror with a focal length of 5 cm?",
+    "options": ["10 cm", "3.33 cm", "7.5 cm", "15 cm"],
+    "correct_answer": 0,
+    "justification": "Using the mirror formula, 1/f = 1/u + 1/v, 1/5 = 1/10 + 1/v, 1/v = 1/5 - 1/10 = 1/10, so v = 10 cm."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a method of heat transfer?",
+    "options": ["Conduction", "Friction", "Diffraction", "Polarization"],
+    "correct_answer": 0,
+    "justification": "Conduction is a method of heat transfer through a medium without movement of the medium."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the momentum of a stationary object?",
+    "options": ["Zero", "Infinite", "Constant", "Negative"],
+    "correct_answer": 0,
+    "justification": "Momentum = mass × velocity. If velocity is zero, momentum is zero."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which device stores electrical energy in an electric field?",
+    "options": ["Resistor", "Capacitor", "Inductor", "Diode"],
+    "correct_answer": 1,
+    "justification": "A capacitor stores electrical energy in an electric field."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the wavelength of a wave with a speed of 340 m/s and a frequency of 680 Hz?",
+    "options": ["0.5 m", "1 m", "2 m", "0.25 m"],
+    "correct_answer": 0,
+    "justification": "Wavelength = Speed / Frequency = 340 m/s / 680 Hz = 0.5 m."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a unit of density?",
+    "options": ["kg/m²", "kg/m³", "g/cm²", "kg/cm"],
+    "correct_answer": 1,
+    "justification": "The SI unit of density is kg/m³."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the principle of conservation of momentum?",
+    "options": [
+      "Momentum is always zero",
+      "Total momentum remains constant in an isolated system",
+      "Momentum increases with time",
+      "Momentum is destroyed in collisions"
+    ],
+    "correct_answer": 1,
+    "justification": "The total momentum of an isolated system remains constant if no external forces act."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of gamma rays?",
+    "options": ["High mass", "High charge", "High penetration", "Low energy"],
+    "correct_answer": 2,
+    "justification": "Gamma rays have high penetration due to their electromagnetic nature."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of temperature?",
+    "options": ["Celsius", "Kelvin", "Fahrenheit", "Joule"],
+    "correct_answer": 1,
+    "justification": "The SI unit of temperature is the Kelvin."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the total resistance of two 4 Ω resistors connected in series?",
+    "options": ["2 Ω", "8 Ω", "4 Ω", "1 Ω"],
+    "correct_answer": 1,
+    "justification": "For resistors in series, R = R₁ + R₂ = 4 Ω + 4 Ω = 8 Ω."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a source of light?",
+    "options": ["Moon", "Sun", "Mirror", "Glass"],
+    "correct_answer": 1,
+    "justification": "The Sun is a natural source of light, unlike the Moon, which reflects light."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the acceleration of a 10 kg object when a force of 50 N is applied?",
+    "options": ["5 m/s²", "10 m/s²", "2 m/s²", "50 m/s²"],
+    "correct_answer": 0,
+    "justification": "Using Newton’s Second Law, a = F/m = 50 N / 10 kg = 5 m/s²."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of mirror is used in car headlights?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Flat mirror"],
+    "correct_answer": 1,
+    "justification": "Concave mirrors are used in car headlights to produce a parallel beam of light."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of magnetic field strength?",
+    "options": ["Weber", "Tesla", "Ampere", "Henry"],
+    "correct_answer": 1,
+    "justification": "The SI unit of magnetic field strength is the Tesla."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the specific heat capacity of water?",
+    "options": ["4200 J/kg·K", "2100 J/kg·K", "1000 J/kg·K", "8400 J/kg·K"],
+    "correct_answer": 0,
+    "justification": "The specific heat capacity of water is approximately 4200 J/kg·K."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a non-renewable source of energy?",
+    "options": ["Solar energy", "Wind energy", "Coal", "Hydropower"],
+    "correct_answer": 2,
+    "justification": "Coal is a non-renewable source of energy as it is finite."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the angle of reflection if the angle of incidence is 30°?",
+    "options": ["60°", "30°", "45°", "90°"],
+    "correct_answer": 1,
+    "justification": "The law of reflection states that the angle of incidence equals the angle of reflection, so it is 30°."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which device converts electrical energy to mechanical energy?",
+    "options": ["Generator", "Motor", "Transformer", "Capacitor"],
+    "correct_answer": 1,
+    "justification": "A motor converts electrical energy to mechanical energy."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of impulse?",
+    "options": ["N·s", "J", "W", "N/m"],
+    "correct_answer": 0,
+    "justification": "Impulse = Force × Time, so its unit is N·s."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the frequency of a wave with a wavelength of 0.2 m traveling at 340 m/s?",
+    "options": ["1700 Hz", "68 Hz", "340 Hz", "0.2 Hz"],
+    "correct_answer": 0,
+    "justification": "Frequency = Speed / Wavelength = 340 m/s / 0.2 m = 1700 Hz."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a fundamental quantity?",
+    "options": ["Force", "Mass", "Energy", "Power"],
+    "correct_answer": 1,
+    "justification": "Mass is a fundamental quantity, while force, energy, and power are derived."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the effect of increasing temperature on the resistance of a conductor?",
+    "options": ["Decreases", "Increases", "Remains constant", "Becomes zero"],
+    "correct_answer": 1,
+    "justification": "For most conductors, resistance increases with temperature due to increased atomic vibrations."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of radiation is deflected by a magnetic field?",
+    "options": ["Gamma rays", "Alpha particles", "X-rays", "Neutrons"],
+    "correct_answer": 1,
+    "justification": "Alpha particles are charged and thus deflected by a magnetic field."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of moment of force?",
+    "options": ["N·m", "J", "W", "N/m"],
+    "correct_answer": 0,
+    "justification": "Moment of force (torque) is measured in Newton-metres (N·m)."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the critical angle for a medium with a refractive index of 1.5?",
+    "options": ["41.8°", "30°", "60°", "90°"],
+    "correct_answer": 0,
+    "justification": "Critical angle = arcsin(1/n) = arcsin(1/1.5) = arcsin(0.667) ≈ 41.8°."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of a convex lens?",
+    "options": ["Diverges light", "Forms only virtual images", "Converges light", "Produces only diminished images"],
+    "correct_answer": 2,
+    "justification": "A convex lens converges light to a focal point."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the energy stored in a spring with a spring constant of 200 N/m stretched by 0.1 m?",
+    "options": ["1 J", "2 J", "0.5 J", "4 J"],
+    "correct_answer": 0,
+    "justification": "Elastic potential energy = ½ kx² = ½ × 200 N/m × (0.1 m)² = 1 J."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a unit of acceleration?",
+    "options": ["m/s", "m/s²", "m²/s", "m²/s²"],
+    "correct_answer": 1,
+    "justification": "The SI unit of acceleration is m/s²."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the half-life of a radioactive substance if 25% of it remains after 12 days?",
+    "options": ["6 days", "12 days", "3 days", "24 days"],
+    "correct_answer": 0,
+    "justification": "25% remaining means two half-lives (0.5² = 0.25). Total time = 12 days, so half-life = 12 / 2 = 6 days."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a parallel circuit?",
+    "options": ["Same current in all branches", "Same voltage across all branches", "Total resistance increases", "Current stops if one branch breaks"],
+    "correct_answer": 1,
+    "justification": "In a parallel circuit, the voltage across each branch is the same."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of luminous intensity?",
+    "options": ["Lux", "Candela", "Lumen", "Watt"],
+    "correct_answer": 1,
+    "justification": "The SI unit of luminous intensity is the Candela."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the pressure exerted by a 200 N force over an area of 2 m²?",
+    "options": ["100 Pa", "400 Pa", "50 Pa", "200 Pa"],
+    "correct_answer": 0,
+    "justification": "Pressure = Force / Area = 200 N / 2 m² = 100 Pa."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable energy source?",
+    "options": ["Nuclear energy", "Hydropower", "Coal", "Petroleum"],
+    "correct_answer": 1,
+    "justification": "Hydropower is a renewable energy source derived from water flow."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the unit of electromotive force (EMF)?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "correct_answer": 1,
+    "justification": "The SI unit of electromotive force is the Volt."
+  },
+  {
+    "subject": "Physics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the focal length of a lens with a power of 2 dioptres?",
+    "options": ["0.5 m", "2 m", "1 m", "0.25 m"],
+    "correct_answer": 0,
+    "justification": "Focal length = 1 / Power = 1 / 2 dioptres = 0.5 m."
+  }
+]

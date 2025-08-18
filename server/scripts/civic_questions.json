@@ -1,0 +1,1190 @@
+[
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the primary duty of a citizen to their country?",
+    "options": ["Paying taxes", "Voting in elections", "Obeying laws", "Joining the military"],
+    "correct_answer": 2,
+    "justification": "Obeying laws is a primary duty of a citizen to maintain order and uphold the rule of law."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which arm of government is responsible for making laws?",
+    "options": ["Executive", "Legislature", "Judiciary", "Bureaucracy"],
+    "correct_answer": 1,
+    "justification": "The legislature is responsible for making laws in a democratic system."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What does the term 'rule of law' mean?",
+    "options": [
+      "Laws made by the president",
+      "Supremacy of the law over all individuals",
+      "Laws enforced by the military",
+      "Laws created by traditional rulers"
+    ],
+    "correct_answer": 1,
+    "justification": "Rule of law means that everyone is subject to the law, regardless of status."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which document guarantees the fundamental human rights of citizens in Nigeria?",
+    "options": ["Constitution", "Electoral Act", "Criminal Code", "Land Use Act"],
+    "correct_answer": 0,
+    "justification": "The Nigerian Constitution outlines and guarantees fundamental human rights."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main purpose of democracy?",
+    "options": [
+      "To favor the elite",
+      "To ensure majority rule and minority rights",
+      "To limit citizens' freedom",
+      "To promote military rule"
+    ],
+    "correct_answer": 1,
+    "justification": "Democracy aims to ensure majority rule while protecting minority rights."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a good citizen?",
+    "options": [
+      "Disobeying laws",
+      "Participating in community development",
+      "Evading taxes",
+      "Promoting violence"
+    ],
+    "correct_answer": 1,
+    "justification": "A good citizen participates in community development to promote societal progress."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Independent National Electoral Commission (INEC) in Nigeria?",
+    "options": [
+      "Making laws",
+      "Conducting elections",
+      "Interpreting laws",
+      "Enforcing laws"
+    ],
+    "correct_answer": 1,
+    "justification": "INEC is responsible for organizing and conducting elections in Nigeria."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a fundamental human right?",
+    "options": [
+      "Right to free education",
+      "Right to life",
+      "Right to wealth",
+      "Right to employment"
+    ],
+    "correct_answer": 1,
+    "justification": "The right to life is a fundamental human right protected by the Constitution."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is meant by 'separation of powers' in a democracy?",
+    "options": [
+      "Combining all government functions",
+      "Dividing government functions among different arms",
+      "Giving all powers to the president",
+      "Allowing citizens to control the government"
+    ],
+    "correct_answer": 1,
+    "justification": "Separation of powers divides government functions among the legislature, executive, and judiciary."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following promotes national unity in Nigeria?",
+    "options": [
+      "Tribalism",
+      "Federal Character Principle",
+      "Nepotism",
+      "Corruption"
+    ],
+    "correct_answer": 1,
+    "justification": "The Federal Character Principle ensures fair representation of all regions, promoting unity."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'citizenship'?",
+    "options": [
+      "Membership of a political party",
+      "Legal membership of a state or nation",
+      "Ownership of property",
+      "Participation in elections"
+    ],
+    "correct_answer": 1,
+    "justification": "Citizenship refers to the legal membership of a person in a state or nation."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a civic responsibility of citizens?",
+    "options": [
+      "Vandalizing public property",
+      "Paying taxes promptly",
+      "Promoting discrimination",
+      "Ignoring laws"
+    ],
+    "correct_answer": 1,
+    "justification": "Paying taxes promptly is a civic responsibility to support government functions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the primary function of the judiciary?",
+    "options": [
+      "Making laws",
+      "Executing laws",
+      "Interpreting laws",
+      "Amending laws"
+    ],
+    "correct_answer": 2,
+    "justification": "The judiciary interprets laws and ensures justice is administered."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of democracy?",
+    "options": [
+      "Monarchy",
+      "Representative democracy",
+      "Oligarchy",
+      "Dictatorship"
+    ],
+    "correct_answer": 1,
+    "justification": "Representative democracy involves electing representatives to make decisions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What does the term 'sovereignty' refer to in a nation?",
+    "options": [
+      "Dependence on other nations",
+      "Supreme authority within a territory",
+      "Economic instability",
+      "Military control"
+    ],
+    "correct_answer": 1,
+    "justification": "Sovereignty refers to the supreme authority of a nation within its territory."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which agency in Nigeria is responsible for combating corruption?",
+    "options": [
+      "Nigerian Police Force",
+      "Economic and Financial Crimes Commission (EFCC)",
+      "National Assembly",
+      "Federal Ministry of Justice"
+    ],
+    "correct_answer": 1,
+    "justification": "The EFCC is tasked with investigating and prosecuting financial crimes and corruption."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the minimum voting age in Nigeria?",
+    "options": ["16", "18", "21", "25"],
+    "correct_answer": 1,
+    "justification": "The minimum voting age in Nigeria is 18, as stipulated by the Constitution."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a feature of a federal system of government?",
+    "options": [
+      "Centralized power",
+      "Division of powers between central and regional governments",
+      "Single-party rule",
+      "Military dominance"
+    ],
+    "correct_answer": 1,
+    "justification": "A federal system divides powers between central and regional governments."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the significance of the Nigerian national anthem?",
+    "options": [
+      "Promoting tribalism",
+      "Fostering national unity and patriotism",
+      "Encouraging corruption",
+      "Limiting freedom"
+    ],
+    "correct_answer": 1,
+    "justification": "The national anthem fosters unity and patriotism among Nigerians."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which right allows citizens to express their opinions freely?",
+    "options": [
+      "Right to education",
+      "Right to freedom of expression",
+      "Right to property",
+      "Right to health"
+    ],
+    "correct_answer": 1,
+    "justification": "The right to freedom of expression allows citizens to voice their opinions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the executive arm of government?",
+    "options": [
+      "Making laws",
+      "Interpreting laws",
+      "Implementing laws",
+      "Amending laws"
+    ],
+    "correct_answer": 2,
+    "justification": "The executive implements and enforces laws made by the legislature."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a civic value?",
+    "options": ["Corruption", "Honesty", "Fraud", "Nepotism"],
+    "correct_answer": 1,
+    "justification": "Honesty is a civic value that promotes trust and integrity in society."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Universal Declaration of Human Rights?",
+    "options": [
+      "To promote war",
+      "To protect fundamental human rights globally",
+      "To limit freedom",
+      "To enforce taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The Universal Declaration of Human Rights aims to protect human rights globally."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body is responsible for conducting local government elections in Nigeria?",
+    "options": [
+      "INEC",
+      "SIEC",
+      "EFCC",
+      "NJC"
+    ],
+    "correct_answer": 1,
+    "justification": "State Independent Electoral Commissions (SIEC) conduct local government elections."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is meant by 'checks and balances' in government?",
+    "options": [
+      "Combining powers of government arms",
+      "Ensuring each arm of government limits the powers of others",
+      "Giving all powers to one arm",
+      "Ignoring the judiciary"
+    ],
+    "correct_answer": 1,
+    "justification": "Checks and balances ensure each arm of government limits the powers of others."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a consequence of corruption?",
+    "options": [
+      "Economic growth",
+      "Underdevelopment",
+      "Improved infrastructure",
+      "Social equality"
+    ],
+    "correct_answer": 1,
+    "justification": "Corruption leads to underdevelopment by misallocating resources."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the tenure of a Nigerian president?",
+    "options": ["2 years", "4 years", "5 years", "6 years"],
+    "correct_answer": 1,
+    "justification": "The Nigerian Constitution stipulates a 4-year tenure for the president."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a way to acquire Nigerian citizenship?",
+    "options": [
+      "By education",
+      "By birth",
+      "By employment",
+      "By marriage only"
+    ],
+    "correct_answer": 1,
+    "justification": "Citizenship by birth is a primary way to acquire Nigerian citizenship."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main function of political parties?",
+    "options": [
+      "To enforce laws",
+      "To contest elections and form government",
+      "To interpret laws",
+      "To collect taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "Political parties contest elections to form government and represent citizens."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a pillar of democracy?",
+    "options": [
+      "Corruption",
+      "Free and fair elections",
+      "Dictatorship",
+      "Nepotism"
+    ],
+    "correct_answer": 1,
+    "justification": "Free and fair elections are a key pillar of democracy."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'civil society'?",
+    "options": [
+      "Government officials",
+      "Non-governmental organizations and citizens",
+      "Military personnel",
+      "Traditional rulers"
+    ],
+    "correct_answer": 1,
+    "justification": "Civil society includes NGOs and citizens working for societal good outside government."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which right protects citizens from unlawful arrest?",
+    "options": [
+      "Right to education",
+      "Right to freedom of movement",
+      "Right to personal liberty",
+      "Right to property"
+    ],
+    "correct_answer": 2,
+    "justification": "The right to personal liberty protects against unlawful arrest."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the press in a democracy?",
+    "options": [
+      "To make laws",
+      "To inform and educate the public",
+      "To enforce laws",
+      "To conduct elections"
+    ],
+    "correct_answer": 1,
+    "justification": "The press informs and educates the public, promoting transparency."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a civic obligation?",
+    "options": [
+      "Vandalizing public property",
+      "Participating in community service",
+      "Promoting discrimination",
+      "Evading taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "Participating in community service is a civic obligation to contribute to society."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the supreme law of Nigeria?",
+    "options": [
+      "Electoral Act",
+      "Constitution",
+      "Criminal Code",
+      "Local Government Act"
+    ],
+    "correct_answer": 1,
+    "justification": "The Constitution is the supreme law of Nigeria."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following promotes peaceful coexistence?",
+    "options": [
+      "Tolerance",
+      "Discrimination",
+      "Tribalism",
+      "Corruption"
+    ],
+    "correct_answer": 0,
+    "justification": "Tolerance promotes understanding and peaceful coexistence among people."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the National Assembly in Nigeria?",
+    "options": [
+      "Enforcing laws",
+      "Making laws",
+      "Interpreting laws",
+      "Conducting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "The National Assembly is responsible for making laws in Nigeria."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a negative societal value?",
+    "options": [
+      "Integrity",
+      "Corruption",
+      "Honesty",
+      "Respect"
+    ],
+    "correct_answer": 1,
+    "justification": "Corruption is a negative societal value that undermines progress."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is meant by 'franchise' in a democratic system?",
+    "options": [
+      "Right to own property",
+      "Right to vote",
+      "Right to education",
+      "Right to free speech"
+    ],
+    "correct_answer": 1,
+    "justification": "Franchise refers to the right to vote in elections."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which agency in Nigeria protects human rights?",
+    "options": [
+      "Nigerian Police Force",
+      "National Human Rights Commission (NHRC)",
+      "Economic and Financial Crimes Commission",
+      "Independent National Electoral Commission"
+    ],
+    "correct_answer": 1,
+    "justification": "The NHRC is responsible for protecting and promoting human rights in Nigeria."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the NYSC in Nigeria?",
+    "options": [
+      "To promote tribalism",
+      "To foster national unity and integration",
+      "To enforce laws",
+      "To collect taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The NYSC fosters national unity by deploying youths to different regions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a form of government?",
+    "options": [
+      "Capitalism",
+      "Federalism",
+      "Socialism",
+      "Communism"
+    ],
+    "correct_answer": 1,
+    "justification": "Federalism is a form of government that divides power between central and regional authorities."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'due process'?",
+    "options": [
+      "Ignoring legal procedures",
+      "Following legal procedures in governance",
+      "Promoting corruption",
+      "Limiting citizens' rights"
+    ],
+    "correct_answer": 1,
+    "justification": "Due process refers to following established legal procedures."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a responsibility of the media?",
+    "options": [
+      "Making laws",
+      "Promoting accountability and transparency",
+      "Enforcing laws",
+      "Conducting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "The media promotes accountability and transparency in governance."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Code of Conduct Bureau in Nigeria?",
+    "options": [
+      "To conduct elections",
+      "To monitor public officers' conduct",
+      "To interpret laws",
+      "To enforce taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The Code of Conduct Bureau monitors the conduct of public officers to prevent corruption."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a right of Nigerian citizens?",
+    "options": [
+      "Right to free housing",
+      "Right to freedom of religion",
+      "Right to free transport",
+      "Right to employment"
+    ],
+    "correct_answer": 1,
+    "justification": "The right to freedom of religion is guaranteed by the Nigerian Constitution."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main objective of the rule of law?",
+    "options": [
+      "To favor the elite",
+      "To ensure equality before the law",
+      "To promote corruption",
+      "To limit citizens' rights"
+    ],
+    "correct_answer": 1,
+    "justification": "The rule of law ensures equality before the law for all citizens."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a feature of a unitary system of government?",
+    "options": [
+      "Division of powers",
+      "Centralized authority",
+      "Independent states",
+      "Dual citizenship"
+    ],
+    "correct_answer": 1,
+    "justification": "A unitary system concentrates authority in the central government."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the significance of the Nigerian flag?",
+    "options": [
+      "Promoting tribalism",
+      "Symbolizing national unity and identity",
+      "Encouraging corruption",
+      "Limiting freedom"
+    ],
+    "correct_answer": 1,
+    "justification": "The Nigerian flag symbolizes national unity and identity."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a democratic principle?",
+    "options": [
+      "Supremacy of the military",
+      "Majority rule with minority rights",
+      "Single-party dominance",
+      "Restriction of freedoms"
+    ],
+    "correct_answer": 1,
+    "justification": "Majority rule with minority rights is a key democratic principle."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Nigerian Police Force?",
+    "options": [
+      "Making laws",
+      "Maintaining law and order",
+      "Conducting elections",
+      "Interpreting laws"
+    ],
+    "correct_answer": 1,
+    "justification": "The Nigerian Police Force maintains law and order in society."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a negative effect of cultism in schools?",
+    "options": [
+      "Promoting academic excellence",
+      "Causing violence and insecurity",
+      "Enhancing unity",
+      "Improving discipline"
+    ],
+    "correct_answer": 1,
+    "justification": "Cultism causes violence and insecurity in schools."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of voter registration?",
+    "options": [
+      "To collect taxes",
+      "To identify eligible voters",
+      "To limit citizens' rights",
+      "To promote corruption"
+    ],
+    "correct_answer": 1,
+    "justification": "Voter registration identifies eligible voters for elections."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of good governance?",
+    "options": [
+      "Corruption",
+      "Transparency",
+      "Nepotism",
+      "Dictatorship"
+    ],
+    "correct_answer": 1,
+    "justification": "Transparency is a hallmark of good governance."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'political apathy'?",
+    "options": [
+      "Active participation in politics",
+      "Lack of interest in political activities",
+      "Promoting elections",
+      "Supporting corruption"
+    ],
+    "correct_answer": 1,
+    "justification": "Political apathy refers to a lack of interest in political activities."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the judiciary?",
+    "options": [
+      "Making laws",
+      "Implementing policies",
+      "Settling disputes",
+      "Conducting elections"
+    ],
+    "correct_answer": 2,
+    "justification": "The judiciary settles disputes and interprets laws."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Ombudsman in Nigeria?",
+    "options": [
+      "To conduct elections",
+      "To investigate complaints against public officials",
+      "To make laws",
+      "To enforce taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The Ombudsman investigates complaints against public officials."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a way to prevent human trafficking?",
+    "options": [
+      "Promoting poverty",
+      "Creating awareness and education",
+      "Encouraging corruption",
+      "Limiting laws"
+    ],
+    "correct_answer": 1,
+    "justification": "Creating awareness and education helps prevent human trafficking."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Nigerian Constitution?",
+    "options": [
+      "To promote tribalism",
+      "To guide governance and protect rights",
+      "To limit citizens' freedoms",
+      "To encourage corruption"
+    ],
+    "correct_answer": 1,
+    "justification": "The Constitution guides governance and protects citizens' rights."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a civic virtue?",
+    "options": [
+      "Dishonesty",
+      "Patriotism",
+      "Corruption",
+      "Nepotism"
+    ],
+    "correct_answer": 1,
+    "justification": "Patriotism is a civic virtue that shows love for one's country."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'equality before the law'?",
+    "options": [
+      "Favoring the elite",
+      "Equal treatment of all under the law",
+      "Discriminating against minorities",
+      "Limiting rights"
+    ],
+    "correct_answer": 1,
+    "justification": "Equality before the law means all individuals are treated equally by the legal system."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of civil society organizations?",
+    "options": [
+      "Making laws",
+      "Advocating for citizens' rights",
+      "Enforcing laws",
+      "Conducting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "Civil society organizations advocate for citizens' rights and welfare."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Nigerian Bar Association?",
+    "options": [
+      "To conduct elections",
+      "To promote legal practice and justice",
+      "To enforce taxes",
+      "To make laws"
+    ],
+    "correct_answer": 1,
+    "justification": "The Nigerian Bar Association promotes legal practice and justice."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a consequence of drug abuse?",
+    "options": [
+      "Improved health",
+      "Social and health problems",
+      "Increased productivity",
+      "Enhanced unity"
+    ],
+    "correct_answer": 1,
+    "justification": "Drug abuse leads to social and health problems."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Electoral Act in Nigeria?",
+    "options": [
+      "To regulate elections",
+      "To enforce taxes",
+      "To make laws",
+      "To limit rights"
+    ],
+    "correct_answer": 0,
+    "justification": "The Electoral Act regulates the conduct of elections in Nigeria."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a responsible citizen?",
+    "options": [
+      "Evading taxes",
+      "Respecting others' rights",
+      "Promoting violence",
+      "Ignoring laws"
+    ],
+    "correct_answer": 1,
+    "justification": "A responsible citizen respects the rights of others."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'fundamental human rights'?",
+    "options": [
+      "Rights granted by the government",
+      "Inalienable rights inherent to all humans",
+      "Rights limited to the elite",
+      "Rights based on wealth"
+    ],
+    "correct_answer": 1,
+    "justification": "Fundamental human rights are inalienable rights inherent to all humans."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a role of the legislature?",
+    "options": [
+      "Enforcing laws",
+      "Making laws",
+      "Interpreting laws",
+      "Conducting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "The legislature is responsible for making laws."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Nigerian coat of arms?",
+    "options": [
+      "To promote tribalism",
+      "To symbolize national unity and strength",
+      "To encourage corruption",
+      "To limit freedom"
+    ],
+    "correct_answer": 1,
+    "justification": "The coat of arms symbolizes Nigeria's unity and strength."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a way to promote national development?",
+    "options": [
+      "Corruption",
+      "Active participation in governance",
+      "Tribalism",
+      "Nepotism"
+    ],
+    "correct_answer": 1,
+    "justification": "Active participation in governance promotes national development."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'accountability' in governance?",
+    "options": [
+      "Avoiding responsibility",
+      "Being answerable for actions",
+      "Promoting corruption",
+      "Limiting transparency"
+    ],
+    "correct_answer": 1,
+    "justification": "Accountability means being answerable for actions and decisions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the executive?",
+    "options": [
+      "Making laws",
+      "Implementing policies",
+      "Interpreting laws",
+      "Conducting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "The executive implements policies and enforces laws."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Independent Corrupt Practices Commission (ICPC)?",
+    "options": [
+      "To conduct elections",
+      "To fight corruption in public offices",
+      "To make laws",
+      "To enforce taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The ICPC fights corruption in public offices."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a civic responsibility?",
+    "options": [
+      "Vandalizing public property",
+      "Reporting crimes",
+      "Promoting discrimination",
+      "Evading taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "Reporting crimes is a civic responsibility to ensure safety."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'patriotism'?",
+    "options": [
+      "Disloyalty to one's country",
+      "Love and devotion to one's country",
+      "Promoting corruption",
+      "Ignoring laws"
+    ],
+    "correct_answer": 1,
+    "justification": "Patriotism refers to love and devotion to one's country."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a feature of a democratic government?",
+    "options": [
+      "Supremacy of the military",
+      "Respect for human rights",
+      "Single-party rule",
+      "Limitation of freedoms"
+    ],
+    "correct_answer": 1,
+    "justification": "Respect for human rights is a feature of a democratic government."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Nigerian Youth Service Corps (NYSC)?",
+    "options": [
+      "To promote tribalism",
+      "To foster national unity and integration",
+      "To enforce laws",
+      "To collect taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The NYSC fosters national unity by deploying youths to different regions."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a consequence of political apathy?",
+    "options": [
+      "Increased participation",
+      "Poor governance",
+      "Improved infrastructure",
+      "Social equality"
+    ],
+    "correct_answer": 1,
+    "justification": "Political apathy leads to poor governance due to lack of citizen involvement."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the National Orientation Agency (NOA)?",
+    "options": [
+      "To conduct elections",
+      "To promote national values and awareness",
+      "To enforce taxes",
+      "To make laws"
+    ],
+    "correct_answer": 1,
+    "justification": "The NOA promotes national values and awareness among citizens."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a fundamental objective of the Nigerian Constitution?",
+    "options": [
+      "Promoting corruption",
+      "Ensuring social justice",
+      "Limiting freedoms",
+      "Encouraging tribalism"
+    ],
+    "correct_answer": 1,
+    "justification": "The Constitution aims to ensure social justice for all citizens."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'civil liberty'?",
+    "options": [
+      "Freedom from government control",
+      "Freedom to break laws",
+      "Freedom to avoid taxes",
+      "Freedom to promote corruption"
+    ],
+    "correct_answer": 0,
+    "justification": "Civil liberty refers to freedom from undue government control."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a way to promote democracy?",
+    "options": [
+      "Suppressing free speech",
+      "Encouraging civic participation",
+      "Promoting dictatorship",
+      "Limiting elections"
+    ],
+    "correct_answer": 1,
+    "justification": "Encouraging civic participation strengthens democracy."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the Supreme Court in Nigeria?",
+    "options": [
+      "Making laws",
+      "Interpreting the Constitution",
+      "Conducting elections",
+      "Enforcing policies"
+    ],
+    "correct_answer": 1,
+    "justification": "The Supreme Court interprets the Constitution and serves as the highest court."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a negative effect of examination malpractice?",
+    "options": [
+      "Improved academic standards",
+      "Undermining educational integrity",
+      "Enhanced credibility",
+      "Increased discipline"
+    ],
+    "correct_answer": 1,
+    "justification": "Examination malpractice undermines the integrity of education."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the purpose of the Public Complaints Commission in Nigeria?",
+    "options": [
+      "To conduct elections",
+      "To address citizens' grievances",
+      "To make laws",
+      "To enforce taxes"
+    ],
+    "correct_answer": 1,
+    "justification": "The Public Complaints Commission addresses citizens' grievances against public officials."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a positive societal value?",
+    "options": [
+      "Corruption",
+      "Integrity",
+      "Nepotism",
+      "Dishonesty"
+    ],
+    "correct_answer": 1,
+    "justification": "Integrity is a positive societal value that promotes trust."
+  },
+  {
+    "subject": "Civic Education",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of 'electoral process'?",
+    "options": [
+      "The process of tax collection",
+      "The process of conducting elections",
+      "The process of law enforcement",
+      "The process of policy implementation"
+    ],
+    "correct_answer": 1,
+    "justification": "The electoral process involves the steps for conducting elections."
+  }
+]

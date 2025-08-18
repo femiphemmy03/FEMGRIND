@@ -1,0 +1,2009 @@
+[
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2x + 5 = 17",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": 2,
+    "justification": "2x + 5 = 17 => 2x = 12 => x = 6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate log₂(16).",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": 2,
+    "justification": "log₂(16) = log₂(2⁴) = 4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a circle with radius 4 cm (use π = 3.142).",
+    "options": ["50.27 cm²", "12.57 cm²", "25.13 cm²", "16 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = πr² = 3.142 × 4² = 3.142 × 16 = 50.272 ≈ 50.27 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If sin(θ) = 0.6 and θ is acute, find cos(θ).",
+    "options": ["0.8", "0.7", "0.6", "0.4"],
+    "correct_answer": 0,
+    "justification": "sin²(θ) + cos²(θ) = 1 => cos²(θ) = 1 - (0.6)² = 1 - 0.36 = 0.64 => cos(θ) = 0.8"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation x² - 7x + 10 = 0.",
+    "options": ["x = 2, 5", "x = 1, 10", "x = -2, -5", "x = 3, 4"],
+    "correct_answer": 0,
+    "justification": "x² - 7x + 10 = (x - 2)(x - 5) = 0 => x = 2, 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the gradient of the line 4x - 3y = 12.",
+    "options": ["4/3", "-4/3", "3/4", "-3/4"],
+    "correct_answer": 0,
+    "justification": "4x - 3y = 12 => 3y = 4x - 12 => y = (4/3)x - 4 => gradient = 4/3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Calculate the median of the numbers 1, 4, 7, 10, 13.",
+    "options": ["4", "7", "10", "6"],
+    "correct_answer": 1,
+    "justification": "Arrange in order: 1, 4, 7, 10, 13 => median = 7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate 2⁴ × 3².",
+    "options": ["72", "144", "288", "96"],
+    "correct_answer": 0,
+    "justification": "2⁴ = 16, 3² = 9 => 16 × 9 = 144"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cube with side length 3 cm.",
+    "options": ["9 cm³", "27 cm³", "81 cm³", "18 cm³"],
+    "correct_answer": 1,
+    "justification": "Volume = side³ = 3³ = 27 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = x² - 2x + 3, find f(4).",
+    "options": ["11", "15", "19", "23"],
+    "correct_answer": 0,
+    "justification": "f(x) = x² - 2x + 3 => f(4) = 4² - 2(4) + 3 = 16 - 8 + 3 = 11"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (8x⁴y²)/(2x²y).",
+    "options": ["4x²y", "4xy", "2x²y", "4x/y"],
+    "correct_answer": 0,
+    "justification": "(8x⁴y²)/(2x²y) = (8/2)(x⁴/x²)(y²/y) = 4x^(4-2)y^(2-1) = 4x²y"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the first 6 terms of the arithmetic sequence: 5, 8, 11, ...",
+    "options": ["78", "81", "84", "87"],
+    "correct_answer": 0,
+    "justification": "a = 5, d = 3, n = 6; Sum = n/2[2a + (n-1)d] = 6/2[2(5) + (6-1)3] = 3[10 + 15] = 3 × 25 = 75"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of tan(30°)?",
+    "options": ["1/√3", "√3", "1", "0"],
+    "correct_answer": 0,
+    "justification": "tan(30°) = 1/√3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of rolling a 4 on a fair six-sided die.",
+    "options": ["1/6", "1/3", "1/4", "1/2"],
+    "correct_answer": 0,
+    "justification": "Probability = 1 favorable outcome / 6 possible outcomes = 1/6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2^(x-2) = 8.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 1,
+    "justification": "2^(x-2) = 8 = 2³ => x - 2 = 3 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the determinant of the matrix [[3, 2], [1, 4]].",
+    "options": ["10", "12", "14", "8"],
+    "correct_answer": 0,
+    "justification": "Determinant = (3 × 4) - (2 × 1) = 12 - 2 = 10"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If the roots of x² - 6x + k = 0 are equal, find k.",
+    "options": ["6", "9", "12", "15"],
+    "correct_answer": 1,
+    "justification": "For equal roots, b² - 4ac = 0; a = 1, b = -6, c = k => (-6)² - 4(1)(k) = 0 => 36 - 4k = 0 => k = 9"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the distance between points (1, 1) and (4, 5).",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 0,
+    "justification": "Distance = √[(4-1)² + (5-1)²] = √[3² + 4²] = √[9 + 16] = √25 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cos(45°)?",
+    "options": ["1/√2", "√3/2", "1/2", "1"],
+    "correct_answer": 0,
+    "justification": "cos(45°) = 1/√2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the mean of the numbers 2, 6, 10, 14, 18.",
+    "options": ["8", "10", "12", "14"],
+    "correct_answer": 1,
+    "justification": "Mean = (2 + 6 + 10 + 14 + 18) / 5 = 50 / 5 = 10"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 4x - 7 = x + 8.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "4x - 7 = x + 8 => 4x - x = 8 + 7 => 3x = 15 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x if log₃(x) = 3.",
+    "options": ["9", "27", "81", "3"],
+    "correct_answer": 1,
+    "justification": "log₃(x) = 3 => x = 3³ = 27"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a triangle with base 6 cm and height 8 cm.",
+    "options": ["24 cm²", "36 cm²", "48 cm²", "12 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = (1/2) × base × height = (1/2) × 6 × 8 = 24 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If tan(θ) = 1 and θ is acute, find sin(θ).",
+    "options": ["1/√2", "√3/2", "1/2", "1"],
+    "correct_answer": 0,
+    "justification": "tan(θ) = 1 => θ = 45° => sin(45°) = 1/√2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation 3x² - 5x - 2 = 0.",
+    "options": ["x = -1/3, 2", "x = 1/3, -2", "x = -1, 2", "x = 1, -2"],
+    "correct_answer": 0,
+    "justification": "3x² - 5x - 2 = (3x + 1)(x - 2) = 0 => x = -1/3, 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the midpoint of the line segment joining (2, 3) and (6, 7).",
+    "options": ["(4, 5)", "(3, 5)", "(5, 4)", "(4, 6)"],
+    "correct_answer": 0,
+    "justification": "Midpoint = [(2+6)/2, (3+7)/2] = [8/2, 10/2] = (4, 5)"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate 4! (factorial).",
+    "options": ["12", "24", "48", "96"],
+    "correct_answer": 1,
+    "justification": "4! = 4 × 3 × 2 × 1 = 24"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the geometric series: 3 + 6 + 12 + 24 (4 terms).",
+    "options": ["45", "48", "50", "60"],
+    "correct_answer": 0,
+    "justification": "a = 3, r = 2, n = 4; Sum = a(r^n - 1)/(r - 1) = 3(2⁴ - 1)/(2 - 1) = 3(16 - 1)/1 = 3 × 15 = 45"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of sin(60°)?",
+    "options": ["1/2", "√3/2", "1/√2", "1"],
+    "correct_answer": 1,
+    "justification": "sin(60°) = √3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of drawing a red card from a standard deck of 52 cards.",
+    "options": ["1/4", "1/3", "1/2", "1/13"],
+    "correct_answer": 2,
+    "justification": "Probability = 26 red cards / 52 cards = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: √(48).",
+    "options": ["4√3", "6√2", "8√3", "4√2"],
+    "correct_answer": 0,
+    "justification": "√48 = √(16 × 3) = 4√3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x if 5x² = 45.",
+    "options": ["3", "-3", "±3", "9"],
+    "correct_answer": 2,
+    "justification": "5x² = 45 => x² = 9 => x = ±3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the surface area of a sphere with radius 3 cm (use π = 3.142).",
+    "options": ["113.11 cm²", "37.70 cm²", "28.27 cm²", "18.85 cm²"],
+    "correct_answer": 0,
+    "justification": "Surface area = 4πr² = 4 × 3.142 × 3² = 4 × 3.142 × 9 = 113.112 ≈ 113.11 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If cos(θ) = 3/5 and θ is acute, find tan(θ).",
+    "options": ["4/3", "3/4", "5/4", "4/5"],
+    "correct_answer": 0,
+    "justification": "cos(θ) = 3/5 => adjacent = 3, hypotenuse = 5 => opposite = √(5² - 3²) = 4 => tan(θ) = 4/3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation x² + 2x - 15 = 0.",
+    "options": ["x = 3, -5", "x = -3, 5", "x = 2, -7", "x = -2, 7"],
+    "correct_answer": 0,
+    "justification": "x² + 2x - 15 = (x + 5)(x - 3) = 0 => x = -5, 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the equation of the line with gradient 2 passing through (1, 3).",
+    "options": ["y = 2x + 1", "y = 2x + 3", "y = 2x - 1", "y = x + 2"],
+    "correct_answer": 0,
+    "justification": "y - y₁ = m(x - x₁) => y - 3 = 2(x - 1) => y = 2x - 2 + 3 => y = 2x + 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the mode of the numbers 2, 3, 3, 4, 4, 4, 5.",
+    "options": ["3", "4", "5", "2"],
+    "correct_answer": 1,
+    "justification": "Mode is the number with the highest frequency: 4 appears 3 times."
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate (2/3) ÷ (4/5).",
+    "options": ["5/6", "8/15", "10/12", "6/5"],
+    "correct_answer": 0,
+    "justification": "(2/3) ÷ (4/5) = (2/3) × (5/4) = 10/12 = 5/6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cylinder with radius 2 cm and height 5 cm (use π = 3.142).",
+    "options": ["62.84 cm³", "31.42 cm³", "20.10 cm³", "12.57 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = πr²h = 3.142 × 2² × 5 = 3.142 × 4 × 5 = 62.84 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = 3x - 7, find f(-2).",
+    "options": ["-13", "-7", "1", "13"],
+    "correct_answer": 0,
+    "justification": "f(x) = 3x - 7 => f(-2) = 3(-2) - 7 = -6 - 7 = -13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (x²y³z)/(xy²z²).",
+    "options": ["x/y", "xy/z", "x/z", "y/z"],
+    "correct_answer": 0,
+    "justification": "(x²y³z)/(xy²z²) = x^(2-1)y^(3-2)z^(1-2) = x/y"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the 7th term of the arithmetic sequence: 1, 4, 7, ...",
+    "options": ["19", "22", "25", "28"],
+    "correct_answer": 0,
+    "justification": "a = 1, d = 3, n = 7; a₇ = a + (n-1)d = 1 + (7-1)3 = 1 + 18 = 19"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cot(45°)?",
+    "options": ["1", "√3", "1/√3", "√2"],
+    "correct_answer": 0,
+    "justification": "cot(45°) = 1/tan(45°) = 1/1 = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of selecting a vowel from the word 'MATH'.",
+    "options": ["1/4", "1/2", "3/4", "1/3"],
+    "correct_answer": 0,
+    "justification": "Vowels = {A}; Total letters = 4; Probability = 1/4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 4^(x+1) = 16.",
+    "options": ["0", "1", "2", "3"],
+    "correct_answer": 1,
+    "justification": "4^(x+1) = 16 = 4² => x + 1 = 2 => x = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the inverse of the matrix [[1, 2], [3, 4]].",
+    "options": ["[[-2, 1], [3/2, -1/2]]", "[[-2, 1], [1, -1]]", "[[2, -1], [-3/2, 1/2]]", "[[1, -2], [-3, 4]]"],
+    "correct_answer": 0,
+    "justification": "Determinant = (1 × 4) - (2 × 3) = 4 - 6 = -2; Inverse = (1/-2)[[4, -2], [-3, 1]] = [[-2, 1], [3/2, -1/2]]"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of k if x - 2 is a factor of x² - kx + 6.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "If x - 2 is a factor, f(2) = 0; f(x) = x² - kx + 6 => f(2) = 4 - 2k + 6 = 10 - 2k = 0 => k = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the angle between vectors a = (2, 3) and b = (4, -1).",
+    "options": ["cos⁻¹(5/√130)", "cos⁻¹(7/√65)", "cos⁻¹(5/√65)", "cos⁻¹(7/√130)"],
+    "correct_answer": 0,
+    "justification": "a·b = (2 × 4) + (3 × -1) = 8 - 3 = 5; |a| = √(2² + 3²) = √13; |b| = √(4² + (-1)²) = √17; cos(θ) = 5/(√13 × √17) = 5/√221 ≈ 5/√130"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Differentiate y = 3x² + 2x with respect to x.",
+    "options": ["6x + 2", "3x + 2", "6x + 1", "3x + 1"],
+    "correct_answer": 0,
+    "justification": "dy/dx = 3 × 2x + 2 = 6x + 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Integrate ∫(2x + 3) dx.",
+    "options": ["x² + 3x + c", "2x² + 3x + c", "x² + 3 + c", "2x² + 3 + c"],
+    "correct_answer": 0,
+    "justification": "∫(2x + 3) dx = x² + 3x + c"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the number of ways to arrange 5 distinct books on a shelf.",
+    "options": ["60", "120", "240", "720"],
+    "correct_answer": 1,
+    "justification": "Number of ways = 5! = 5 × 4 × 3 × 2 × 1 = 120"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, find A ∩ B.",
+    "options": ["{1, 4}", "{2, 3}", "{1, 2}", "{3, 4}"],
+    "correct_answer": 1,
+    "justification": "A ∩ B = {2, 3}"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x if 2x + 3y = 12 and x - y = 1.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 0,
+    "justification": "From x - y = 1, x = y + 1; Substitute into 2x + 3y = 12 => 2(y + 1) + 3y = 12 => 5y + 2 = 12 => 5y = 10 => y = 2 => x = 2 + 1 = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the radius of a circle with area 78.54 cm² (use π = 3.142).",
+    "options": ["4 cm", "5 cm", "6 cm", "7 cm"],
+    "correct_answer": 1,
+    "justification": "Area = πr² => 78.54 = 3.142 × r² => r² = 78.54 / 3.142 = 25 => r = 5 cm"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If sin(θ) = 5/13 and θ is acute, find cos(θ).",
+    "options": ["12/13", "5/12", "13/12", "5/13"],
+    "correct_answer": 0,
+    "justification": "sin²(θ) + cos²(θ) = 1 => cos²(θ) = 1 - (5/13)² = 1 - 25/169 = 144/169 => cos(θ) = 12/13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation 4x² - 8x + 3 = 0.",
+    "options": ["x = 1/2, 3/2", "x = 1, 2", "x = -1/2, -3/2", "x = -1, -2"],
+    "correct_answer": 0,
+    "justification": "4x² - 8x + 3 = (2x - 1)(2x - 3) = 0 => x = 1/2, 3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the slope of the line passing through (2, 4) and (5, 10).",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "Slope = (y₂ - y₁)/(x₂ - x₁) = (10 - 4)/(5 - 2) = 6/3 = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the range of the numbers 3, 7, 2, 9, 4.",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 2,
+    "justification": "Range = Max - Min = 9 - 2 = 7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate 3³ ÷ 9.",
+    "options": ["3", "6", "9", "12"],
+    "correct_answer": 0,
+    "justification": "3³ = 27, 9 = 3² => 27 ÷ 9 = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cone with radius 3 cm and height 4 cm (use π = 3.142).",
+    "options": ["37.70 cm³", "28.27 cm³", "18.85 cm³", "12.57 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = (1/3)πr²h = (1/3) × 3.142 × 3² × 4 = (1/3) × 3.142 × 9 × 4 = 37.704 ≈ 37.70 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = 2x² - 3x + 1, find f(-1).",
+    "options": ["6", "4", "2", "0"],
+    "correct_answer": 0,
+    "justification": "f(x) = 2x² - 3x + 1 => f(-1) = 2(-1)² - 3(-1) + 1 = 2 + 3 + 1 = 6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (9x³)/(3x).",
+    "options": ["3x²", "3x", "9x²", "6x²"],
+    "correct_answer": 0,
+    "justification": "(9x³)/(3x) = (9/3)(x³/x) = 3x^(3-1) = 3x²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the 5th term of the geometric sequence: 2, 6, 18, ...",
+    "options": ["54", "162", "486", "1458"],
+    "correct_answer": 0,
+    "justification": "a = 2, r = 3, n = 5; a₅ = ar^(n-1) = 2 × 3^(5-1) = 2 × 3⁴ = 2 × 81 = 162"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of sin(90°)?",
+    "options": ["0", "1/2", "1", "√3/2"],
+    "correct_answer": 2,
+    "justification": "sin(90°) = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of rolling an even number on a fair six-sided die.",
+    "options": ["1/3", "1/2", "2/3", "1/6"],
+    "correct_answer": 1,
+    "justification": "Even numbers = {2, 4, 6}; Probability = 3/6 = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 5^(x-1) = 25.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "5^(x-1) = 25 = 5² => x - 1 = 2 => x = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the determinant of the matrix [[5, 2], [3, 1]].",
+    "options": ["1", "-1", "11", "-11"],
+    "correct_answer": 0,
+    "justification": "Determinant = (5 × 1) - (2 × 3) = 5 - 6 = -1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of k if the sum of the roots of x² + kx + 4 = 0 is 6.",
+    "options": ["-6", "6", "-3", "3"],
+    "correct_answer": 0,
+    "justification": "Sum of roots = -b/a; a = 1, b = k => -k/1 = 6 => k = -6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the magnitude of the vector (3, 4).",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 0,
+    "justification": "Magnitude = √(3² + 4²) = √(9 + 16) = √25 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Differentiate y = x³ - 4x with respect to x.",
+    "options": ["3x² - 4", "3x² + 4", "x² - 4", "3x - 4"],
+    "correct_answer": 0,
+    "justification": "dy/dx = 3x² - 4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Integrate ∫(3x²) dx.",
+    "options": ["x³ + c", "3x³ + c", "x² + c", "3x + c"],
+    "correct_answer": 0,
+    "justification": "∫(3x²) dx = x³ + c"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the number of ways to choose 3 items from 5 distinct items.",
+    "options": ["10", "15", "20", "60"],
+    "correct_answer": 0,
+    "justification": "Number of ways = C(5,3) = 5!/(3!2!) = (5 × 4 × 3!)/(3! × 2) = 20/2 = 10"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If A = {2, 4, 6} and B = {4, 5, 6}, find A ∪ B.",
+    "options": ["{2, 4}", "{4, 5, 6}", "{2, 4, 5, 6}", "{2, 5, 6}"],
+    "correct_answer": 2,
+    "justification": "A ∪ B = {2, 4, 5, 6}"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for y if 3x + 2y = 8 and x = 2.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "Substitute x = 2 into 3x + 2y = 8 => 3(2) + 2y = 8 => 6 + 2y = 8 => 2y = 2 => y = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the circumference of a circle with diameter 10 cm (use π = 3.142).",
+    "options": ["31.42 cm", "15.71 cm", "62.84 cm", "10 cm"],
+    "correct_answer": 0,
+    "justification": "Circumference = πd = 3.142 × 10 = 31.42 cm"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If tan(θ) = 5/12 and θ is acute, find sin(θ).",
+    "options": ["5/13", "12/13", "5/12", "12/5"],
+    "correct_answer": 0,
+    "justification": "tan(θ) = 5/12 => opposite = 5, adjacent = 12 => hypotenuse = √(5² + 12²) = √169 = 13 => sin(θ) = 5/13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation x² - 3x - 10 = 0.",
+    "options": ["x = 5, -2", "x = -5, 2", "x = 3, -3", "x = -5, -2"],
+    "correct_answer": 0,
+    "justification": "x² - 3x - 10 = (x - 5)(x + 2) = 0 => x = 5, -2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the equation of the line perpendicular to y = 2x + 3 passing through (1, 1).",
+    "options": ["y = -1/2x + 3/2", "y = -2x + 3", "y = 1/2x + 1/2", "y = 2x - 1"],
+    "correct_answer": 0,
+    "justification": "Perpendicular slope = -1/2; Using y - 1 = (-1/2)(x - 1) => y - 1 = -1/2x + 1/2 => y = -1/2x + 3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the variance of the numbers 1, 2, 3, 4, 5.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "Mean = 3; Variance = [(1-3)² + (2-3)² + (3-3)² + (4-3)² + (5-3)²]/5 = (4 + 1 + 0 + 1 + 4)/5 = 10/5 = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate (1/2 + 1/3) × 6.",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": 0,
+    "justification": "(1/2 + 1/3) = (3/6 + 2/6) = 5/6; (5/6) × 6 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a rectangular prism with dimensions 4 cm, 5 cm, and 6 cm.",
+    "options": ["60 cm³", "90 cm³", "120 cm³", "150 cm³"],
+    "correct_answer": 2,
+    "justification": "Volume = length × width × height = 4 × 5 × 6 = 120 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = x³ - 2x² + 1, find f(1).",
+    "options": ["0", "1", "2", "3"],
+    "correct_answer": 0,
+    "justification": "f(x) = x³ - 2x² + 1 => f(1) = 1³ - 2(1)² + 1 = 1 - 2 + 1 = 0"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (12x²y)/(4xy²).",
+    "options": ["3x/y", "3y/x", "4x/y", "4y/x"],
+    "correct_answer": 0,
+    "justification": "(12x²y)/(4xy²) = (12/4)(x²/x)(y/y²) = 3x^(2-1)y^(1-2) = 3x/y"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the 6th term of the arithmetic sequence: 7, 10, 13, ...",
+    "options": ["19", "22", "25", "28"],
+    "correct_answer": 2,
+    "justification": "a = 7, d = 3, n = 6; a₆ = a + (n-1)d = 7 + (6-1)3 = 7 + 15 = 22"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cos(30°)?",
+    "options": ["1/2", "√3/2", "1/√2", "1"],
+    "correct_answer": 1,
+    "justification": "cos(30°) = √3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of drawing a king from a standard deck of 52 cards.",
+    "options": ["1/13", "1/26", "1/4", "1/52"],
+    "correct_answer": 0,
+    "justification": "Probability = 4 kings / 52 cards = 1/13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 3^(x+2) = 81.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "3^(x+2) = 81 = 3⁴ => x + 2 = 4 => x = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the trace of the matrix [[2, 3], [4, 5]].",
+    "options": ["5", "7", "8", "10"],
+    "correct_answer": 2,
+    "justification": "Trace = sum of diagonal elements = 2 + 5 = 7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of k if the product of the roots of x² - 3x + k = 0 is 2.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "Product of roots = c/a; a = 1, c = k => k/1 = 2 => k = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the unit vector in the direction of (3, 4).",
+    "options": ["(3/5, 4/5)", "(3/4, 4/3)", "(5/3, 5/4)", "(1/3, 1/4)"],
+    "correct_answer": 0,
+    "justification": "Magnitude = √(3² + 4²) = 5; Unit vector = (3/5, 4/5)"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Differentiate y = 5x - x² with respect to x.",
+    "options": ["5 - 2x", "5 - x", "5 + 2x", "-2x"],
+    "correct_answer": 0,
+    "justification": "dy/dx = 5 - 2x"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Integrate ∫(4x + 1) dx.",
+    "options": ["2x² + x + c", "4x² + x + c", "2x² + c", "4x² + c"],
+    "correct_answer": 0,
+    "justification": "∫(4x + 1) dx = 2x² + x + c"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the number of ways to arrange the letters of the word 'CAT'.",
+    "options": ["6", "12", "24", "36"],
+    "correct_answer": 0,
+    "justification": "Number of ways = 3! = 3 × 2 × 1 = 6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If A = {1, 3, 5} and B = {2, 4, 6}, find A ∩ B.",
+    "options": ["{1, 2}", "{}", "{3, 5}", "{2, 4}"],
+    "correct_answer": 1,
+    "justification": "A ∩ B = {} (no common elements)"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x if 2x + y = 7 and x - 2y = 1.",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": 0,
+    "justification": "Solve: 2x + y = 7, x - 2y = 1; From second, x = 2y + 1; Substitute: 2(2y + 1) + y = 7 => 4y + 2 + y = 7 => 5y = 5 => y = 1 => x = 2(1) + 1 = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a sector with radius 6 cm and angle 60° (use π = 3.142).",
+    "options": ["18.85 cm²", "37.70 cm²", "56.56 cm²", "12.57 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = (θ/360) × πr² = (60/360) × 3.142 × 6² = (1/6) × 3.142 × 36 = 18.852 ≈ 18.85 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If cos(θ) = 8/17 and θ is acute, find sin(θ).",
+    "options": ["15/17", "8/15", "17/15", "8/17"],
+    "correct_answer": 0,
+    "justification": "cos²(θ) + sin²(θ) = 1 => sin²(θ) = 1 - (8/17)² = 1 - 64/289 = 225/289 => sin(θ) = 15/17"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation 2x² + 3x - 5 = 0.",
+    "options": ["x = 1, -5/2", "x = -1, 5/2", "x = 2, -5", "x = -2, 5"],
+    "correct_answer": 0,
+    "justification": "2x² + 3x - 5 = (2x + 5)(x - 1) = 0 => x = -5/2, 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the equation of the line parallel to y = 3x - 2 passing through (2, 4).",
+    "options": ["y = 3x - 2", "y = 3x + 2", "y = 3x - 1", "y = 2x + 4"],
+    "correct_answer": 0,
+    "justification": "Parallel slope = 3; Using y - 4 = 3(x - 2) => y - 4 = 3x - 6 => y = 3x - 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the standard deviation of the numbers 2, 4, 6.",
+    "options": ["√2", "2", "√3", "3"],
+    "correct_answer": 0,
+    "justification": "Mean = 4; Variance = [(2-4)² + (4-4)² + (6-4)²]/3 = (4 + 0 + 4)/3 = 8/3; Standard deviation = √(8/3) ≈ √2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate (2/5) × (5/8).",
+    "options": ["1/4", "1/2", "3/4", "1/8"],
+    "correct_answer": 0,
+    "justification": "(2/5) × (5/8) = 2/8 = 1/4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a sphere with radius 2 cm (use π = 3.142).",
+    "options": ["33.49 cm³", "16.75 cm³", "8.37 cm³", "25.13 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = (4/3)πr³ = (4/3) × 3.142 × 2³ = (4/3) × 3.142 × 8 = 33.493 ≈ 33.49 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = 4x - 3, find f(0).",
+    "options": ["-3", "0", "3", "4"],
+    "correct_answer": 0,
+    "justification": "f(x) = 4x - 3 => f(0) = 4(0) - 3 = -3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (16x⁵)/(4x²).",
+    "options": ["4x³", "4x²", "8x³", "8x²"],
+    "correct_answer": 0,
+    "justification": "(16x⁵)/(4x²) = (16/4)(x⁵/x²) = 4x^(5-2) = 4x³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the 4th term of the geometric sequence: 1, 3, 9, ...",
+    "options": ["27", "81", "243", "729"],
+    "correct_answer": 0,
+    "justification": "a = 1, r = 3, n = 4; a₄ = ar^(n-1) = 1 × 3^(4-1) = 3³ = 27"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of tan(60°)?",
+    "options": ["1/√3", "√3", "1", "√2"],
+    "correct_answer": 1,
+    "justification": "tan(60°) = √3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of selecting a consonant from the word 'BOOK'.",
+    "options": ["1/4", "2/4", "3/4", "1/2"],
+    "correct_answer": 2,
+    "justification": "Consonants = {B, K}; Total letters = 4; Probability = 2/4 = 3/4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2^(2x) = 16.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "2^(2x) = 16 = 2⁴ => 2x = 4 => x = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the determinant of the matrix [[4, 3], [2, 1]].",
+    "options": ["-2", "2", "-4", "4"],
+    "correct_answer": 0,
+    "justification": "Determinant = (4 × 1) - (3 × 2) = 4 - 6 = -2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 4x - 8 = 12",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "4x - 8 = 12 => 4x = 20 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of log₃(27)?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "log₃(27) = log₃(3³) = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a circle with radius 5 cm (use π = 3.142).",
+    "options": ["78.55 cm²", "15.71 cm²", "31.42 cm²", "25 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = πr² = 3.142 × 5² = 3.142 × 25 = 78.55 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If cos(θ) = 0.6 and θ is acute, what is sin(θ)?",
+    "options": ["0.8", "0.6", "0.4", "0.2"],
+    "correct_answer": 0,
+    "justification": "cos²(θ) + sin²(θ) = 1 => sin²(θ) = 1 - (0.6)² = 1 - 0.36 = 0.64 => sin(θ) = 0.8"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve the equation x² - 6x + 8 = 0.",
+    "options": ["x = 2, 4", "x = 1, 8", "x = -2, -4", "x = 3, 5"],
+    "correct_answer": 0,
+    "justification": "x² - 6x + 8 = (x - 2)(x - 4) = 0 => x = 2, 4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the gradient of the line 5x + 2y = 10.",
+    "options": ["-5/2", "5/2", "-2/5", "2/5"],
+    "correct_answer": 0,
+    "justification": "5x + 2y = 10 => 2y = -5x + 10 => y = (-5/2)x + 5 => gradient = -5/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Calculate the median of the numbers 2, 5, 8, 11, 14.",
+    "options": ["5", "8", "11", "7"],
+    "correct_answer": 1,
+    "justification": "Arrange in order: 2, 5, 8, 11, 14 => median = 8"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate 2³ × 5².",
+    "options": ["40", "100", "200", "400"],
+    "correct_answer": 2,
+    "justification": "2³ = 8, 5² = 25 => 8 × 25 = 200"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cube with side length 6 cm.",
+    "options": ["36 cm³", "108 cm³", "216 cm³", "144 cm³"],
+    "correct_answer": 2,
+    "justification": "Volume = side³ = 6³ = 216 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = 3x² - 4x + 1, find f(2).",
+    "options": ["5", "9", "13", "17"],
+    "correct_answer": 0,
+    "justification": "f(x) = 3x² - 4x + 1 => f(2) = 3(2²) - 4(2) + 1 = 12 - 8 + 1 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (2x²y³)/(4xy²).",
+    "options": ["x/2y", "x/y", "2xy", "x/2"],
+    "correct_answer": 0,
+    "justification": "(2x²y³)/(4xy²) = (2/4)(x²/x)(y³/y²) = (1/2)x^(2-1)y^(3-2) = x/2y"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the first 10 terms of the arithmetic sequence: 3, 7, 11, ...",
+    "options": ["200", "210", "220", "230"],
+    "correct_answer": 1,
+    "justification": "a = 3, d = 4, n = 10; Sum = n/2[2a + (n-1)d] = 10/2[2(3) + (10-1)4] = 5[6 + 36] = 5 × 42 = 210"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of tan(45°)?",
+    "options": ["0", "1", "√2", "√3"],
+    "correct_answer": 1,
+    "justification": "tan(45°) = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of rolling a 6 on a fair six-sided die.",
+    "options": ["1/6", "1/3", "1/2", "1/4"],
+    "correct_answer": 0,
+    "justification": "Probability = 1 favorable outcome / 6 possible outcomes = 1/6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2^(x+1) = 8.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "2^(x+1) = 8 = 2³ => x + 1 = 3 => x = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a rectangle with length 8 cm and width 5 cm.",
+    "options": ["40 cm²", "13 cm²", "26 cm²", "48 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = length × width = 8 × 5 = 40 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: √50.",
+    "options": ["5√2", "10√2", "5√5", "2√5"],
+    "correct_answer": 0,
+    "justification": "√50 = √(25 × 2) = 5√2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 3x + 5 = 2x + 7.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "3x + 5 = 2x + 7 => 3x - 2x = 7 - 5 => x = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of sin(30°).",
+    "options": ["0", "1/2", "√3/2", "1"],
+    "correct_answer": 1,
+    "justification": "sin(30°) = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the sum of the angles in a triangle?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "correct_answer": 1,
+    "justification": "The sum of angles in a triangle is always 180°."
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x² - 4 = 0.",
+    "options": ["x = ±1", "x = ±2", "x = ±3", "x = ±4"],
+    "correct_answer": 1,
+    "justification": "x² - 4 = (x - 2)(x + 2) = 0 => x = ±2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the mean of the numbers 3, 6, 9, 12, 15.",
+    "options": ["6", "9", "12", "15"],
+    "correct_answer": 1,
+    "justification": "Mean = (3 + 6 + 9 + 12 + 15) / 5 = 45 / 5 = 9"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Evaluate: 4! (factorial).",
+    "options": ["12", "24", "36", "48"],
+    "correct_answer": 1,
+    "justification": "4! = 4 × 3 × 2 × 1 = 24"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the circumference of a circle with diameter 14 cm (use π = 22/7).",
+    "options": ["44 cm", "22 cm", "88 cm", "66 cm"],
+    "correct_answer": 0,
+    "justification": "Circumference = πd = (22/7) × 14 = 44 cm"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If a = 2 and b = 3, find the value of a² + b².",
+    "options": ["5", "10", "13", "25"],
+    "correct_answer": 2,
+    "justification": "a² + b² = 2² + 3² = 4 + 9 = 13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 5^(x-1) = 25.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "5^(x-1) = 25 = 5² => x - 1 = 2 => x = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a trapezium with parallel sides 6 cm and 10 cm, and height 4 cm.",
+    "options": ["32 cm²", "40 cm²", "48 cm²", "64 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = (1/2)(a + b)h = (1/2)(6 + 10) × 4 = (1/2) × 16 × 4 = 32 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 3/4 + 1/2?",
+    "options": ["5/4", "3/2", "1/4", "7/4"],
+    "correct_answer": 0,
+    "justification": "3/4 + 1/2 = 3/4 + 2/4 = 5/4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the roots of the quadratic equation x² + 2x - 3 = 0.",
+    "options": ["x = 1, -3", "x = -1, 3", "x = 2, -1", "x = -2, 1"],
+    "correct_answer": 0,
+    "justification": "x² + 2x - 3 = (x + 3)(x - 1) = 0 => x = 1, -3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cos(60°)?",
+    "options": ["0", "1/2", "√3/2", "1"],
+    "correct_answer": 1,
+    "justification": "cos(60°) = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the mode of the numbers 2, 3, 3, 4, 5, 5, 5, 6.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "Mode is the number that appears most frequently: 5 appears three times."
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (3x³)/(9x).",
+    "options": ["x²/3", "x²", "3x²", "x/3"],
+    "correct_answer": 0,
+    "justification": "(3x³)/(9x) = (3/9)(x³/x) = (1/3)x^(3-1) = x²/3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the geometric sequence: 2, 4, 8, 16 (4 terms).",
+    "options": ["28", "30", "32", "34"],
+    "correct_answer": 0,
+    "justification": "a = 2, r = 2, n = 4; Sum = a(r^n - 1)/(r - 1) = 2(2⁴ - 1)/(2 - 1) = 2(16 - 1)/1 = 30"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 2 + 3 × 4?",
+    "options": ["20", "14", "12", "10"],
+    "correct_answer": 1,
+    "justification": "Using BODMAS: 3 × 4 = 12, then 2 + 12 = 14"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the distance between points (2, 3) and (5, 7).",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 0,
+    "justification": "Distance = √[(5-2)² + (7-3)²] = √[3² + 4²] = √(9 + 16) = √25 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If f(x) = x³ - 2x, find f(-1).",
+    "options": ["-1", "0", "1", "2"],
+    "correct_answer": 0,
+    "justification": "f(x) = x³ - 2x => f(-1) = (-1)³ - 2(-1) = -1 + 2 = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 5! ÷ 3! ?",
+    "options": ["20", "40", "60", "120"],
+    "correct_answer": 0,
+    "justification": "5! = 120, 3! = 6 => 120/6 = 20"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cylinder with radius 3 cm and height 5 cm (use π = 3.142).",
+    "options": ["141.39 cm³", "94.26 cm³", "47.13 cm³", "282.78 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = πr²h = 3.142 × 3² × 5 = 3.142 × 9 × 5 = 141.39 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: |x - 3| = 5.",
+    "options": ["x = 8, -2", "x = 5, -5", "x = 3, -3", "x = 8, -8"],
+    "correct_answer": 0,
+    "justification": "|x - 3| = 5 => x - 3 = 5 or x - 3 = -5 => x = 8 or x = -2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the range of the numbers 4, 7, 2, 9, 5.",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 0,
+    "justification": "Range = max - min = 9 - 2 = 7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 2/3 ÷ 4/5?",
+    "options": ["5/6", "8/15", "10/12", "15/8"],
+    "correct_answer": 0,
+    "justification": "2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the determinant of the matrix [[2, 3], [1, 4]].",
+    "options": ["5", "7", "8", "11"],
+    "correct_answer": 0,
+    "justification": "Determinant = (2 × 4) - (3 × 1) = 8 - 3 = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "If sin(θ) = 0.8, what is cos²(θ)?",
+    "options": ["0.36", "0.64", "0.2", "0.8"],
+    "correct_answer": 0,
+    "justification": "sin²(θ) + cos²(θ) = 1 => cos²(θ) = 1 - sin²(θ) = 1 - (0.8)² = 1 - 0.64 = 0.36"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the first 5 terms of the sequence: 1, 3, 5, 7, 9.",
+    "options": ["20", "25", "30", "35"],
+    "correct_answer": 0,
+    "justification": "Sum = 1 + 3 + 5 + 7 + 9 = 25"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2x/3 + 4 = 10.",
+    "options": ["3", "6", "9", "12"],
+    "correct_answer": 2,
+    "justification": "2x/3 + 4 = 10 => 2x/3 = 6 => 2x = 18 => x = 9"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 3² + 4²?",
+    "options": ["25", "16", "20", "7"],
+    "correct_answer": 0,
+    "justification": "3² + 4² = 9 + 16 = 25"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a sector of a circle with radius 7 cm and sector angle 60° (use π = 22/7).",
+    "options": ["22 cm²", "44 cm²", "66 cm²", "88 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = (θ/360) × πr² = (60/360) × (22/7) × 7² = (1/6) × 22 × 7 = 22 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 3x² - 12 = 0.",
+    "options": ["x = ±2", "x = ±3", "x = ±4", "x = ±5"],
+    "correct_answer": 0,
+    "justification": "3x² - 12 = 0 => x² = 4 => x = ±2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the probability of drawing an ace from a standard deck of 52 cards?",
+    "options": ["1/13", "1/26", "1/52", "4/52"],
+    "correct_answer": 0,
+    "justification": "There are 4 aces in 52 cards => Probability = 4/52 = 1/13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x in the equation: log₂(x) = 4.",
+    "options": ["8", "16", "32", "64"],
+    "correct_answer": 1,
+    "justification": "log₂(x) = 4 => x = 2⁴ = 16"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the slope-intercept form of the line 3x - 4y = 12?",
+    "options": ["y = (3/4)x - 3", "y = (4/3)x + 3", "y = -(3/4)x + 3", "y = -(4/3)x - 3"],
+    "correct_answer": 0,
+    "justification": "3x - 4y = 12 => -4y = -3x + 12 => y = (3/4)x - 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a cone with radius 3 cm and height 4 cm (use π = 3.142).",
+    "options": ["37.704 cm³", "113.112 cm³", "56.556 cm³", "28.278 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = (1/3)πr²h = (1/3) × 3.142 × 3² × 4 = (1/3) × 3.142 × 9 × 4 = 37.704 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (2/5) × (15/4).",
+    "options": ["3/2", "2/3", "5/6", "6/5"],
+    "correct_answer": 0,
+    "justification": "(2/5) × (15/4) = (2 × 15)/(5 × 4) = 30/20 = 3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: 2x - 3 = x + 5.",
+    "options": ["6", "7", "8", "9"],
+    "correct_answer": 2,
+    "justification": "2x - 3 = x + 5 => 2x - x = 5 + 3 => x = 8"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of tan(30°)?",
+    "options": ["1/√3", "√3", "1", "0"],
+    "correct_answer": 0,
+    "justification": "tan(30°) = 1/√3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a parallelogram with base 8 cm and height 5 cm.",
+    "options": ["40 cm²", "48 cm²", "32 cm²", "24 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = base × height = 8 × 5 = 40 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 4^(x+2) = 64.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "4^(x+2) = 64 = 4³ => x + 2 = 3 => x = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the median of the numbers 1, 3, 5, 7, 9, 11?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 0,
+    "justification": "Arrange in order: 1, 3, 5, 7, 9, 11 => median = (5 + 7)/2 = 6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: 3√8.",
+    "options": ["6√2", "3√2", "8√3", "2√3"],
+    "correct_answer": 0,
+    "justification": "√8 = √(4 × 2) = 2√2 => 3√8 = 3 × 2√2 = 6√2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the first 8 terms of the sequence: 1, 2, 4, 8, ...",
+    "options": ["255", "256", "510", "511"],
+    "correct_answer": 0,
+    "justification": "a = 1, r = 2, n = 8; Sum = a(r^n - 1)/(r - 1) = 1(2⁸ - 1)/(2 - 1) = (256 - 1)/1 = 255"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 5 - 2 × 3?",
+    "options": ["-1", "1", "9", "15"],
+    "correct_answer": 0,
+    "justification": "Using BODMAS: 2 × 3 = 6, then 5 - 6 = -1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the equation of the line through (1, 2) with slope 3.",
+    "options": ["y = 3x - 1", "y = 3x + 1", "y = 2x + 1", "y = 2x - 1"],
+    "correct_answer": 0,
+    "justification": "y - y₁ = m(x - x₁) => y - 2 = 3(x - 1) => y = 3x - 3 + 2 => y = 3x - 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x² + 5x + 6 = 0.",
+    "options": ["x = -2, -3", "x = -1, -6", "x = 2, 3", "x = 1, 6"],
+    "correct_answer": 0,
+    "justification": "x² + 5x + 6 = (x + 2)(x + 3) = 0 => x = -2, -3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 2/5 + 3/10?",
+    "options": ["7/10", "1/2", "4/5", "9/10"],
+    "correct_answer": 0,
+    "justification": "2/5 + 3/10 = 4/10 + 3/10 = 7/10"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a triangle with sides 3 cm, 4 cm, and 5 cm.",
+    "options": ["6 cm²", "8 cm²", "10 cm²", "12 cm²"],
+    "correct_answer": 0,
+    "justification": "Using Heron's formula: s = (3+4+5)/2 = 6; Area = √[6(6-3)(6-4)(6-5)] = √[6×3×2×1] = √36 = 6 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of sin²(45°) + cos²(45°)?",
+    "options": ["0", "1/2", "1", "2"],
+    "correct_answer": 2,
+    "justification": "sin²(45°) + cos²(45°) = (√2/2)² + (√2/2)² = 1/2 + 1/2 = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: 3x - 7 = 8.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "3x - 7 = 8 => 3x = 15 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 4³ ÷ 2²?",
+    "options": ["8", "16", "32", "64"],
+    "correct_answer": 1,
+    "justification": "4³ = 64, 2² = 4 => 64/4 = 16"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the midpoint of the line segment joining (2, 3) and (6, 7).",
+    "options": ["(4, 5)", "(3, 5)", "(5, 4)", "(4, 6)"],
+    "correct_answer": 0,
+    "justification": "Midpoint = [(2+6)/2, (3+7)/2] = [4, 5]"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (x² + 2x + 1)/(x + 1).",
+    "options": ["x + 1", "x - 1", "x + 2", "x"],
+    "correct_answer": 0,
+    "justification": "(x² + 2x + 1)/(x + 1) = (x + 1)²/(x + 1) = x + 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 6C2 (combinations)?",
+    "options": ["12", "15", "20", "30"],
+    "correct_answer": 1,
+    "justification": "6C2 = 6!/(2!(6-2)!) = (6×5)/(2×1) = 15"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: log₁₀(100) = x.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "log₁₀(100) = log₁₀(10²) = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the surface area of a cube with side length 4 cm?",
+    "options": ["64 cm²", "96 cm²", "128 cm²", "144 cm²"],
+    "correct_answer": 0,
+    "justification": "Surface area = 6a² = 6 × 4² = 6 × 16 = 96 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2x + 3y = 12 and x + y = 5.",
+    "options": ["x = 2, y = 3", "x = 3, y = 2", "x = 4, y = 1", "x = 1, y = 4"],
+    "correct_answer": 1,
+    "justification": "From x + y = 5, x = 5 - y. Substitute into 2x + 3y = 12: 2(5 - y) + 3y = 12 => 10 - 2y + 3y = 12 => y = 2. Then x = 5 - 2 = 3."
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cos(0°)?",
+    "options": ["0", "1/2", "1", "√3/2"],
+    "correct_answer": 2,
+    "justification": "cos(0°) = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the range of the numbers 10, 15, 20, 25, 30.",
+    "options": ["15", "20", "25", "30"],
+    "correct_answer": 0,
+    "justification": "Range = max - min = 30 - 10 = 20"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (4x²)/(2x).",
+    "options": ["2x", "4x", "x", "2"],
+    "correct_answer": 0,
+    "justification": "(4x²)/(2x) = (4/2)(x²/x) = 2x"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 3/5 × 10/9?",
+    "options": ["2/3", "3/5", "5/6", "2/5"],
+    "correct_answer": 0,
+    "justification": "3/5 × 10/9 = (3 × 10)/(5 × 9) = 30/45 = 2/3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: x² - 2x - 8 = 0.",
+    "options": ["x = 4, -2", "x = 2, -4", "x = 3, -5", "x = -3, 5"],
+    "correct_answer": 0,
+    "justification": "x² - 2x - 8 = (x - 4)(x + 2) = 0 => x = 4, -2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of sin(90°)?",
+    "options": ["0", "1/2", "√3/2", "1"],
+    "correct_answer": 3,
+    "justification": "sin(90°) = 1"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a square with side length 9 cm.",
+    "options": ["36 cm²", "81 cm²", "72 cm²", "64 cm²"],
+    "correct_answer": 1,
+    "justification": "Area = side² = 9² = 81 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 3^(x-2) = 27.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "3^(x-2) = 27 = 3³ => x - 2 = 3 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the mode of the numbers 1, 2, 2, 3, 3, 3, 4?",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 2,
+    "justification": "Mode is the number that appears most frequently: 3 appears three times."
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: 2x + 5 = 3x - 2.",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": 2,
+    "justification": "2x + 5 = 3x - 2 => 5 + 2 = 3x - 2x => x = 7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 4/7 + 2/7?",
+    "options": ["6/7", "2/7", "4/7", "8/7"],
+    "correct_answer": 0,
+    "justification": "4/7 + 2/7 = (4 + 2)/7 = 6/7"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a circle with diameter 10 cm (use π = 3.142).",
+    "options": ["78.55 cm²", "31.42 cm²", "157.1 cm²", "314.2 cm²"],
+    "correct_answer": 0,
+    "justification": "Radius = 10/2 = 5 cm; Area = πr² = 3.142 × 5² = 3.142 × 25 = 78.55 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x/2 + 3 = 7.",
+    "options": ["6", "7", "8", "9"],
+    "correct_answer": 0,
+    "justification": "x/2 + 3 = 7 => x/2 = 4 => x = 8"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 3! × 2! ?",
+    "options": ["6", "12", "18", "24"],
+    "correct_answer": 1,
+    "justification": "3! = 6, 2! = 2 => 6 × 2 = 12"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: 4x - 2 = 2x + 6.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "4x - 2 = 2x + 6 => 4x - 2x = 6 + 2 => 2x = 8 => x = 4"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of cos(45°)?",
+    "options": ["1/2", "√2/2", "√3/2", "1"],
+    "correct_answer": 1,
+    "justification": "cos(45°) = √2/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the sum of the first 6 terms of the sequence: 2, 4, 6, 8, 10, 12.",
+    "options": ["36", "42", "48", "54"],
+    "correct_answer": 0,
+    "justification": "Sum = 2 + 4 + 6 + 8 + 10 + 12 = 42"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x² - 9 = 0.",
+    "options": ["x = ±2", "x = ±3", "x = ±4", "x = ±5"],
+    "correct_answer": 1,
+    "justification": "x² - 9 = (x - 3)(x + 3) = 0 => x = ±3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 5/6 - 1/3?",
+    "options": ["1/2", "1/3", "2/3", "1/6"],
+    "correct_answer": 0,
+    "justification": "5/6 - 1/3 = 5/6 - 2/6 = 3/6 = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a rectangle with length 12 cm and width 7 cm.",
+    "options": ["84 cm²", "96 cm²", "72 cm²", "108 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = length × width = 12 × 7 = 84 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: √72.",
+    "options": ["6√2", "8√2", "4√3", "3√2"],
+    "correct_answer": 0,
+    "justification": "√72 = √(36 × 2) = 6√2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 2 + 3 × 5 - 4?",
+    "options": ["13", "15", "17", "19"],
+    "correct_answer": 0,
+    "justification": "Using BODMAS: 3 × 5 = 15, 2 + 15 = 17, 17 - 4 = 13"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: 5x/2 = 15.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 3,
+    "justification": "5x/2 = 15 => 5x = 30 => x = 6"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of sin(60°)?",
+    "options": ["1/2", "√2/2", "√3/2", "1"],
+    "correct_answer": 2,
+    "justification": "sin(60°) = √3/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the determinant of the matrix [[1, 2], [3, 4]].",
+    "options": ["-2", "2", "-3", "3"],
+    "correct_answer": 0,
+    "justification": "Determinant = (1 × 4) - (2 × 3) = 4 - 6 = -2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 3x + 4 = 2x + 9.",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": 2,
+    "justification": "3x + 4 = 2x + 9 => 3x - 2x = 9 - 4 => x = 5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 2³ × 3²?",
+    "options": ["72", "48", "36", "24"],
+    "correct_answer": 0,
+    "justification": "2³ = 8, 3² = 9 => 8 × 9 = 72"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the area of a triangle with base 10 cm and height 6 cm.",
+    "options": ["30 cm²", "60 cm²", "15 cm²", "45 cm²"],
+    "correct_answer": 0,
+    "justification": "Area = (1/2) × base × height = (1/2) × 10 × 6 = 30 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x² + 6x + 9 = 0.",
+    "options": ["x = -3", "x = 3", "x = ±3", "x = ±6"],
+    "correct_answer": 0,
+    "justification": "x² + 6x + 9 = (x + 3)² = 0 => x = -3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 4/5 ÷ 2/3?",
+    "options": ["6/5", "8/15", "5/6", "15/8"],
+    "correct_answer": 0,
+    "justification": "4/5 ÷ 2/3 = 4/5 × 3/2 = 12/10 = 6/5"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the value of x: log₅(25) = x.",
+    "options": ["1", "2", "3", "4"],
+    "correct_answer": 1,
+    "justification": "log₅(25) = log₅(5²) = 2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the surface area of a sphere with radius 3 cm (use π = 3.142)?",
+    "options": ["113.112 cm²", "37.704 cm²", "75.408 cm²", "226.224 cm²"],
+    "correct_answer": 0,
+    "justification": "Surface area = 4πr² = 4 × 3.142 × 3² = 4 × 3.142 × 9 = 113.112 cm²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: 2x + 3 = 9.",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": 1,
+    "justification": "2x + 3 = 9 => 2x = 6 => x = 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 5² - 3²?",
+    "options": ["16", "25", "34", "9"],
+    "correct_answer": 0,
+    "justification": "5² - 3² = 25 - 9 = 16"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the probability of tossing a head on a fair coin.",
+    "options": ["1/4", "1/3", "1/2", "2/3"],
+    "correct_answer": 2,
+    "justification": "Probability = 1 favorable outcome / 2 possible outcomes = 1/2"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Solve for x: x² - 5x + 6 = 0.",
+    "options": ["x = 2, 3", "x = 1, 6", "x = -2, -3", "x = 5, 1"],
+    "correct_answer": 0,
+    "justification": "x² - 5x + 6 = (x - 2)(x - 3) = 0 => x = 2, 3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of tan(60°)?",
+    "options": ["1/√3", "√3", "1", "0"],
+    "correct_answer": 1,
+    "justification": "tan(60°) = √3"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Find the volume of a rectangular prism with length 5 cm, width 4 cm, and height 3 cm.",
+    "options": ["60 cm³", "48 cm³", "36 cm³", "72 cm³"],
+    "correct_answer": 0,
+    "justification": "Volume = length × width × height = 5 × 4 × 3 = 60 cm³"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Simplify: (6x⁴)/(3x²).",
+    "options": ["2x²", "3x²", "2x", "3x"],
+    "correct_answer": 0,
+    "justification": "(6x⁴)/(3x²) = (6/3)(x⁴/x²) = 2x^(4-2) = 2x²"
+  },
+  {
+    "subject": "Mathematics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the value of 3/8 + 5/8?",
+    "options": ["1", "7/8", "8/8", "6/8"],
+    "correct_answer": 0,
+    "justification": "3/8 + 5/8 = (3 + 5)/8 = 8/8 = 1"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the primary objective of a business organization?",
+    "options": ["Charity", "Profit maximization", "Employee welfare", "Community service"],
+    "correct_answer": 1,
+    "justification": "The primary objective of most business organizations is to maximize profit."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a feature of a sole proprietorship?",
+    "options": ["Limited liability", "Single ownership", "Public ownership", "Government control"],
+    "correct_answer": 1,
+    "justification": "A sole proprietorship is characterized by single ownership with full control by one person."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the buying and selling of goods and services?",
+    "options": ["Production", "Trade", "Distribution", "Consumption"],
+    "correct_answer": 1,
+    "justification": "Trade involves the exchange of goods and services between buyers and sellers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which document is issued by a seller to indicate the amount owed by a buyer?",
+    "options": ["Receipt", "Invoice", "Cheque", "Voucher"],
+    "correct_answer": 1,
+    "justification": "An invoice is a document issued by a seller to a buyer indicating the amount owed."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of promoting and selling products or services?",
+    "options": ["Production", "Marketing", "Distribution", "Finance"],
+    "correct_answer": 1,
+    "justification": "Marketing involves activities to promote and sell products or services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of insurance that covers loss of goods at sea?",
+    "options": ["Life insurance", "Marine insurance", "Fire insurance", "Health insurance"],
+    "correct_answer": 1,
+    "justification": "Marine insurance covers the loss or damage of goods during sea transport."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business owned by two or more individuals?",
+    "options": ["Sole proprietorship", "Partnership", "Corporation", "Cooperative"],
+    "correct_answer": 1,
+    "justification": "A partnership is a business owned and managed by two or more individuals."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a commercial bank?",
+    "options": ["Issue currency", "Provide loans", "Control money supply", "Set fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Commercial banks provide loans to individuals and businesses."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the physical movement of goods from one place to another?",
+    "options": ["Marketing", "Transportation", "Warehousing", "Production"],
+    "correct_answer": 1,
+    "justification": "Transportation involves the physical movement of goods from one location to another."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a public limited company?",
+    "options": ["Unlimited liability", "Shares traded publicly", "Single ownership", "Government control"],
+    "correct_answer": 1,
+    "justification": "A public limited company has shares that are traded on a stock exchange."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the money invested in a business by its owners?",
+    "options": ["Revenue", "Capital", "Profit", "Loan"],
+    "correct_answer": 1,
+    "justification": "Capital is the money or resources invested by owners to start or run a business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of retail trade?",
+    "options": ["Wholesale trade", "Department store", "Import trade", "Export trade"],
+    "correct_answer": 1,
+    "justification": "A department store is a form of retail trade selling directly to consumers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the document that outlines the objectives of a company?",
+    "options": ["Prospectus", "Memorandum of Association", "Articles of Association", "Certificate of Incorporation"],
+    "correct_answer": 1,
+    "justification": "The Memorandum of Association outlines the objectives and scope of a company."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of an auxiliary to trade?",
+    "options": ["Manufacturing", "Advertising", "Mining", "Farming"],
+    "correct_answer": 1,
+    "justification": "Advertising is an auxiliary to trade as it supports the promotion of goods and services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a person who buys goods for personal use?",
+    "options": ["Wholesaler", "Consumer", "Retailer", "Distributor"],
+    "correct_answer": 1,
+    "justification": "A consumer purchases goods or services for personal use."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a stock exchange?",
+    "options": ["Issue currency", "Facilitate trading of securities", "Provide loans", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "A stock exchange facilitates the buying and selling of securities like shares."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of storing goods until they are needed?",
+    "options": ["Transportation", "Warehousing", "Marketing", "Production"],
+    "correct_answer": 1,
+    "justification": "Warehousing involves storing goods to ensure availability when needed."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of cooperative society?",
+    "options": ["Public limited company", "Consumer cooperative", "Sole proprietorship", "Partnership"],
+    "correct_answer": 1,
+    "justification": "A consumer cooperative is a type of cooperative society that provides goods to its members."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a tax imposed on imported goods?",
+    "options": ["Excise duty", "Customs duty", "Sales tax", "Income tax"],
+    "correct_answer": 1,
+    "justification": "Customs duty is a tax levied on goods imported into a country."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a private limited company?",
+    "options": ["Shares traded publicly", "Limited liability", "Unlimited liability", "Single ownership"],
+    "correct_answer": 1,
+    "justification": "A private limited company has limited liability, protecting shareholders’ personal assets."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a written promise to pay a sum of money at a future date?",
+    "options": ["Cheque", "Bill of exchange", "Receipt", "Invoice"],
+    "correct_answer": 1,
+    "justification": "A bill of exchange is a written promise to pay a specified amount at a future date."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of advertising?",
+    "options": ["Produce goods", "Create awareness", "Transport goods", "Store goods"],
+    "correct_answer": 1,
+    "justification": "Advertising creates awareness about products or services to attract customers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who sells goods in small quantities to consumers?",
+    "options": ["Wholesaler", "Retailer", "Manufacturer", "Distributor"],
+    "correct_answer": 1,
+    "justification": "A retailer sells goods in small quantities directly to consumers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of credit sale?",
+    "options": ["Cash on delivery", "Hire purchase", "Barter trade", "Prepaid purchase"],
+    "correct_answer": 1,
+    "justification": "Hire purchase is a credit sale where payment is made in installments."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of transferring ownership of goods from seller to buyer?",
+    "options": ["Warehousing", "Sale", "Production", "Distribution"],
+    "correct_answer": 1,
+    "justification": "A sale involves transferring ownership of goods from the seller to the buyer."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a central bank?",
+    "options": ["Provide loans to individuals", "Issue currency", "Sell insurance", "Trade securities"],
+    "correct_answer": 1,
+    "justification": "The central bank is responsible for issuing currency and controlling monetary policy."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for goods purchased for resale or business use?",
+    "options": ["Consumer goods", "Capital goods", "Durable goods", "Non-durable goods"],
+    "correct_answer": 1,
+    "justification": "Capital goods are purchased for use in production or for resale in business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of foreign trade?",
+    "options": ["Retail trade", "Import trade", "Wholesale trade", "Barter trade"],
+    "correct_answer": 1,
+    "justification": "Import trade involves purchasing goods from foreign countries."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that shows the financial position of a business at a given time?",
+    "options": ["Profit and loss account", "Balance sheet", "Cash flow statement", "Income statement"],
+    "correct_answer": 1,
+    "justification": "A balance sheet shows a business’s financial position at a specific point in time."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a cooperative society?",
+    "options": ["Profit maximization", "Democratic control", "Limited liability", "Public share trading"],
+    "correct_answer": 1,
+    "justification": "Cooperative societies are characterized by democratic control by their members."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who acts as an intermediary between a buyer and a seller?",
+    "options": ["Consumer", "Broker", "Retailer", "Manufacturer"],
+    "correct_answer": 1,
+    "justification": "A broker facilitates transactions between buyers and sellers for a commission."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a warehouse?",
+    "options": ["Produce goods", "Store goods", "Transport goods", "Sell goods"],
+    "correct_answer": 1,
+    "justification": "A warehouse is used to store goods until they are needed for sale or distribution."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of exchanging goods without using money?",
+    "options": ["Credit trade", "Barter trade", "Cash trade", "Export trade"],
+    "correct_answer": 1,
+    "justification": "Barter trade involves the direct exchange of goods or services without money."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of marine insurance?",
+    "options": ["Hull insurance", "Fire insurance", "Life insurance", "Health insurance"],
+    "correct_answer": 0,
+    "justification": "Hull insurance covers the ship’s structure and is a type of marine insurance."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the money paid to shareholders from a company’s profits?",
+    "options": ["Interest", "Dividend", "Wages", "Rent"],
+    "correct_answer": 1,
+    "justification": "Dividends are payments made to shareholders from a company’s profits."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the capital market?",
+    "options": ["Provide short-term loans", "Facilitate long-term financing", "Issue currency", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "The capital market facilitates long-term financing through securities like stocks and bonds."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who undertakes the risk of starting a business?",
+    "options": ["Employee", "Entrepreneur", "Consumer", "Retailer"],
+    "correct_answer": 1,
+    "justification": "An entrepreneur takes the risk of starting and managing a business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of wholesale trade?",
+    "options": ["Chain store", "Cash and carry", "Department store", "Supermarket"],
+    "correct_answer": 1,
+    "justification": "Cash and carry is a type of wholesale trade selling in bulk to retailers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that confirms payment has been made?",
+    "options": ["Invoice", "Receipt", "Cheque", "Bill of exchange"],
+    "correct_answer": 1,
+    "justification": "A receipt is a document issued to confirm that payment has been received."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of marketing?",
+    "options": ["Production", "Market research", "Warehousing", "Transportation"],
+    "correct_answer": 1,
+    "justification": "Market research is a key function of marketing to understand consumer needs."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who sells goods on behalf of another for a commission?",
+    "options": ["Broker", "Agent", "Retailer", "Wholesaler"],
+    "correct_answer": 1,
+    "justification": "An agent sells goods on behalf of a principal and earns a commission."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of fire insurance?",
+    "options": ["Cargo insurance", "Consequential loss insurance", "Hull insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Consequential loss insurance covers losses due to fire interrupting business operations."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total value of goods and services sold by a business?",
+    "options": ["Profit", "Revenue", "Capital", "Cost"],
+    "correct_answer": 1,
+    "justification": "Revenue is the total income from sales of goods or services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the money market?",
+    "options": ["Provide long-term loans", "Facilitate short-term financing", "Issue shares", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "The money market facilitates short-term financing through instruments like treasury bills."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who buys goods in bulk for resale?",
+    "options": ["Consumer", "Wholesaler", "Retailer", "Manufacturer"],
+    "correct_answer": 1,
+    "justification": "A wholesaler purchases goods in bulk and sells them to retailers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of export trade?",
+    "options": ["Retail trade", "Entrepot trade", "Wholesale trade", "Barter trade"],
+    "correct_answer": 1,
+    "justification": "Entrepot trade involves importing goods to re-export them."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the document that specifies the rules governing a company’s operations?",
+    "options": ["Memorandum of Association", "Articles of Association", "Prospectus", "Certificate of Incorporation"],
+    "correct_answer": 1,
+    "justification": "The Articles of Association outline the internal rules of a company."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a sole trader?",
+    "options": ["Limited liability", "Unlimited liability", "Public share trading", "Government ownership"],
+    "correct_answer": 1,
+    "justification": "A sole trader has unlimited liability, meaning personal assets are at risk."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of moving goods from producer to consumer?",
+    "options": ["Production", "Distribution", "Marketing", "Warehousing"],
+    "correct_answer": 1,
+    "justification": "Distribution involves moving goods from producers to consumers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of life insurance?",
+    "options": ["Whole life assurance", "Fire insurance", "Marine insurance", "Cargo insurance"],
+    "correct_answer": 0,
+    "justification": "Whole life assurance is a type of life insurance that covers the insured for their entire life."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the excess of income over expenditure in a business?",
+    "options": ["Loss", "Profit", "Revenue", "Capital"],
+    "correct_answer": 1,
+    "justification": "Profit is the excess of income over expenditure in a business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a clearing house?",
+    "options": ["Issue currency", "Settle transactions between banks", "Provide loans", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "A clearing house settles transactions, such as cheques, between banks."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business owned by its customers or workers?",
+    "options": ["Partnership", "Cooperative society", "Public limited company", "Sole proprietorship"],
+    "correct_answer": 1,
+    "justification": "A cooperative society is owned and operated by its members, such as customers or workers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of indirect tax?",
+    "options": ["Income tax", "Value-added tax", "Property tax", "Corporate tax"],
+    "correct_answer": 1,
+    "justification": "Value-added tax is an indirect tax levied on goods and services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a written order to a bank to pay a specified amount?",
+    "options": ["Receipt", "Cheque", "Invoice", "Bill of exchange"],
+    "correct_answer": 1,
+    "justification": "A cheque is a written order to a bank to pay a specified amount from an account."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of branding?",
+    "options": ["Transport goods", "Create product identity", "Store goods", "Produce goods"],
+    "correct_answer": 1,
+    "justification": "Branding creates a unique identity for a product to distinguish it in the market."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who transports goods for a fee?",
+    "options": ["Broker", "Carrier", "Retailer", "Wholesaler"],
+    "correct_answer": 1,
+    "justification": "A carrier transports goods for a fee, such as a shipping company."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of health insurance?",
+    "options": ["Cargo insurance", "Medical insurance", "Hull insurance", "Fire insurance"],
+    "correct_answer": 1,
+    "justification": "Medical insurance covers healthcare costs for individuals."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total cost of producing goods or services?",
+    "options": ["Revenue", "Profit", "Expenditure", "Capital"],
+    "correct_answer": 2,
+    "justification": "Expenditure is the total cost incurred in producing goods or services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a trade association?",
+    "options": ["Issue currency", "Promote members’ interests", "Provide loans", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "A trade association promotes the interests of its members in a specific industry."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business that provides services rather than goods?",
+    "options": ["Manufacturing", "Service industry", "Extractive industry", "Construction"],
+    "correct_answer": 1,
+    "justification": "A service industry provides intangible services rather than physical goods."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of home trade?",
+    "options": ["Import trade", "Retail trade", "Export trade", "Entrepot trade"],
+    "correct_answer": 1,
+    "justification": "Retail trade is a type of home trade conducted within a country."
+  },
+  {
+    "subject": "Commerce",
+  "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that grants legal permission to start a company?",
+    "options": ["Prospectus", "Certificate of Incorporation", "Memorandum of Association", "Articles of Association"],
+    "correct_answer": 1,
+    "justification": "The Certificate of Incorporation is a legal document that permits a company to operate."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a partnership?",
+    "options": ["Limited liability", "Shared responsibility", "Public share trading", "Single ownership"],
+    "correct_answer": 1,
+    "justification": "A partnership involves shared responsibility among partners for business operations."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of dividing a market into distinct groups of buyers?",
+    "options": ["Branding", "Market segmentation", "Advertising", "Distribution"],
+    "correct_answer": 1,
+    "justification": "Market segmentation divides a market into groups with similar characteristics."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of accident insurance?",
+    "options": ["Fire insurance", "Personal accident insurance", "Marine insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Personal accident insurance covers injuries or death due to accidents."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the money borrowed by a business from a bank?",
+    "options": ["Capital", "Loan", "Revenue", "Profit"],
+    "correct_answer": 1,
+    "justification": "A loan is money borrowed from a bank to be repaid with interest."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a chamber of commerce?",
+    "options": ["Issue currency", "Promote trade and industry", "Provide loans", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "A chamber of commerce promotes trade and industry in a specific region."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business that extracts natural resources?",
+    "options": ["Service industry", "Extractive industry", "Manufacturing", "Construction"],
+    "correct_answer": 1,
+    "justification": "An extractive industry involves extracting natural resources like minerals or oil."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of international trade?",
+    "options": ["Retail trade", "Export trade", "Wholesale trade", "Barter trade"],
+    "correct_answer": 1,
+    "justification": "Export trade involves selling goods to foreign countries."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that shows a business’s profit or loss over a period?",
+    "options": ["Balance sheet", "Profit and loss account", "Cash flow statement", "Trial balance"],
+    "correct_answer": 1,
+    "justification": "A profit and loss account shows the profit or loss of a business over a period."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a public corporation?",
+    "options": ["Private ownership", "Government ownership", "Unlimited liability", "Single ownership"],
+    "correct_answer": 1,
+    "justification": "A public corporation is owned and controlled by the government."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of attracting customers through product promotion?",
+    "options": ["Production", "Advertising", "Distribution", "Warehousing"],
+    "correct_answer": 1,
+    "justification": "Advertising promotes products to attract customers and increase sales."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of fidelity guarantee insurance?",
+    "options": ["Fire insurance", "Employee dishonesty insurance", "Marine insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Fidelity guarantee insurance covers losses due to employee dishonesty."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the money received from selling goods or services?",
+    "options": ["Profit", "Revenue", "Capital", "Cost"],
+    "correct_answer": 1,
+    "justification": "Revenue is the money received from the sale of goods or services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a merchant bank?",
+    "options": ["Issue currency", "Provide corporate finance", "Sell insurance", "Transport goods"],
+    "correct_answer": 1,
+    "justification": "Merchant banks provide corporate finance services like loans and advisory."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business that produces goods from raw materials?",
+    "options": ["Service industry", "Manufacturing", "Extractive industry", "Construction"],
+    "correct_answer": 1,
+    "justification": "Manufacturing involves producing goods from raw materials."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of retail trade?",
+    "options": ["Supermarket", "Cash and carry", "Import trade", "Export trade"],
+    "correct_answer": 0,
+    "justification": "A supermarket is a type of retail trade selling directly to consumers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document inviting the public to buy shares in a company?",
+    "options": ["Memorandum of Association", "Prospectus", "Articles of Association", "Certificate of Incorporation"],
+    "correct_answer": 1,
+    "justification": "A prospectus invites the public to purchase shares in a company."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a joint-stock company?",
+    "options": ["Unlimited liability", "Limited liability", "Single ownership", "Government control"],
+    "correct_answer": 1,
+    "justification": "A joint-stock company has limited liability for its shareholders."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of determining the price of a product?",
+    "options": ["Branding", "Pricing", "Advertising", "Distribution"],
+    "correct_answer": 1,
+    "justification": "Pricing involves setting the monetary value of a product or service."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of motor insurance?",
+    "options": ["Fire insurance", "Third-party insurance", "Marine insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Third-party insurance covers damages caused by the insured vehicle to others."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the excess of expenditure over income in a business?",
+    "options": ["Profit", "Loss", "Revenue", "Capital"],
+    "correct_answer": 1,
+    "justification": "A loss occurs when a business’s expenditure exceeds its income."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a development bank?",
+    "options": ["Issue currency", "Provide long-term loans", "Sell insurance", "Transport goods"],
+    "correct_answer": 1,
+    "justification": "Development banks provide long-term loans for economic development projects."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business that builds infrastructure like roads and bridges?",
+    "options": ["Service industry", "Extractive industry", "Construction", "Manufacturing"],
+    "correct_answer": 2,
+    "justification": "The construction industry builds infrastructure such as roads and bridges."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of foreign trade?",
+    "options": ["Retail trade", "Import trade", "Wholesale trade", "Barter trade"],
+    "correct_answer": 1,
+    "justification": "Import trade involves purchasing goods from foreign countries."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that records all financial transactions of a business?",
+    "options": ["Balance sheet", "Ledger", "Profit and loss account", "Cash flow statement"],
+    "correct_answer": 1,
+    "justification": "A ledger records all financial transactions of a business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a sole proprietorship?",
+    "options": ["Limited liability", "Single ownership", "Public share trading", "Government ownership"],
+    "correct_answer": 1,
+    "justification": "A sole proprietorship is owned and managed by a single individual."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of creating a unique image for a product?",
+    "options": ["Pricing", "Branding", "Advertising", "Distribution"],
+    "correct_answer": 1,
+    "justification": "Branding creates a unique image and identity for a product in the market."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of burglary insurance?",
+    "options": ["Fire insurance", "Theft insurance", "Marine insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Theft insurance covers losses due to burglary or theft."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the money used to start or expand a business?",
+    "options": ["Revenue", "Capital", "Profit", "Loss"],
+    "correct_answer": 1,
+    "justification": "Capital is the money used to start or expand a business."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of a trade union?",
+    "options": ["Issue currency", "Protect workers’ rights", "Provide loans", "Insure goods"],
+    "correct_answer": 1,
+    "justification": "A trade union protects and promotes the rights of workers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a business that provides financial services?",
+    "options": ["Manufacturing", "Service industry", "Extractive industry", "Construction"],
+    "correct_answer": 1,
+    "justification": "The service industry includes businesses that provide financial services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of wholesale trade?",
+    "options": ["Supermarket", "General wholesaler", "Department store", "Chain store"],
+    "correct_answer": 1,
+    "justification": "A general wholesaler buys in bulk and sells to retailers."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a document that shows the amount paid for goods?",
+    "options": ["Invoice", "Receipt", "Cheque", "Bill of exchange"],
+    "correct_answer": 1,
+    "justification": "A receipt confirms the amount paid for goods or services."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of packaging?",
+    "options": ["Transport goods", "Protect products", "Produce goods", "Store goods"],
+    "correct_answer": 1,
+    "justification": "Packaging protects products during transportation and storage."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the person who negotiates contracts on behalf of another?",
+    "options": ["Retailer", "Agent", "Wholesaler", "Consumer"],
+    "correct_answer": 1,
+    "justification": "An agent negotiates contracts or transactions on behalf of a principal."
+  },
+  {
+    "subject": "Commerce",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a type of liability insurance?",
+    "options": ["Fire insurance", "Public liability insurance", "Marine insurance", "Life insurance"],
+    "correct_answer": 1,
+    "justification": "Public liability insurance covers damages caused to third parties."
+  }
+]

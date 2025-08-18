@@ -1,0 +1,821 @@
+[
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the first man created by God according to the Bible?",
+    "options": ["Abraham", "Adam", "Noah", "Moses"],
+    "correct_answer": 1,
+    "justification": "According to Genesis 2:7, Adam was the first man created by God from the dust of the ground."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the garden where Adam and Eve lived?",
+    "options": ["Gethsemane", "Eden", "Zion", "Bethel"],
+    "correct_answer": 1,
+    "justification": "Genesis 2:8 states that God placed Adam and Eve in the Garden of Eden."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who built an ark to save his family and animals from the flood?",
+    "options": ["Abraham", "Noah", "Isaac", "Jacob"],
+    "correct_answer": 1,
+    "justification": "Genesis 6:14-22 describes Noah building an ark as per God’s instructions to survive the flood."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the sign of God’s covenant with Noah after the flood?",
+    "options": ["A dove", "A rainbow", "A lamb", "A star"],
+    "correct_answer": 1,
+    "justification": "Genesis 9:13 states that God set a rainbow in the sky as a sign of His covenant with Noah."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was called by God to leave his homeland and go to a promised land?",
+    "options": ["Moses", "Abraham", "Joseph", "David"],
+    "correct_answer": 1,
+    "justification": "Genesis 12:1 records God calling Abraham to leave his homeland for a land He would show him."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of Abraham’s son of promise?",
+    "options": ["Ishmael", "Isaac", "Jacob", "Esau"],
+    "correct_answer": 1,
+    "justification": "Genesis 21:3 states that Isaac was the son of promise born to Abraham and Sarah."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who led the Israelites out of Egypt?",
+    "options": ["Joshua", "Moses", "Aaron", "Samuel"],
+    "correct_answer": 1,
+    "justification": "Exodus 3:10 shows God choosing Moses to lead the Israelites out of Egypt."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What did God give to Moses on Mount Sinai?",
+    "options": ["The Ark of the Covenant", "The Ten Commandments", "A staff", "A golden calf"],
+    "correct_answer": 1,
+    "justification": "Exodus 20:1-17 records God giving the Ten Commandments to Moses on Mount Sinai."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the first king of Israel?",
+    "options": ["David", "Saul", "Solomon", "Samuel"],
+    "correct_answer": 1,
+    "justification": "1 Samuel 10:1 describes Saul as the first king anointed by Samuel for Israel."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who killed Goliath with a sling and a stone?",
+    "options": ["Samuel", "David", "Saul", "Jonathan"],
+    "correct_answer": 1,
+    "justification": "1 Samuel 17:50 states that David killed Goliath using a sling and a stone."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the temple built by King Solomon?",
+    "options": ["Tabernacle", "Jerusalem Temple", "Shiloh Temple", "Bethel Temple"],
+    "correct_answer": 1,
+    "justification": "1 Kings 6:1-14 describes Solomon building the Jerusalem Temple for God."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was sold into slavery by his brothers?",
+    "options": ["Jacob", "Joseph", "Benjamin", "Reuben"],
+    "correct_answer": 1,
+    "justification": "Genesis 37:28 recounts Joseph being sold into slavery by his brothers."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which prophet was taken to heaven in a chariot of fire?",
+    "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+    "correct_answer": 0,
+    "justification": "2 Kings 2:11 describes Elijah being taken to heaven in a chariot of fire."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was thrown into a lions’ den for praying to God?",
+    "options": ["David", "Daniel", "Jonah", "Esther"],
+    "correct_answer": 1,
+    "justification": "Daniel 6:16 records Daniel being thrown into the lions’ den for his faith."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the queen who saved her people from destruction?",
+    "options": ["Ruth", "Esther", "Deborah", "Hannah"],
+    "correct_answer": 1,
+    "justification": "Esther 7:3-6 shows Esther saving the Jews from Haman’s plot."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the mother of Samuel the prophet?",
+    "options": ["Sarah", "Hannah", "Ruth", "Rebekah"],
+    "correct_answer": 1,
+    "justification": "1 Samuel 1:20 states that Hannah was the mother of Samuel."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which prophet foretold the birth of Jesus in Bethlehem?",
+    "options": ["Isaiah", "Micah", "Jeremiah", "Ezekiel"],
+    "correct_answer": 1,
+    "justification": "Micah 5:2 prophesies the birth of the Messiah in Bethlehem."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the mother of Jesus?",
+    "options": ["Elizabeth", "Mary", "Martha", "Joanna"],
+    "correct_answer": 1,
+    "justification": "Luke 1:31 identifies Mary as the mother of Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who baptized Jesus in the River Jordan?",
+    "options": ["Peter", "John the Baptist", "Paul", "James"],
+    "correct_answer": 1,
+    "justification": "Matthew 3:13-17 records John the Baptist baptizing Jesus in the River Jordan."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the first miracle performed by Jesus?",
+    "options": ["Healing a blind man", "Turning water into wine", "Feeding the 5,000", "Walking on water"],
+    "correct_answer": 1,
+    "justification": "John 2:11 describes Jesus turning water into wine at Cana as His first miracle."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple betrayed Jesus?",
+    "options": ["Peter", "Judas Iscariot", "John", "Thomas"],
+    "correct_answer": 1,
+    "justification": "Matthew 26:14-16 states that Judas Iscariot betrayed Jesus for thirty pieces of silver."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "On what day did Jesus rise from the dead?",
+    "options": ["Friday", "Sunday", "Saturday", "Monday"],
+    "correct_answer": 1,
+    "justification": "Matthew 28:1-6 records Jesus rising from the dead on the first day of the week, Sunday."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the event when Jesus ascended into heaven?",
+    "options": ["Resurrection", "Ascension", "Crucifixion", "Transfiguration"],
+    "correct_answer": 1,
+    "justification": "Acts 1:9-11 describes the Ascension, when Jesus was taken up into heaven."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who received the Holy Spirit on the day of Pentecost?",
+    "options": ["The Pharisees", "The disciples", "The Sadducees", "The Gentiles"],
+    "correct_answer": 1,
+    "justification": "Acts 2:1-4 states that the disciples received the Holy Spirit on Pentecost."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the first Christian martyr?",
+    "options": ["Paul", "Stephen", "Peter", "James"],
+    "correct_answer": 1,
+    "justification": "Acts 7:59-60 records Stephen as the first Christian martyr, stoned for his faith."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was converted on the road to Damascus?",
+    "options": ["Peter", "Paul", "John", "Barnabas"],
+    "correct_answer": 1,
+    "justification": "Acts 9:3-6 describes Paul’s conversion on the road to Damascus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the act of turning away from sin?",
+    "options": ["Faith", "Repentance", "Grace", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Repentance is the act of turning away from sin and seeking forgiveness, as taught in Acts 3:19."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about helping a neighbor in need?",
+    "options": ["The Prodigal Son", "The Good Samaritan", "The Sower", "The Lost Sheep"],
+    "correct_answer": 1,
+    "justification": "Luke 10:25-37 tells the parable of the Good Samaritan, emphasizing helping others."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who denied Jesus three times before the rooster crowed?",
+    "options": ["Judas", "Peter", "Thomas", "John"],
+    "correct_answer": 1,
+    "justification": "Luke 22:60-61 records Peter denying Jesus three times before the rooster crowed."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for God’s unmerited favor toward humanity?",
+    "options": ["Faith", "Grace", "Repentance", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Grace is God’s unmerited favor, as explained in Ephesians 2:8."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the Sermon on the Mount?",
+    "options": ["Mark", "Matthew", "Luke", "John"],
+    "correct_answer": 1,
+    "justification": "Matthew 5-7 records the Sermon on the Mount delivered by Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the father of John the Baptist?",
+    "options": ["Joseph", "Zechariah", "Simeon", "Eli"],
+    "correct_answer": 1,
+    "justification": "Luke 1:13 identifies Zechariah as the father of John the Baptist."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the sea where Jesus calmed the storm?",
+    "options": ["Red Sea", "Sea of Galilee", "Dead Sea", "Mediterranean Sea"],
+    "correct_answer": 1,
+    "justification": "Mark 4:39 describes Jesus calming the storm on the Sea of Galilee."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which apostle was known as the 'doubting' disciple?",
+    "options": ["Peter", "Thomas", "John", "Andrew"],
+    "correct_answer": 1,
+    "justification": "John 20:24-27 describes Thomas doubting Jesus’ resurrection until he saw Him."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the second coming of Jesus Christ?",
+    "options": ["Ascension", "Parousia", "Resurrection", "Pentecost"],
+    "correct_answer": 1,
+    "justification": "Parousia refers to the second coming of Jesus, as mentioned in Matthew 24:27."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the king who tried to kill baby Jesus?",
+    "options": ["Pilate", "Herod", "Caesar", "Nebuchadnezzar"],
+    "correct_answer": 1,
+    "justification": "Matthew 2:16 records Herod ordering the killing of male infants to eliminate Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about forgiveness and God’s mercy?",
+    "options": ["The Good Samaritan", "The Prodigal Son", "The Sower", "The Talents"],
+    "correct_answer": 1,
+    "justification": "Luke 15:11-32 tells the parable of the Prodigal Son, highlighting God’s forgiveness."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "options": ["Peter", "Mary Magdalene", "John", "Thomas"],
+    "correct_answer": 1,
+    "justification": "John 20:11-18 states that Mary Magdalene was the first to see the risen Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the belief in one God?",
+    "options": ["Polytheism", "Monotheism", "Atheism", "Agnosticism"],
+    "correct_answer": 1,
+    "justification": "Monotheism is the belief in one God, central to Christianity (Deuteronomy 6:4)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the Lord’s Prayer?",
+    "options": ["Mark", "Matthew", "Luke", "John"],
+    "correct_answer": 1,
+    "justification": "Matthew 6:9-13 records the Lord’s Prayer taught by Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet that confronted Ahab about Naboth’s vineyard?",
+    "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"],
+    "correct_answer": 1,
+    "justification": "1 Kings 21:17-19 describes Elijah confronting Ahab over Naboth’s vineyard."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the place where Jesus was crucified?",
+    "options": ["Bethlehem", "Golgotha", "Jerusalem", "Nazareth"],
+    "correct_answer": 1,
+    "justification": "Matthew 27:33 identifies Golgotha as the place where Jesus was crucified."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the judge who led Israel against the Canaanites?",
+    "options": ["Gideon", "Deborah", "Samson", "Samuel"],
+    "correct_answer": 1,
+    "justification": "Judges 4:4-5 describes Deborah as a judge who led Israel against the Canaanites."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple was a tax collector before following Jesus?",
+    "options": ["Peter", "Matthew", "John", "Andrew"],
+    "correct_answer": 1,
+    "justification": "Matthew 9:9 states that Matthew was a tax collector before Jesus called him."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the act of being saved from sin?",
+    "options": ["Repentance", "Salvation", "Grace", "Faith"],
+    "correct_answer": 1,
+    "justification": "Salvation is the act of being saved from sin through faith in Jesus (John 3:16)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the woman who anointed Jesus’ feet with perfume?",
+    "options": ["Mary Magdalene", "Mary of Bethany", "Martha", "Joanna"],
+    "correct_answer": 1,
+    "justification": "John 12:3 describes Mary of Bethany anointing Jesus’ feet with perfume."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about the use of talents or abilities?",
+    "options": ["The Good Samaritan", "The Talents", "The Sower", "The Prodigal Son"],
+    "correct_answer": 1,
+    "justification": "Matthew 25:14-30 tells the parable of the Talents, teaching stewardship of abilities."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the father of Isaac?",
+    "options": ["Jacob", "Abraham", "Joseph", "Moses"],
+    "correct_answer": 1,
+    "justification": "Genesis 21:3 identifies Abraham as the father of Isaac."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the mountain where Abraham was to sacrifice Isaac?",
+    "options": ["Sinai", "Moriah", "Zion", "Horeb"],
+    "correct_answer": 1,
+    "justification": "Genesis 22:2 states that God told Abraham to sacrifice Isaac on Mount Moriah."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet swallowed by a great fish?",
+    "options": ["Elijah", "Jonah", "Isaiah", "Daniel"],
+    "correct_answer": 1,
+    "justification": "Jonah 1:17 describes Jonah being swallowed by a great fish."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which commandment forbids lying?",
+    "options": ["Sixth", "Ninth", "Seventh", "Eighth"],
+    "correct_answer": 1,
+    "justification": "The ninth commandment, 'You shall not bear false witness,' forbids lying (Exodus 20:16)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the first high priest of Israel?",
+    "options": ["Moses", "Aaron", "Samuel", "Eli"],
+    "correct_answer": 1,
+    "justification": "Exodus 28:1 appoints Aaron as the first high priest of Israel."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about God’s kingdom growing like a seed?",
+    "options": ["The Prodigal Son", "The Mustard Seed", "The Good Samaritan", "The Talents"],
+    "correct_answer": 1,
+    "justification": "Matthew 13:31-32 describes the parable of the Mustard Seed, illustrating the kingdom’s growth."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the Roman governor who sentenced Jesus to death?",
+    "options": ["Herod", "Pontius Pilate", "Caesar", "Felix"],
+    "correct_answer": 1,
+    "justification": "Matthew 27:26 states that Pontius Pilate sentenced Jesus to crucifixion."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the belief in the resurrection of the dead?",
+    "options": ["Faith", "Eschatology", "Grace", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Eschatology includes the belief in the resurrection of the dead (1 Corinthians 15:22)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet who anointed David as king?",
+    "options": ["Elijah", "Samuel", "Isaiah", "Nathan"],
+    "correct_answer": 1,
+    "justification": "1 Samuel 16:13 records Samuel anointing David as king of Israel."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the Beatitudes?",
+    "options": ["Mark", "Matthew", "Luke", "John"],
+    "correct_answer": 1,
+    "justification": "Matthew 5:3-12 contains the Beatitudes, part of the Sermon on the Mount."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the wife of Isaac?",
+    "options": ["Sarah", "Rebekah", "Rachel", "Leah"],
+    "correct_answer": 1,
+    "justification": "Genesis 24:67 identifies Rebekah as the wife of Isaac."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple was chosen to replace Judas Iscariot?",
+    "options": ["Barnabas", "Matthias", "Silas", "Timothy"],
+    "correct_answer": 1,
+    "justification": "Acts 1:26 states that Matthias was chosen to replace Judas Iscariot."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the city where Jonah was sent to preach?",
+    "options": ["Jerusalem", "Nineveh", "Bethel", "Babylon"],
+    "correct_answer": 1,
+    "justification": "Jonah 1:2 records God sending Jonah to preach to the city of Nineveh."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which commandment forbids stealing?",
+    "options": ["Sixth", "Seventh", "Eighth", "Ninth"],
+    "correct_answer": 2,
+    "justification": "The eighth commandment, 'You shall not steal,' forbids stealing (Exodus 20:15)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the king who built the first temple in Jerusalem?",
+    "options": ["David", "Solomon", "Saul", "Hezekiah"],
+    "correct_answer": 1,
+    "justification": "1 Kings 6:1-14 describes Solomon building the first temple in Jerusalem."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about persistence in prayer?",
+    "options": ["The Good Samaritan", "The Persistent Widow", "The Prodigal Son", "The Talents"],
+    "correct_answer": 1,
+    "justification": "Luke 18:1-8 tells the parable of the Persistent Widow, teaching persistence in prayer."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the cousin of Jesus, according to the Bible?",
+    "options": ["Peter", "John the Baptist", "James", "Andrew"],
+    "correct_answer": 1,
+    "justification": "Luke 1:36 indicates that John the Baptist was Jesus’ cousin through Mary and Elizabeth."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the act of trusting in God?",
+    "options": ["Repentance", "Faith", "Grace", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Faith is the act of trusting in God, as emphasized in Hebrews 11:1."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the story of the Good Shepherd?",
+    "options": ["Matthew", "John", "Luke", "Mark"],
+    "correct_answer": 1,
+    "justification": "John 10:11-14 contains Jesus’ teaching about being the Good Shepherd."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet who rebuilt the walls of Jerusalem?",
+    "options": ["Ezra", "Nehemiah", "Isaiah", "Jeremiah"],
+    "correct_answer": 1,
+    "justification": "Nehemiah 2:17-18 describes Nehemiah leading the rebuilding of Jerusalem’s walls."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple was a fisherman before following Jesus?",
+    "options": ["Matthew", "Peter", "Thomas", "Judas"],
+    "correct_answer": 1,
+    "justification": "Luke 5:10 identifies Peter as a fisherman before Jesus called him."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the river where the Israelites crossed into Canaan?",
+    "options": ["Nile", "Jordan", "Euphrates", "Tigris"],
+    "correct_answer": 1,
+    "justification": "Joshua 3:14-17 describes the Israelites crossing the Jordan River into Canaan."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which commandment emphasizes honoring parents?",
+    "options": ["Fourth", "Fifth", "Sixth", "Seventh"],
+    "correct_answer": 1,
+    "justification": "The fifth commandment, 'Honor your father and mother,' emphasizes respect for parents (Exodus 20:12)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the father of Jacob and Esau?",
+    "options": ["Abraham", "Isaac", "Joseph", "Moses"],
+    "correct_answer": 1,
+    "justification": "Genesis 25:26 identifies Isaac as the father of Jacob and Esau."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about the kingdom of God being like a treasure?",
+    "options": ["The Good Samaritan", "The Hidden Treasure", "The Prodigal Son", "The Sower"],
+    "correct_answer": 1,
+    "justification": "Matthew 13:44 describes the parable of the Hidden Treasure, likening the kingdom to a treasure."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the king who repented after Jonah’s preaching?",
+    "options": ["Saul", "King of Nineveh", "David", "Ahab"],
+    "correct_answer": 1,
+    "justification": "Jonah 3:6-10 records the King of Nineveh repenting after Jonah’s preaching."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the act of giving to the poor or needy?",
+    "options": ["Faith", "Charity", "Grace", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Charity is the act of giving to the poor or needy, as encouraged in 1 Corinthians 13:3."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the story of Lazarus and the rich man?",
+    "options": ["Matthew", "Luke", "Mark", "John"],
+    "correct_answer": 1,
+    "justification": "Luke 16:19-31 tells the parable of Lazarus and the rich man."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet who foretold a virgin would give birth to a son?",
+    "options": ["Jeremiah", "Isaiah", "Ezekiel", "Daniel"],
+    "correct_answer": 1,
+    "justification": "Isaiah 7:14 prophesies a virgin giving birth to a son, fulfilled in Jesus’ birth."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple walked on water toward Jesus?",
+    "options": ["John", "Peter", "James", "Andrew"],
+    "correct_answer": 1,
+    "justification": "Matthew 14:29 describes Peter walking on water toward Jesus."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the city where Jesus was born?",
+    "options": ["Jerusalem", "Bethlehem", "Nazareth", "Capernaum"],
+    "correct_answer": 1,
+    "justification": "Luke 2:4-7 states that Jesus was born in Bethlehem."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which commandment forbids coveting?",
+    "options": ["Seventh", "Eighth", "Ninth", "Tenth"],
+    "correct_answer": 3,
+    "justification": "The tenth commandment, 'You shall not covet,' forbids desiring others’ possessions (Exodus 20:17)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the mother of Ishmael?",
+    "options": ["Sarah", "Hagar", "Rebekah", "Rachel"],
+    "correct_answer": 1,
+    "justification": "Genesis 16:15 identifies Hagar as the mother of Ishmael."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about the separation of the righteous and the wicked?",
+    "options": ["The Good Samaritan", "The Sheep and the Goats", "The Prodigal Son", "The Sower"],
+    "correct_answer": 1,
+    "justification": "Matthew 25:31-46 tells the parable of the Sheep and the Goats, depicting judgment."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet who performed miracles at Mount Carmel?",
+    "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"],
+    "correct_answer": 1,
+    "justification": "1 Kings 18:36-39 describes Elijah’s miracles at Mount Carmel."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the act of worshipping God?",
+    "options": ["Faith", "Adoration", "Grace", "Salvation"],
+    "correct_answer": 1,
+    "justification": "Adoration is the act of worshipping or giving reverence to God (Psalm 95:6)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which book of the Bible contains the story of the vine and the branches?",
+    "options": ["Matthew", "John", "Luke", "Mark"],
+    "correct_answer": 1,
+    "justification": "John 15:1-5 contains Jesus’ teaching about the vine and the branches."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the king who committed adultery with Bathsheba?",
+    "options": ["Saul", "David", "Solomon", "Hezekiah"],
+    "correct_answer": 1,
+    "justification": "2 Samuel 11:2-4 describes David’s adultery with Bathsheba."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which disciple was known as the 'beloved disciple'?",
+    "options": ["Peter", "John", "James", "Andrew"],
+    "correct_answer": 1,
+    "justification": "John 13:23 refers to John as the disciple whom Jesus loved."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What was the name of the mountain where Jesus was transfigured?",
+    "options": ["Sinai", "Tabor", "Zion", "Horeb"],
+    "correct_answer": 1,
+    "justification": "Matthew 17:1-2 traditionally identifies Mount Tabor as the site of Jesus’ transfiguration."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which commandment forbids murder?",
+    "options": ["Fifth", "Sixth", "Seventh", "Eighth"],
+    "correct_answer": 1,
+    "justification": "The sixth commandment, 'You shall not murder,' forbids killing (Exodus 20:13)."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the father of Joseph, the husband of Mary?",
+    "options": ["Zechariah", "Jacob", "Eli", "Simeon"],
+    "correct_answer": 1,
+    "justification": "Matthew 1:16 identifies Jacob as the father of Joseph, Mary’s husband."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which parable teaches about the value of small beginnings?",
+    "options": ["The Good Samaritan", "The Mustard Seed", "The Prodigal Son", "The Talents"],
+    "correct_answer": 1,
+    "justification": "Matthew 13:31-32 tells the parable of the Mustard Seed, emphasizing small beginnings."
+  },
+  {
+    "subject": "Christian Religious Studies",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was the prophet who was fed by ravens?",
+    "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"],
+    "correct_answer": 1,
+    "justification": "1 Kings 17:4-6 describes God sending ravens to feed Elijah."
+  }
+]

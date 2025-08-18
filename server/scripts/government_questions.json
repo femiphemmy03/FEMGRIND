@@ -1,0 +1,812 @@
+[
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the supreme power of a state to govern itself?",
+    "options": ["Authority", "Sovereignty", "Legitimacy", "Power"],
+    "correct_answer": 1,
+    "justification": "Sovereignty refers to the supreme power of a state to govern itself without external interference."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which system of government has a single ruler with absolute power?",
+    "options": ["Democracy", "Monarchy", "Oligarchy", "Republic"],
+    "correct_answer": 1,
+    "justification": "A monarchy, particularly an absolute monarchy, vests supreme power in a single ruler."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government ruled by a few powerful individuals?",
+    "options": ["Democracy", "Oligarchy", "Monarchy", "Theocracy"],
+    "correct_answer": 1,
+    "justification": "Oligarchy is a system where a small group of people hold power."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which document outlines the fundamental laws of a country?",
+    "options": ["Legislation", "Constitution", "Manifesto", "Treaty"],
+    "correct_answer": 1,
+    "justification": "A constitution is a document that outlines the fundamental laws and principles of a country."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where citizens participate directly in decision-making?",
+    "options": ["Representative democracy", "Direct democracy", "Constitutional monarchy", "Dictatorship"],
+    "correct_answer": 1,
+    "justification": "Direct democracy allows citizens to participate directly in decision-making processes."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which arm of government is responsible for making laws?",
+    "options": ["Executive", "Legislature", "Judiciary", "Bureaucracy"],
+    "correct_answer": 1,
+    "justification": "The legislature is responsible for making laws in a government."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the principle that ensures no arm of government dominates others?",
+    "options": ["Rule of law", "Checks and balances", "Separation of powers", "Federalism"],
+    "correct_answer": 1,
+    "justification": "Checks and balances ensure that no single arm of government dominates the others."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which system divides power between central and regional governments?",
+    "options": ["Unitary", "Federal", "Confederal", "Presidential"],
+    "correct_answer": 1,
+    "justification": "A federal system divides power between central and regional governments."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government based on religious laws?",
+    "options": ["Monarchy", "Theocracy", "Oligarchy", "Democracy"],
+    "correct_answer": 1,
+    "justification": "A theocracy is a government based on religious laws and principles."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution introduced the federal system of government?",
+    "options": ["1960 Constitution", "1954 Constitution", "1979 Constitution", "1999 Constitution"],
+    "correct_answer": 1,
+    "justification": "The 1954 Lyttleton Constitution introduced federalism in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was Nigeria’s first Governor-General?",
+    "options": ["Lord Lugard", "Nnamdi Azikiwe", "Ahmadu Bello", "Tafawa Balewa"],
+    "correct_answer": 1,
+    "justification": "Nnamdi Azikiwe was Nigeria’s first Governor-General after independence in 1960."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the right to vote in an election?",
+    "options": ["Citizenship", "Suffrage", "Franchise", "Mandate"],
+    "correct_answer": 1,
+    "justification": "Suffrage is the right to vote in political elections."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian political party dominated the First Republic?",
+    "options": ["AG", "NPC", "NCNC", "NEPU"],
+    "correct_answer": 1,
+    "justification": "The Northern People’s Congress (NPC) dominated Nigeria’s First Republic politics."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system where one political party dominates?",
+    "options": ["Multi-party system", "One-party system", "Two-party system", "No-party system"],
+    "correct_answer": 1,
+    "justification": "A one-party system is where a single political party dominates governance."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which arm of government interprets the constitution?",
+    "options": ["Executive", "Judiciary", "Legislature", "Bureaucracy"],
+    "correct_answer": 1,
+    "justification": "The judiciary interprets the constitution and ensures its proper application."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of choosing leaders through voting?",
+    "options": ["Referendum", "Election", "Plebiscite", "Coup"],
+    "correct_answer": 1,
+    "justification": "An election is the process of selecting leaders through voting."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution established the presidential system?",
+    "options": ["1963 Constitution", "1979 Constitution", "1960 Constitution", "1999 Constitution"],
+    "correct_answer": 1,
+    "justification": "The 1979 Constitution introduced the presidential system in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government led by elected representatives?",
+    "options": ["Monarchy", "Representative democracy", "Theocracy", "Dictatorship"],
+    "correct_answer": 1,
+    "justification": "Representative democracy involves governance by elected representatives."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body conducts elections in Nigeria?",
+    "options": ["NEC", "INEC", "SIEC", "EFCC"],
+    "correct_answer": 1,
+    "justification": "The Independent National Electoral Commission (INEC) conducts elections in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the principle that everyone is equal before the law?",
+    "options": ["Checks and balances", "Rule of law", "Separation of powers", "Sovereignty"],
+    "correct_answer": 1,
+    "justification": "The rule of law ensures that everyone is equal before the law."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which system concentrates power in the central government?",
+    "options": ["Federal", "Unitary", "Confederal", "Presidential"],
+    "correct_answer": 1,
+    "justification": "A unitary system concentrates power in the central government."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Who was Nigeria’s first Prime Minister?",
+    "options": ["Nnamdi Azikiwe", "Tafawa Balewa", "Ahmadu Bello", "Obafemi Awolowo"],
+    "correct_answer": 1,
+    "justification": "Tafawa Balewa was Nigeria’s first Prime Minister from 1960 to 1966."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a vote to decide a specific issue?",
+    "options": ["Election", "Referendum", "Plebiscite", "Coup"],
+    "correct_answer": 1,
+    "justification": "A referendum is a direct vote by citizens on a specific issue."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which political ideology emphasizes state ownership of resources?",
+    "options": ["Capitalism", "Socialism", "Liberalism", "Fascism"],
+    "correct_answer": 1,
+    "justification": "Socialism emphasizes state or collective ownership of resources."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the transfer of power to lower levels of government?",
+    "options": ["Centralization", "Devolution", "Federalism", "Unitarism"],
+    "correct_answer": 1,
+    "justification": "Devolution is the transfer of power to lower levels of government."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian region was prominent in the First Republic?",
+    "options": ["Eastern Region", "Northern Region", "Western Region", "Mid-Western Region"],
+    "correct_answer": 1,
+    "justification": "The Northern Region was politically dominant in Nigeria’s First Republic."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where the head of state is a monarch?",
+    "options": ["Republic", "Monarchy", "Oligarchy", "Theocracy"],
+    "correct_answer": 1,
+    "justification": "A monarchy is a government where the head of state is a monarch."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria is responsible for law enforcement?",
+    "options": ["Army", "Police", "Navy", "Civil Defence"],
+    "correct_answer": 1,
+    "justification": "The Nigeria Police Force is responsible for law enforcement."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system with two dominant political parties?",
+    "options": ["One-party system", "Two-party system", "Multi-party system", "No-party system"],
+    "correct_answer": 1,
+    "justification": "A two-party system is dominated by two major political parties."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution established the parliamentary system?",
+    "options": ["1963 Constitution", "1960 Constitution", "1979 Constitution", "1999 Constitution"],
+    "correct_answer": 1,
+    "justification": "The 1960 Independence Constitution established Nigeria’s parliamentary system."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the power to influence or control others?",
+    "options": ["Authority", "Power", "Sovereignty", "Legitimacy"],
+    "correct_answer": 1,
+    "justification": "Power is the ability to influence or control others in a political context."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization promotes economic cooperation among West African states?",
+    "options": ["AU", "ECOWAS", "UN", "OPEC"],
+    "correct_answer": 1,
+    "justification": "ECOWAS (Economic Community of West African States) promotes economic cooperation in West Africa."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where the head of state is elected?",
+    "options": ["Monarchy", "Republic", "Theocracy", "Oligarchy"],
+    "correct_answer": 1,
+    "justification": "A republic has an elected head of state, such as a president."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader introduced the Structural Adjustment Programme (SAP)?",
+    "options": ["Tafawa Balewa", "Ibrahim Babangida", "Olusegun Obasanjo", "Yakubu Gowon"],
+    "correct_answer": 1,
+    "justification": "Ibrahim Babangida introduced the SAP in Nigeria in 1986."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the right of citizens to participate in government?",
+    "options": ["Sovereignty", "Citizenship", "Franchise", "Authority"],
+    "correct_answer": 1,
+    "justification": "Citizenship includes the right to participate in government activities like voting."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria is responsible for financial oversight?",
+    "options": ["EFCC", "ICPC", "Auditor-General", "CBN"],
+    "correct_answer": 2,
+    "justification": "The Auditor-General is responsible for financial oversight and auditing public accounts."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system where states loosely cooperate?",
+    "options": ["Federal", "Unitary", "Confederal", "Presidential"],
+    "correct_answer": 2,
+    "justification": "A confederal system involves states loosely cooperating with a weak central authority."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian political party was prominent in the Second Republic?",
+    "options": ["NPC", "NPN", "AG", "NEPU"],
+    "correct_answer": 1,
+    "justification": "The National Party of Nigeria (NPN) was prominent in the Second Republic."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of amending a constitution?",
+    "options": ["Legislation", "Amendment", "Referendum", "Plebiscite"],
+    "correct_answer": 1,
+    "justification": "Amendment is the process of making changes to a constitution."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which international organization promotes peace and security?",
+    "options": ["ECOWAS", "UN", "AU", "OPEC"],
+    "correct_answer": 1,
+    "justification": "The United Nations (UN) promotes global peace and security."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government led by a military ruler?",
+    "options": ["Democracy", "Military regime", "Monarchy", "Theocracy"],
+    "correct_answer": 1,
+    "justification": "A military regime is a government led by military rulers."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader conducted the 1966 coup?",
+    "options": ["Yakubu Gowon", "Chukwuma Nzeogwu", "Olusegun Obasanjo", "Murtala Mohammed"],
+    "correct_answer": 1,
+    "justification": "Chukwuma Nzeogwu led the January 1966 military coup in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the power to enforce laws?",
+    "options": ["Legislative power", "Executive power", "Judicial power", "Sovereign power"],
+    "correct_answer": 1,
+    "justification": "Executive power involves the authority to enforce laws."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution is currently in use?",
+    "options": ["1960 Constitution", "1979 Constitution", "1999 Constitution", "1963 Constitution"],
+    "correct_answer": 2,
+    "justification": "The 1999 Constitution is currently in use in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a group of people with common political goals?",
+    "options": ["Pressure group", "Political party", "Trade union", "Civil society"],
+    "correct_answer": 1,
+    "justification": "A political party is a group of people with common political goals seeking power."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization replaced the Organization of African Unity (OAU)?",
+    "options": ["ECOWAS", "AU", "UN", "OPEC"],
+    "correct_answer": 1,
+    "justification": "The African Union (AU) replaced the Organization of African Unity in 2002."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the freedom of the press and speech?",
+    "options": ["Rule of law", "Fundamental rights", "Sovereignty", "Checks and balances"],
+    "correct_answer": 1,
+    "justification": "Fundamental rights include freedom of the press and speech."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader established the NYSC program?",
+    "options": ["Tafawa Balewa", "Yakubu Gowon", "Olusegun Obasanjo", "Ibrahim Babangida"],
+    "correct_answer": 1,
+    "justification": "Yakubu Gowon established the National Youth Service Corps (NYSC) in 1973."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system with multiple political parties?",
+    "options": ["One-party system", "Multi-party system", "Two-party system", "No-party system"],
+    "correct_answer": 1,
+    "justification": "A multi-party system allows multiple political parties to compete for power."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria investigates financial crimes?",
+    "options": ["INEC", "EFCC", "CBN", "ICPC"],
+    "correct_answer": 1,
+    "justification": "The Economic and Financial Crimes Commission (EFCC) investigates financial crimes."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where power is inherited?",
+    "options": ["Republic", "Hereditary monarchy", "Oligarchy", "Democracy"],
+    "correct_answer": 1,
+    "justification": "A hereditary monarchy is a government where power is passed through family lines."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution created the Mid-Western Region?",
+    "options": ["1960 Constitution", "1963 Constitution", "1979 Constitution", "1999 Constitution"],
+    "correct_answer": 1,
+    "justification": "The 1963 Constitution created the Mid-Western Region in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a group that influences government policies without seeking power?",
+    "options": ["Political party", "Pressure group", "Trade union", "Civil society"],
+    "correct_answer": 1,
+    "justification": "A pressure group seeks to influence government policies without contesting elections."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which international organization regulates global trade?",
+    "options": ["UN", "WTO", "AU", "ECOWAS"],
+    "correct_answer": 1,
+    "justification": "The World Trade Organization (WTO) regulates global trade."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where the head of government is a prime minister?",
+    "options": ["Presidential system", "Parliamentary system", "Federal system", "Unitary system"],
+    "correct_answer": 1,
+    "justification": "A parliamentary system has a prime minister as the head of government."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader was assassinated in 1976?",
+    "options": ["Tafawa Balewa", "Murtala Mohammed", "Yakubu Gowon", "Olusegun Obasanjo"],
+    "correct_answer": 1,
+    "justification": "Murtala Mohammed was assassinated in a coup attempt in 1976."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the legal authority to govern?",
+    "options": ["Power", "Legitimacy", "Sovereignty", "Authority"],
+    "correct_answer": 1,
+    "justification": "Authority is the legal right to govern or make decisions."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria regulates the civil service?",
+    "options": ["INEC", "FCSC", "EFCC", "CBN"],
+    "correct_answer": 1,
+    "justification": "The Federal Civil Service Commission (FCSC) regulates Nigeria’s civil service."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where the head of state is a president?",
+    "options": ["Parliamentary system", "Presidential system", "Monarchy", "Theocracy"],
+    "correct_answer": 1,
+    "justification": "A presidential system has a president as the head of state and government."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian political party won the 1999 elections?",
+    "options": ["PDP", "ANPP", "AD", "APP"],
+    "correct_answer": 0,
+    "justification": "The People’s Democratic Party (PDP) won the 1999 general elections in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of law-making?",
+    "options": ["Adjudication", "Legislation", "Administration", "Interpretation"],
+    "correct_answer": 1,
+    "justification": "Legislation is the process of making laws by the legislature."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization promotes African unity and development?",
+    "options": ["ECOWAS", "AU", "UN", "WTO"],
+    "correct_answer": 1,
+    "justification": "The African Union (AU) promotes unity and development among African states."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where power is seized by force?",
+    "options": ["Democracy", "Dictatorship", "Monarchy", "Republic"],
+    "correct_answer": 1,
+    "justification": "A dictatorship often involves power being seized or maintained by force."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader introduced the War Against Indiscipline (WAI)?",
+    "options": ["Olusegun Obasanjo", "Muhammadu Buhari", "Ibrahim Babangida", "Yakubu Gowon"],
+    "correct_answer": 1,
+    "justification": "Muhammadu Buhari introduced the War Against Indiscipline in 1984."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the division of government powers into three branches?",
+    "options": ["Checks and balances", "Separation of powers", "Rule of law", "Federalism"],
+    "correct_answer": 1,
+    "justification": "Separation of powers divides government into legislative, executive, and judicial branches."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria is responsible for monetary policy?",
+    "options": ["INEC", "CBN", "EFCC", "ICPC"],
+    "correct_answer": 1,
+    "justification": "The Central Bank of Nigeria (CBN) is responsible for monetary policy."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system where local governments have significant autonomy?",
+    "options": ["Unitary", "Federal", "Confederal", "Centralized"],
+    "correct_answer": 1,
+    "justification": "A federal system grants significant autonomy to local or regional governments."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian constitution abolished the regional system?",
+    "options": ["1960 Constitution", "1966 Constitution", "1979 Constitution", "1999 Constitution"],
+    "correct_answer": 1,
+    "justification": "The 1966 military decree effectively abolished the regional system in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of citizens expressing their opinions to influence government?",
+    "options": ["Lobbying", "Public opinion", "Voting", "Protest"],
+    "correct_answer": 1,
+    "justification": "Public opinion reflects citizens’ views to influence government policies."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization promotes global health policies?",
+    "options": ["WTO", "WHO", "AU", "ECOWAS"],
+    "correct_answer": 1,
+    "justification": "The World Health Organization (WHO) promotes global health policies."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where citizens elect their leaders?",
+    "options": ["Monarchy", "Democracy", "Theocracy", "Oligarchy"],
+    "correct_answer": 1,
+    "justification": "Democracy allows citizens to elect their leaders through voting."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader created 12 states in 1967?",
+    "options": ["Tafawa Balewa", "Yakubu Gowon", "Olusegun Obasanjo", "Ibrahim Babangida"],
+    "correct_answer": 1,
+    "justification": "Yakubu Gowon created 12 states in Nigeria in 1967 to replace regions."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the legal process of acquiring citizenship?",
+    "options": ["Immigration", "Naturalization", "Deportation", "Expatriation"],
+    "correct_answer": 1,
+    "justification": "Naturalization is the legal process of acquiring citizenship in a country."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria prosecutes corruption cases?",
+    "options": ["INEC", "ICPC", "CBN", "EFCC"],
+    "correct_answer": 1,
+    "justification": "The Independent Corrupt Practices Commission (ICPC) prosecutes corruption cases."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where power is centralized?",
+    "options": ["Federal", "Unitary", "Confederal", "Presidential"],
+    "correct_answer": 1,
+    "justification": "A unitary government centralizes power in a single authority."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian political party was prominent in the Third Republic?",
+    "options": ["PDP", "SDP", "ANPP", "AD"],
+    "correct_answer": 1,
+    "justification": "The Social Democratic Party (SDP) was prominent in Nigeria’s Third Republic."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of removing an elected official from office?",
+    "options": ["Election", "Impeachment", "Referendum", "Coup"],
+    "correct_answer": 1,
+    "justification": "Impeachment is the process of removing an elected official from office for misconduct."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization promotes oil-producing countries’ interests?",
+    "options": ["UN", "OPEC", "AU", "ECOWAS"],
+    "correct_answer": 1,
+    "justification": "The Organization of Petroleum Exporting Countries (OPEC) promotes oil-producing countries’ interests."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where the head of state is ceremonial?",
+    "options": ["Presidential system", "Constitutional monarchy", "Dictatorship", "Republic"],
+    "correct_answer": 1,
+    "justification": "A constitutional monarchy has a ceremonial head of state, typically a monarch."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader annulled the 1993 presidential election?",
+    "options": ["Olusegun Obasanjo", "Ibrahim Babangida", "Yakubu Gowon", "Sani Abacha"],
+    "correct_answer": 1,
+    "justification": "Ibrahim Babangida annulled the 1993 presidential election in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the power to review laws for constitutionality?",
+    "options": ["Legislative power", "Judicial review", "Executive power", "Sovereign power"],
+    "correct_answer": 1,
+    "justification": "Judicial review is the power to review laws to ensure they align with the constitution."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria conducts local government elections?",
+    "options": ["INEC", "SIEC", "EFCC", "CBN"],
+    "correct_answer": 1,
+    "justification": "State Independent Electoral Commissions (SIEC) conduct local government elections."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a system where states share power with a central authority?",
+    "options": ["Unitary", "Federal", "Confederal", "Centralized"],
+    "correct_answer": 1,
+    "justification": "A federal system shares power between central and state governments."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian political party won the 2015 elections?",
+    "options": ["PDP", "APC", "ANPP", "AD"],
+    "correct_answer": 1,
+    "justification": "The All Progressives Congress (APC) won the 2015 general elections in Nigeria."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process of forming a new government after elections?",
+    "options": ["Legislation", "Transition", "Referendum", "Coup"],
+    "correct_answer": 1,
+    "justification": "Transition is the process of forming a new government after elections."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organization promotes human rights globally?",
+    "options": ["WTO", "UN", "AU", "ECOWAS"],
+    "correct_answer": 1,
+    "justification": "The United Nations (UN) promotes human rights globally through its charter."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government where power is held by the people?",
+    "options": ["Monarchy", "Democracy", "Oligarchy", "Theocracy"],
+    "correct_answer": 1,
+    "justification": "Democracy is a government where power is held by the people through elections."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which Nigerian leader introduced the six geo-political zones?",
+    "options": ["Olusegun Obasanjo", "Sani Abacha", "Yakubu Gowon", "Ibrahim Babangida"],
+    "correct_answer": 1,
+    "justification": "Sani Abacha introduced the six geo-political zones in Nigeria in the 1990s."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the right to fair treatment under the law?",
+    "options": ["Sovereignty", "Due process", "Authority", "Franchise"],
+    "correct_answer": 1,
+    "justification": "Due process ensures fair treatment under the law for all citizens."
+  },
+  {
+    "subject": "Government",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which body in Nigeria appoints judges?",
+    "options": ["INEC", "NJC", "EFCC", "CBN"],
+    "correct_answer": 1,
+    "justification": "The National Judicial Council (NJC) appoints and disciplines judges in Nigeria."
+  }
+]

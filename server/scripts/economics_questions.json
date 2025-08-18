@@ -1,0 +1,902 @@
+[
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the study of economics primarily concerned with?",
+    "options": ["Allocation of scarce resources", "Production of goods only", "Distribution of wealth", "Consumption of services"],
+    "correct_answer": 0,
+    "justification": "Economics studies how scarce resources are allocated to meet unlimited human wants."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a basic economic problem?",
+    "options": ["Unlimited resources", "Scarcity", "Excess production", "Overpopulation"],
+    "correct_answer": 1,
+    "justification": "Scarcity, the limited availability of resources relative to wants, is a fundamental economic problem."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the satisfaction derived from consuming a good or service?",
+    "options": ["Profit", "Utility", "Revenue", "Cost"],
+    "correct_answer": 1,
+    "justification": "Utility refers to the satisfaction or benefit derived from consuming a good or service."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of economy relies primarily on customs and traditions?",
+    "options": ["Market economy", "Traditional economy", "Mixed economy", "Command economy"],
+    "correct_answer": 1,
+    "justification": "A traditional economy is guided by customs, traditions, and beliefs."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the quantity of a good consumers are willing to buy at a given price?",
+    "options": ["Supply", "Demand", "Production", "Consumption"],
+    "correct_answer": 1,
+    "justification": "Demand is the quantity of a good or service consumers are willing and able to buy at a specific price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which factor causes a shift in the demand curve?",
+    "options": ["Change in price", "Change in income", "Change in quantity supplied", "Change in production cost"],
+    "correct_answer": 1,
+    "justification": "A change in income shifts the demand curve, while a change in price causes movement along the curve."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the price at which quantity demanded equals quantity supplied?",
+    "options": ["Market price", "Equilibrium price", "Reserve price", "Ceiling price"],
+    "correct_answer": 1,
+    "justification": "The equilibrium price balances the quantity demanded and supplied in a market."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a determinant of supply?",
+    "options": ["Consumer income", "Production cost", "Consumer preferences", "Population size"],
+    "correct_answer": 1,
+    "justification": "Production cost affects the willingness and ability of producers to supply goods."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the effect of a price ceiling below the equilibrium price?",
+    "options": ["Surplus", "Shortage", "No effect", "Increased supply"],
+    "correct_answer": 1,
+    "justification": "A price ceiling below equilibrium causes a shortage, as demand exceeds supply."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of market structure has many firms selling identical products?",
+    "options": ["Monopoly", "Oligopoly", "Perfect competition", "Monopolistic competition"],
+    "correct_answer": 2,
+    "justification": "Perfect competition features many firms selling identical products with no control over price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total revenue minus total cost of a firm?",
+    "options": ["Loss", "Profit", "Income", "Dividend"],
+    "correct_answer": 1,
+    "justification": "Profit is the difference between total revenue and total cost."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a monopoly?",
+    "options": ["Many sellers", "Identical products", "Single seller", "Free entry"],
+    "correct_answer": 2,
+    "justification": "A monopoly has a single seller controlling the market with significant barriers to entry."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the responsiveness of demand to a change in price?",
+    "options": ["Elasticity of supply", "Price elasticity of demand", "Income elasticity", "Cross elasticity"],
+    "correct_answer": 1,
+    "justification": "Price elasticity of demand measures how sensitive demand is to a change in price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following goods has inelastic demand?",
+    "options": ["Luxury cars", "Salt", "Fashion clothing", "Electronics"],
+    "correct_answer": 1,
+    "justification": "Salt has inelastic demand because it is a necessity with few substitutes."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the cost of the next best alternative foregone?",
+    "options": ["Marginal cost", "Opportunity cost", "Fixed cost", "Variable cost"],
+    "correct_answer": 1,
+    "justification": "Opportunity cost is the value of the next best alternative given up when making a choice."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which sector of the economy involves manufacturing and processing?",
+    "options": ["Primary sector", "Secondary sector", "Tertiary sector", "Quaternary sector"],
+    "correct_answer": 1,
+    "justification": "The secondary sector involves manufacturing and processing raw materials into finished goods."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total value of goods and services produced in a country in a year?",
+    "options": ["Net income", "Gross domestic product", "National debt", "Balance of payments"],
+    "correct_answer": 1,
+    "justification": "Gross domestic product (GDP) measures the total value of goods and services produced in a country."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of economic growth?",
+    "options": ["Inflation rate", "Unemployment rate", "GDP growth rate", "Interest rate"],
+    "correct_answer": 2,
+    "justification": "GDP growth rate measures the increase in a country’s economic output over time."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a general increase in prices across an economy?",
+    "options": ["Deflation", "Inflation", "Recession", "Depression"],
+    "correct_answer": 1,
+    "justification": "Inflation is a sustained increase in the general price level of goods and services."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which policy uses government spending and taxation to influence the economy?",
+    "options": ["Monetary policy", "Fiscal policy", "Trade policy", "Industrial policy"],
+    "correct_answer": 1,
+    "justification": "Fiscal policy involves government spending and taxation to manage economic activity."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the rate at which a central bank lends to commercial banks?",
+    "options": ["Inflation rate", "Discount rate", "Exchange rate", "Interest rate"],
+    "correct_answer": 1,
+    "justification": "The discount rate is the interest rate charged by a central bank to commercial banks."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of money?",
+    "options": ["Medium of exchange", "Production of goods", "Distribution of wealth", "Creation of jobs"],
+    "correct_answer": 0,
+    "justification": "Money serves as a medium of exchange, facilitating transactions."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a situation where a country imports more than it exports?",
+    "options": ["Trade surplus", "Trade deficit", "Balance of trade", "Current account surplus"],
+    "correct_answer": 1,
+    "justification": "A trade deficit occurs when imports exceed exports."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Coal", "Oil", "Solar energy", "Natural gas"],
+    "correct_answer": 2,
+    "justification": "Solar energy is renewable as it is derived from the sun, an inexhaustible source."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total income earned by factors of production in a country?",
+    "options": ["Gross domestic product", "National income", "Net profit", "Balance of payments"],
+    "correct_answer": 1,
+    "justification": "National income is the total income earned by a country’s factors of production."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a mixed economy?",
+    "options": ["Only private ownership", "Only government control", "Both private and public sectors", "No trade"],
+    "correct_answer": 2,
+    "justification": "A mixed economy combines private and public sector involvement."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the cost incurred in producing one additional unit of output?",
+    "options": ["Fixed cost", "Variable cost", "Marginal cost", "Total cost"],
+    "correct_answer": 2,
+    "justification": "Marginal cost is the additional cost of producing one more unit of output."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a direct tax?",
+    "options": ["Value-added tax", "Income tax", "Sales tax", "Excise duty"],
+    "correct_answer": 1,
+    "justification": "Income tax is a direct tax levied on individuals’ earnings."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the rate at which one currency is exchanged for another?",
+    "options": ["Interest rate", "Exchange rate", "Inflation rate", "Discount rate"],
+    "correct_answer": 1,
+    "justification": "The exchange rate determines the value of one currency in terms of another."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of perfect competition?",
+    "options": ["Barriers to entry", "Price makers", "Many buyers and sellers", "Single seller"],
+    "correct_answer": 2,
+    "justification": "Perfect competition has many buyers and sellers with no control over price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a decrease in the general price level?",
+    "options": ["Inflation", "Deflation", "Recession", "Stagflation"],
+    "correct_answer": 1,
+    "justification": "Deflation is a sustained decrease in the general price level."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of commercial banks?",
+    "options": ["Issue currency", "Lend money", "Control money supply", "Set fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Commercial banks lend money to individuals and businesses."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the difference between exports and imports of goods and services?",
+    "options": ["Balance of payments", "Trade balance", "Current account", "Capital account"],
+    "correct_answer": 1,
+    "justification": "The trade balance is the difference between exports and imports of goods and services."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of income inequality?",
+    "options": ["GDP per capita", "Gini coefficient", "Inflation rate", "Unemployment rate"],
+    "correct_answer": 1,
+    "justification": "The Gini coefficient measures the degree of income inequality in a population."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total demand for goods and services in an economy?",
+    "options": ["Aggregate demand", "Individual demand", "Market demand", "Supply demand"],
+    "correct_answer": 0,
+    "justification": "Aggregate demand is the total demand for goods and services in an economy."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a tool of monetary policy?",
+    "options": ["Government spending", "Open market operations", "Taxation", "Subsidies"],
+    "correct_answer": 1,
+    "justification": "Open market operations involve buying or selling government securities to control money supply."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a market structure with few large firms?",
+    "options": ["Monopoly", "Oligopoly", "Perfect competition", "Monopolistic competition"],
+    "correct_answer": 1,
+    "justification": "An oligopoly has a few large firms dominating the market."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of elastic supply?",
+    "options": ["Fixed production", "Responsive to price changes", "No substitutes", "High production costs"],
+    "correct_answer": 1,
+    "justification": "Elastic supply is highly responsive to changes in price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the income earned by capital as a factor of production?",
+    "options": ["Wages", "Rent", "Interest", "Profit"],
+    "correct_answer": 2,
+    "justification": "Interest is the income earned by capital in the production process."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a non-renewable resource?",
+    "options": ["Wind energy", "Coal", "Solar energy", "Hydropower"],
+    "correct_answer": 1,
+    "justification": "Coal is a non-renewable resource as it is finite and depletes over time."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the cost that does not change with output?",
+    "options": ["Variable cost", "Fixed cost", "Marginal cost", "Total cost"],
+    "correct_answer": 1,
+    "justification": "Fixed costs remain constant regardless of the level of output."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an indirect tax?",
+    "options": ["Income tax", "Value-added tax", "Property tax", "Corporate tax"],
+    "correct_answer": 1,
+    "justification": "Value-added tax is an indirect tax levied on goods and services."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the value of a country’s currency in terms of another currency?",
+    "options": ["Interest rate", "Exchange rate", "Inflation rate", "Discount rate"],
+    "correct_answer": 1,
+    "justification": "The exchange rate is the value of one currency relative to another."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of monopolistic competition?",
+    "options": ["Identical products", "Single seller", "Product differentiation", "No barriers to entry"],
+    "correct_answer": 2,
+    "justification": "Monopolistic competition features many firms selling differentiated products."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a period of economic decline lasting more than two quarters?",
+    "options": ["Inflation", "Recession", "Deflation", "Stagflation"],
+    "correct_answer": 1,
+    "justification": "A recession is a period of economic decline lasting more than two consecutive quarters."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the central bank?",
+    "options": ["Lend to individuals", "Issue currency", "Provide financial advice", "Collect taxes"],
+    "correct_answer": 1,
+    "justification": "The central bank is responsible for issuing currency and controlling monetary policy."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the difference between a country’s total receipts and payments?",
+    "options": ["Trade balance", "Balance of payments", "Current account", "Capital account"],
+    "correct_answer": 1,
+    "justification": "The balance of payments records all economic transactions between a country and the rest of the world."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of economic development?",
+    "options": ["Unemployment rate", "Human development index", "Inflation rate", "Exchange rate"],
+    "correct_answer": 1,
+    "justification": "The human development index measures life expectancy, education, and per capita income."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total supply of goods and services in an economy?",
+    "options": ["Aggregate supply", "Individual supply", "Market supply", "Demand supply"],
+    "correct_answer": 0,
+    "justification": "Aggregate supply is the total supply of goods and services in an economy."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a tool of fiscal policy?",
+    "options": ["Open market operations", "Government spending", "Interest rates", "Reserve requirements"],
+    "correct_answer": 1,
+    "justification": "Government spending is a tool of fiscal policy to influence economic activity."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a market structure with one buyer and many sellers?",
+    "options": ["Monopoly", "Monopsony", "Oligopoly", "Perfect competition"],
+    "correct_answer": 1,
+    "justification": "A monopsony has one buyer and many sellers, giving the buyer market power."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of inelastic demand?",
+    "options": ["Many substitutes", "Low responsiveness to price changes", "Luxury goods", "High responsiveness to price"],
+    "correct_answer": 1,
+    "justification": "Inelastic demand means quantity demanded is less responsive to price changes."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the income earned by labor as a factor of production?",
+    "options": ["Rent", "Wages", "Interest", "Profit"],
+    "correct_answer": 1,
+    "justification": "Wages are the income earned by labor in the production process."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Petroleum", "Natural gas", "Wind energy", "Coal"],
+    "correct_answer": 2,
+    "justification": "Wind energy is renewable as it is generated from natural wind processes."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the cost that changes with output?",
+    "options": ["Fixed cost", "Variable cost", "Marginal cost", "Total cost"],
+    "correct_answer": 1,
+    "justification": "Variable costs change with the level of output, such as raw materials."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a progressive tax?",
+    "options": ["Sales tax", "Income tax", "Value-added tax", "Excise duty"],
+    "correct_answer": 1,
+    "justification": "Income tax is progressive, as the tax rate increases with income."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a tax imposed on imported goods?",
+    "options": ["Income tax", "Tariff", "Value-added tax", "Property tax"],
+    "correct_answer": 1,
+    "justification": "A tariff is a tax imposed on imported goods to protect domestic industries."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a command economy?",
+    "options": ["Private ownership", "Government control", "Market-driven prices", "No government intervention"],
+    "correct_answer": 1,
+    "justification": "A command economy is characterized by government control of resources and production."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a period of high inflation and high unemployment?",
+    "options": ["Recession", "Stagflation", "Deflation", "Depression"],
+    "correct_answer": 1,
+    "justification": "Stagflation is a situation with high inflation and high unemployment."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of stock exchanges?",
+    "options": ["Issue currency", "Facilitate trading of securities", "Control money supply", "Set fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Stock exchanges facilitate the buying and selling of securities like shares."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the excess of exports over imports?",
+    "options": ["Trade deficit", "Trade surplus", "Balance of trade", "Current account deficit"],
+    "correct_answer": 1,
+    "justification": "A trade surplus occurs when exports exceed imports."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of standard of living?",
+    "options": ["Unemployment rate", "GDP per capita", "Inflation rate", "Exchange rate"],
+    "correct_answer": 1,
+    "justification": "GDP per capita measures the average economic output per person, indicating standard of living."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total money supply in an economy?",
+    "options": ["Aggregate demand", "Money supply", "National income", "Fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Money supply is the total amount of money available in an economy."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a tool of monetary policy?",
+    "options": ["Government spending", "Reserve requirements", "Taxation", "Subsidies"],
+    "correct_answer": 1,
+    "justification": "Reserve requirements control the amount of money banks must hold, affecting money supply."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a market structure with many firms selling differentiated products?",
+    "options": ["Monopoly", "Oligopoly", "Monopolistic competition", "Perfect competition"],
+    "correct_answer": 2,
+    "justification": "Monopolistic competition has many firms selling slightly differentiated products."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of elastic demand?",
+    "options": ["Few substitutes", "High responsiveness to price changes", "Necessity goods", "Low responsiveness to price"],
+    "correct_answer": 1,
+    "justification": "Elastic demand is highly responsive to price changes, often due to many substitutes."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the income earned by land as a factor of production?",
+    "options": ["Wages", "Rent", "Interest", "Profit"],
+    "correct_answer": 1,
+    "justification": "Rent is the income earned by land in the production process."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a non-renewable resource?",
+    "options": ["Solar energy", "Oil", "Wind energy", "Hydropower"],
+    "correct_answer": 1,
+    "justification": "Oil is a non-renewable resource as it is finite and depletes over time."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the cost of producing a specific quantity of output?",
+    "options": ["Fixed cost", "Variable cost", "Total cost", "Marginal cost"],
+    "correct_answer": 2,
+    "justification": "Total cost is the sum of fixed and variable costs for producing a specific output."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a regressive tax?",
+    "options": ["Income tax", "Sales tax", "Property tax", "Corporate tax"],
+    "correct_answer": 1,
+    "justification": "Sales tax is regressive as it takes a larger percentage of income from lower earners."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government payment to reduce production costs?",
+    "options": ["Tariff", "Subsidy", "Tax", "Quota"],
+    "correct_answer": 1,
+    "justification": "A subsidy is a government payment to lower production costs and encourage output."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a market economy?",
+    "options": ["Government control", "Price determined by supply and demand", "No private ownership", "Central planning"],
+    "correct_answer": 1,
+    "justification": "In a market economy, prices are determined by supply and demand."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a prolonged period of economic decline?",
+    "options": ["Recession", "Depression", "Stagflation", "Inflation"],
+    "correct_answer": 1,
+    "justification": "A depression is a severe and prolonged economic decline."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of insurance companies?",
+    "options": ["Issue currency", "Provide risk coverage", "Control money supply", "Set fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Insurance companies provide risk coverage against financial losses."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total value of a country’s exports minus its imports?",
+    "options": ["Balance of payments", "Trade balance", "Current account", "Capital account"],
+    "correct_answer": 1,
+    "justification": "The trade balance is the difference between a country’s exports and imports."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of economic welfare?",
+    "options": ["Unemployment rate", "Human development index", "Inflation rate", "Exchange rate"],
+    "correct_answer": 1,
+    "justification": "The human development index measures factors like health, education, and income."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the responsiveness of supply to a change in price?",
+    "options": ["Price elasticity of demand", "Elasticity of supply", "Income elasticity", "Cross elasticity"],
+    "correct_answer": 1,
+    "justification": "Elasticity of supply measures how sensitive supply is to a change in price."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a public good?",
+    "options": ["Excludable", "Rivalrous", "Non-excludable", "Profit-driven"],
+    "correct_answer": 2,
+    "justification": "Public goods are non-excludable, meaning no one can be prevented from using them."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the income earned by entrepreneurs as a factor of production?",
+    "options": ["Wages", "Rent", "Interest", "Profit"],
+    "correct_answer": 3,
+    "justification": "Profit is the income earned by entrepreneurs for organizing production."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Coal", "Natural gas", "Biomass", "Petroleum"],
+    "correct_answer": 2,
+    "justification": "Biomass is renewable as it can be replenished through natural processes."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the additional satisfaction from consuming one more unit of a good?",
+    "options": ["Total utility", "Marginal utility", "Average utility", "Fixed utility"],
+    "correct_answer": 1,
+    "justification": "Marginal utility is the additional satisfaction gained from consuming one more unit."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a progressive tax system?",
+    "options": ["Flat tax rate", "Higher tax rate for higher incomes", "Equal tax for all", "Tax on goods"],
+    "correct_answer": 1,
+    "justification": "A progressive tax system imposes higher tax rates on higher income levels."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a restriction on the quantity of imported goods?",
+    "options": ["Tariff", "Subsidy", "Quota", "Tax"],
+    "correct_answer": 2,
+    "justification": "A quota limits the quantity of goods that can be imported."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a traditional economy?",
+    "options": ["Market-driven prices", "Government planning", "Custom-based production", "High technology"],
+    "correct_answer": 2,
+    "justification": "A traditional economy relies on customs and traditions to determine production."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a period of low economic activity and high unemployment?",
+    "options": ["Inflation", "Recession", "Deflation", "Stagflation"],
+    "correct_answer": 1,
+    "justification": "A recession is characterized by low economic activity and high unemployment."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of development banks?",
+    "options": ["Issue currency", "Provide long-term loans", "Control money supply", "Collect taxes"],
+    "correct_answer": 1,
+    "justification": "Development banks provide long-term loans for economic development projects."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the flow of goods, services, and capital across borders?",
+    "options": ["Balance of payments", "International trade", "Trade balance", "Capital account"],
+    "correct_answer": 1,
+    "justification": "International trade involves the exchange of goods, services, and capital across borders."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of population growth?",
+    "options": ["Birth rate minus death rate", "GDP per capita", "Inflation rate", "Unemployment rate"],
+    "correct_answer": 0,
+    "justification": "Population growth is measured by the difference between birth and death rates."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the responsiveness of demand to a change in income?",
+    "options": ["Price elasticity of demand", "Income elasticity of demand", "Elasticity of supply", "Cross elasticity"],
+    "correct_answer": 1,
+    "justification": "Income elasticity of demand measures how demand changes with income."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a private good?",
+    "options": ["Non-excludable", "Non-rivalrous", "Excludable", "Freely available"],
+    "correct_answer": 2,
+    "justification": "Private goods are excludable, meaning access can be restricted to paying users."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the income earned by entrepreneurship as a factor of production?",
+    "options": ["Wages", "Rent", "Interest", "Profit"],
+    "correct_answer": 3,
+    "justification": "Profit is the income earned by entrepreneurs for organizing production."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable resource?",
+    "options": ["Coal", "Natural gas", "Solar energy", "Petroleum"],
+    "correct_answer": 2,
+    "justification": "Solar energy is renewable as it is derived from the sun, an inexhaustible source."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the additional cost of producing one more unit of output?",
+    "options": ["Fixed cost", "Variable cost", "Marginal cost", "Total cost"],
+    "correct_answer": 2,
+    "justification": "Marginal cost is the additional cost incurred to produce one more unit of output."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a regressive tax system?",
+    "options": ["Higher tax rate for higher incomes", "Flat tax rate", "Higher tax burden on lower incomes", "Equal tax for all"],
+    "correct_answer": 2,
+    "justification": "A regressive tax system imposes a higher burden on lower-income earners."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a government restriction on the quantity of exports?",
+    "options": ["Tariff", "Subsidy", "Export quota", "Tax"],
+    "correct_answer": 2,
+    "justification": "An export quota limits the quantity of goods that can be exported."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a mixed economy?",
+    "options": ["Only private ownership", "Only government control", "Both private and public sectors", "No trade"],
+    "correct_answer": 2,
+    "justification": "A mixed economy combines private and public sector involvement."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a period of high inflation, high unemployment, and low growth?",
+    "options": ["Recession", "Stagflation", "Deflation", "Depression"],
+    "correct_answer": 1,
+    "justification": "Stagflation combines high inflation, high unemployment, and low economic growth."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of cooperative societies?",
+    "options": ["Issue currency", "Provide loans to members", "Control money supply", "Set fiscal policy"],
+    "correct_answer": 1,
+    "justification": "Cooperative societies provide loans and financial services to their members."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the total value of all economic transactions between a country and the world?",
+    "options": ["Balance of payments", "Trade balance", "Current account", "Capital account"],
+    "correct_answer": 0,
+    "justification": "The balance of payments records all economic transactions between a country and the rest of the world."
+  },
+  {
+    "subject": "Economics",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a measure of economic inequality?",
+    "options": ["GDP per capita", "Gini coefficient", "Inflation rate", "Unemployment rate"],
+    "correct_answer": 1,
+    "justification": "The Gini coefficient measures the degree of income inequality in a population."
+  }
+]

@@ -1,0 +1,1189 @@
+[
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'VAST'.",
+    "options": ["Huge", "Small", "Wide", "Enormous"],
+    "correct_answer": 1,
+    "justification": "'Vast' means very large, so the opposite is 'small'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: He *confidently* delivered the speech.",
+    "options": ["Adjective", "Adverb", "Verb", "Noun"],
+    "correct_answer": 1,
+    "justification": "'Confidently' describes how he delivered the speech, making it an adverb."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: Each of the students ___ a book.",
+    "options": ["has", "have", "had", "having"],
+    "correct_answer": 0,
+    "justification": "'Each' is singular, so the singular verb 'has' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Occurence", "Occurrence", "Ocurence", "Occurance"],
+    "correct_answer": 1,
+    "justification": "'Occurrence' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'PRUDENT'?",
+    "options": ["Careless", "Wise", "Reckless", "Hasty"],
+    "correct_answer": 1,
+    "justification": "'Prudent' means cautious and wise in decision-making."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She sing beautifully.",
+      "She sings beautifully.",
+      "She singing beautifully.",
+      "She sung beautifully."
+    ],
+    "correct_answer": 1,
+    "justification": "'She sings' uses the correct third-person singular present tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'PHOTOGRAPH'?",
+    "options": ["PHOtograph", "phoTOgraph", "photoGRAPH", "PHOTograph"],
+    "correct_answer": 1,
+    "justification": "The stress in 'photograph' is on the second syllable: phoTOgraph."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The decision was ___ by the committee.",
+    "options": ["Endorsed", "Ignored", "Postponed", "Criticized"],
+    "correct_answer": 0,
+    "justification": "'Endorsed' implies approval, fitting the context positively."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'The stars danced in the night sky.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 2,
+    "justification": "The stars are given a human quality (dancing), which is personification."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Mouse'.",
+    "options": ["Mouses", "Mice", "Mices", "Mouse"],
+    "correct_answer": 1,
+    "justification": "The plural of 'mouse' is 'mice'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Break the ice'?",
+    "options": [
+      "To cause trouble",
+      "To start a conversation",
+      "To end a relationship",
+      "To avoid responsibility"
+    ],
+    "correct_answer": 1,
+    "justification": "'Break the ice' means to initiate a conversation to ease tension."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: He is interested ___ learning new skills.",
+    "options": ["at", "in", "on", "with"],
+    "correct_answer": 1,
+    "justification": "The correct preposition is 'in' for 'interested in learning'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'VIVID'?",
+    "options": ["Dull", "Bright", "Vague", "Plain"],
+    "correct_answer": 1,
+    "justification": "'Vivid' means bright or clear, so 'bright' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'Please close the door.'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 3,
+    "justification": "The sentence gives a command, making it imperative."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'BOOK'.",
+    "options": ["Boot", "Buck", "Bake", "Bike"],
+    "correct_answer": 1,
+    "justification": "The vowel sound in 'book' (/ʊ/) matches the vowel sound in 'buck'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'GENEROUS'.",
+    "options": ["Kind", "Selfish", "Giving", "Charitable"],
+    "correct_answer": 1,
+    "justification": "'Generous' means giving freely, so the opposite is 'selfish'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: The *tall* building stood out.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 0,
+    "justification": "'Tall' describes the building, making it an adjective."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: Both of them ___ ready for the test.",
+    "options": ["is", "are", "was", "has"],
+    "correct_answer": 1,
+    "justification": "'Both' is plural, so the plural verb 'are' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Seperate", "Separate", "Seperete", "Separete"],
+    "correct_answer": 1,
+    "justification": "'Separate' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'OBSTACLE'?",
+    "options": ["Advantage", "Barrier", "Benefit", "Solution"],
+    "correct_answer": 1,
+    "justification": "'Obstacle' means something that hinders progress, so 'barrier' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "They was playing football.",
+      "They were playing football.",
+      "They is playing football.",
+      "They are play football."
+    ],
+    "correct_answer": 1,
+    "justification": "'They were playing' uses the correct past continuous tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'INFORMATION'?",
+    "options": ["inforMAtion", "INFOrmation", "inFORMation", "informAtion"],
+    "correct_answer": 2,
+    "justification": "The stress in 'information' is on the second syllable: inFORMation."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: Her speech was ___ by the audience.",
+    "options": ["Criticized", "Appreciated", "Ignored", "Delayed"],
+    "correct_answer": 1,
+    "justification": "'Appreciated' implies a positive response from the audience."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'Her smile was as bright as the sun.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 1,
+    "justification": "The comparison using 'as' indicates a simile."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Goose'.",
+    "options": ["Gooses", "Geese", "Goosies", "Geeses"],
+    "correct_answer": 1,
+    "justification": "The plural of 'goose' is 'geese'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Spill the beans'?",
+    "options": [
+      "To keep a secret",
+      "To reveal a secret",
+      "To make a mistake",
+      "To work hard"
+    ],
+    "correct_answer": 1,
+    "justification": "'Spill the beans' means to reveal a secret or hidden information."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: He is fond ___ reading novels.",
+    "options": ["of", "at", "in", "on"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'of' in 'fond of reading'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'FRAGILE'?",
+    "options": ["Strong", "Delicate", "Durable", "Tough"],
+    "correct_answer": 1,
+    "justification": "'Fragile' means easily broken, so 'delicate' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'Where is my book?'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 1,
+    "justification": "The sentence asks a question, making it interrogative."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'SEAT'.",
+    "options": ["Set", "See", "Sat", "Sot"],
+    "correct_answer": 1,
+    "justification": "The vowel sound in 'seat' (/i:/) matches the vowel sound in 'see'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'BRAVE'.",
+    "options": ["Courageous", "Fearful", "Bold", "Valiant"],
+    "correct_answer": 1,
+    "justification": "'Brave' means having courage, so the opposite is 'fearful'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: She sang a *beautiful* song.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 0,
+    "justification": "'Beautiful' describes the song, making it an adjective."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: Neither the teacher nor the students ___ happy.",
+    "options": ["is", "are", "was", "were"],
+    "correct_answer": 1,
+    "justification": "In 'neither...nor', the verb agrees with the closer subject 'students' (plural), so 'are' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Accomodate", "Accommodate", "Acommodate", "Accomodete"],
+    "correct_answer": 1,
+    "justification": "'Accommodate' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'PERSISTENT'?",
+    "options": ["Temporary", "Determined", "Weak", "Hesitant"],
+    "correct_answer": 1,
+    "justification": "'Persistent' means continuing firmly, so 'determined' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "I has finished my work.",
+      "I have finished my work.",
+      "I am finish my work.",
+      "I finished my work."
+    ],
+    "correct_answer": 1,
+    "justification": "'I have finished' uses the correct present perfect tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'DEVELOPMENT'?",
+    "options": ["DEvelopment", "deVELopment", "developMENT", "deveLOPment"],
+    "correct_answer": 1,
+    "justification": "The stress in 'development' is on the second syllable: deVELopment."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The plan was ___ by the team.",
+    "options": ["Rejected", "Accepted", "Delayed", "Cancelled"],
+    "correct_answer": 1,
+    "justification": "'Accepted' implies agreement, fitting the context positively."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'Time is a thief.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 0,
+    "justification": "'Time is a thief' directly compares time to a thief without using 'like' or 'as', making it a metaphor."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Leaf'.",
+    "options": ["Leafs", "Leaves", "Leaaves", "Leafes"],
+    "correct_answer": 1,
+    "justification": "The plural of 'leaf' is 'leaves'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Kick the bucket'?",
+    "options": [
+      "To start a project",
+      "To die",
+      "To succeed",
+      "To give up"
+    ],
+    "correct_answer": 1,
+    "justification": "'Kick the bucket' is an idiom meaning to die."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: She is allergic ___ cats.",
+    "options": ["to", "with", "at", "in"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'to' in 'allergic to cats'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'GLOOMY'?",
+    "options": ["Cheerful", "Depressing", "Bright", "Lively"],
+    "correct_answer": 1,
+    "justification": "'Gloomy' means sad or depressing, so 'depressing' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'How wonderful the sunset is!'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 2,
+    "justification": "The sentence expresses strong emotion with an exclamation mark, making it exclamatory."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'CANE'.",
+    "options": ["Can", "Cone", "Coin", "Cun"],
+    "correct_answer": 0,
+    "justification": "The vowel sound in 'cane' (/eɪ/) matches the vowel sound in 'can'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'HUMBLE'.",
+    "options": ["Modest", "Arrogant", "Kind", "Gentle"],
+    "correct_answer": 1,
+    "justification": "'Humble' means modest or unpretentious, so the opposite is 'arrogant'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: The *dog* barked loudly.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 2,
+    "justification": "'Dog' is a person, place, or thing, making it a noun."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: The news ___ shocking.",
+    "options": ["is", "are", "were", "have"],
+    "correct_answer": 0,
+    "justification": "'News' is singular, so the singular verb 'is' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Judgement", "Judgment", "Judgemant", "Judgament"],
+    "correct_answer": 1,
+    "justification": "'Judgment' is the correct spelling in standard English."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'ADEQUATE'?",
+    "options": ["Insufficient", "Enough", "Excessive", "Poor"],
+    "correct_answer": 1,
+    "justification": "'Adequate' means sufficient or enough."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He don’t like coffee.",
+      "He doesn’t like coffee.",
+      "He not like coffee.",
+      "He isn’t like coffee."
+    ],
+    "correct_answer": 1,
+    "justification": "'He doesn’t like' uses the correct third-person singular form."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'ECONOMY'?",
+    "options": ["EConomy", "ecoNOMy", "eCONomy", "econOMY"],
+    "correct_answer": 2,
+    "justification": "The stress in 'economy' is on the second syllable: eCONomy."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: His actions were ___ by his peers.",
+    "options": ["Admired", "Condemned", "Ignored", "Delayed"],
+    "correct_answer": 0,
+    "justification": "'Admired' implies a positive response from peers."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that is most nearly opposite in meaning to 'ENORMOUS'.",
+    "options": ["Huge", "Tiny", "Large", "Massive"],
+    "correct_answer": 1,
+    "justification": "'Enormous' means very large, so the opposite is 'tiny'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: She *quickly* ran to the store.",
+    "options": ["Adjective", "Adverb", "Verb", "Noun"],
+    "correct_answer": 1,
+    "justification": "'Quickly' describes how she ran, making it an adverb."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: Neither of the boys ___ coming to the party.",
+    "options": ["is", "are", "were", "have"],
+    "correct_answer": 0,
+    "justification": "'Neither' is singular, so the singular verb 'is' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Recieve", "Receive", "Receeve", "Recive"],
+    "correct_answer": 1,
+    "justification": "'Receive' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'DILIGENT'?",
+    "options": ["Lazy", "Careless", "Hardworking", "Idle"],
+    "correct_answer": 2,
+    "justification": "'Diligent' means hardworking or industrious."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "He go to school every day.",
+      "He goes to school every day.",
+      "He going to school every day.",
+      "He gone to school every day."
+    ],
+    "correct_answer": 1,
+    "justification": "'He goes' uses the correct third-person singular present tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'EDUCATION'?",
+    "options": ["EDUcation", "eduCAtion", "educatION", "EDUcatION"],
+    "correct_answer": 1,
+    "justification": "The stress in 'education' is on the second syllable: eduCAtion."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The politician's decision was ___ by the public.",
+    "options": ["Applauded", "Ignored", "Rejected", "Delayed"],
+    "correct_answer": 0,
+    "justification": "'Applauded' fits positively, implying public approval."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'The wind whispered through the trees.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 2,
+    "justification": "The wind is given human quality (whispering), which is personification."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Child'.",
+    "options": ["Childs", "Children", "Childrens", "Childes"],
+    "correct_answer": 1,
+    "justification": "The plural of 'child' is 'children'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Bite the bullet'?",
+    "options": [
+      "To avoid a problem",
+      "To face a difficult situation bravely",
+      "To give up easily",
+      "To criticize someone"
+    ],
+    "correct_answer": 1,
+    "justification": "'Bite the bullet' means to endure a painful or difficult situation with courage."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: She is good ___ playing the piano.",
+    "options": ["at", "in", "on", "with"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'at' in the phrase 'good at playing'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'BRIEF'?",
+    "options": ["Long", "Short", "Detailed", "Complex"],
+    "correct_answer": 1,
+    "justification": "'Brief' means short in duration or extent, so 'short' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'What a beautiful day it is!'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 2,
+    "justification": "The sentence expresses strong emotion and ends with an exclamation mark, making it exclamatory."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the correct vowel sound in 'CAT'.",
+    "options": ["Hate", "Hat", "Height", "Hot"],
+    "correct_answer": 1,
+    "justification": "The vowel sound in 'cat' (/æ/) matches the vowel sound in 'hat'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word opposite in meaning to 'GENEROUS'.",
+    "options": ["Kind", "Selfish", "Giving", "Friendly"],
+    "correct_answer": 1,
+    "justification": "'Generous' means giving freely, so the opposite is 'selfish'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: The *tall* building stood out.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 0,
+    "justification": "'Tall' describes the building, making it an adjective."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: They ___ to the market every Saturday.",
+    "options": ["go", "goes", "going", "gone"],
+    "correct_answer": 0,
+    "justification": "'They' is plural, so the base verb 'go' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'The room was a sea of colors.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 0,
+    "justification": "The room is directly compared to a sea without 'like' or 'as', making it a metaphor."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Tooth'.",
+    "options": ["Tooths", "Teeth", "Toothes", "Teeths"],
+    "correct_answer": 1,
+    "justification": "The plural of 'tooth' is 'teeth'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Let the cat out of the bag'?",
+    "options": [
+      "To keep a secret",
+      "To reveal a secret",
+      "To start a fight",
+      "To avoid trouble"
+    ],
+    "correct_answer": 1,
+    "justification": "'Let the cat out of the bag' means to reveal a secret."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: She is responsible ___ the project.",
+    "options": ["for", "to", "with", "at"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'for' in 'responsible for the project'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'HOSTILE'?",
+    "options": ["Friendly", "Aggressive", "Peaceful", "Calm"],
+    "correct_answer": 1,
+    "justification": "'Hostile' means unfriendly or aggressive, so 'aggressive' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'Bring me the book.'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 3,
+    "justification": "The sentence gives a command, making it imperative."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'FOOD'.",
+    "options": ["Foot", "Fool", "Fad", "Fun"],
+    "correct_answer": 1,
+    "justification": "The vowel sound in 'food' (/u:/) matches the vowel sound in 'fool'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'ANCIENT'.",
+    "options": ["Old", "Modern", "Historic", "Traditional"],
+    "correct_answer": 1,
+    "justification": "'Ancient' means very old, so the opposite is 'modern'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: He *ran* to the station.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 3,
+    "justification": "'Ran' indicates an action, making it a verb."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: One of the cars ___ new.",
+    "options": ["is", "are", "were", "have"],
+    "correct_answer": 0,
+    "justification": "'One' is singular, so the singular verb 'is' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Neccessary", "Necessary", "Necesary", "Neccesary"],
+    "correct_answer": 1,
+    "justification": "'Necessary' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'VIGOROUS'?",
+    "options": ["Weak", "Energetic", "Tired", "Slow"],
+    "correct_answer": 1,
+    "justification": "'Vigorous' means strong and energetic."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "We is going to the market.",
+      "We are going to the market.",
+      "We goes to the market.",
+      "We gone to the market."
+    ],
+    "correct_answer": 1,
+    "justification": "'We are going' uses the correct plural present tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'UNIVERSITY'?",
+    "options": ["uniVERsity", "UNiversity", "univerSITY", "univERsity"],
+    "correct_answer": 2,
+    "justification": "The stress in 'university' is on the third syllable: univerSITY."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The book was ___ by the critics.",
+    "options": ["Praised", "Ignored", "Banned", "Revised"],
+    "correct_answer": 0,
+    "justification": "'Praised' implies a positive response from critics."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'The leaves danced in the wind.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 2,
+    "justification": "The leaves are given a human quality (dancing), which is personification."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Man'.",
+    "options": ["Mans", "Men", "Menes", "Manses"],
+    "correct_answer": 1,
+    "justification": "The plural of 'man' is 'men'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Under the weather'?",
+    "options": [
+      "Feeling happy",
+      "Feeling unwell",
+      "Feeling excited",
+      "Feeling angry"
+    ],
+    "correct_answer": 1,
+    "justification": "'Under the weather' means feeling unwell or sick."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: He is afraid ___ heights.",
+    "options": ["of", "at", "in", "with"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'of' in 'afraid of heights'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'CREDIBLE'?",
+    "options": ["Unbelievable", "Believable", "Doubtful", "False"],
+    "correct_answer": 1,
+    "justification": "'Credible' means believable or trustworthy."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'Is it raining outside?'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 1,
+    "justification": "The sentence asks a question, making it interrogative."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'LIGHT'.",
+    "options": ["Lit", "Let", "Late", "Loot"],
+    "correct_answer": 0,
+    "justification": "The vowel sound in 'light' (/aɪ/) matches the vowel sound in 'lit'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'POLITE'.",
+    "options": ["Courteous", "Rude", "Kind", "Gentle"],
+    "correct_answer": 1,
+    "justification": "'Polite' means courteous, so the opposite is 'rude'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: She *carefully* opened the box.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 1,
+    "justification": "'Carefully' describes how she opened the box, making it an adverb."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: The committee ___ decided to proceed.",
+    "options": ["has", "have", "had", "having"],
+    "correct_answer": 0,
+    "justification": "'Committee' is singular, so the singular verb 'has' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Embarrass", "Embarass", "Embarras", "Embaras"],
+    "correct_answer": 0,
+    "justification": "'Embarrass' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'SPONTANEOUS'?",
+    "options": ["Planned", "Impulsive", "Forced", "Deliberate"],
+    "correct_answer": 1,
+    "justification": "'Spontaneous' means impulsive or unplanned."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "They has arrived late.",
+      "They have arrived late.",
+      "They is arrived late.",
+      "They are arrive late."
+    ],
+    "correct_answer": 1,
+    "justification": "'They have arrived' uses the correct plural present perfect tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'ADVERTISEMENT'?",
+    "options": ["ADvertisement", "adVERtisement", "advertiseMENT", "adverTISEment"],
+    "correct_answer": 1,
+    "justification": "The stress in 'advertisement' is on the second syllable: adVERtisement."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The proposal was ___ by the board.",
+    "options": ["Approved", "Rejected", "Postponed", "Ignored"],
+    "correct_answer": 0,
+    "justification": "'Approved' implies a positive decision by the board."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'His words cut like a knife.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 1,
+    "justification": "The comparison using 'like' indicates a simile."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Ox'.",
+    "options": ["Oxes", "Oxen", "Oxies", "Oxs"],
+    "correct_answer": 1,
+    "justification": "The plural of 'ox' is 'oxen'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Hit the nail on the head'?",
+    "options": [
+      "To miss the point",
+      "To be exactly right",
+      "To make a mistake",
+      "To avoid responsibility"
+    ],
+    "correct_answer": 1,
+    "justification": "'Hit the nail on the head' means to be exactly right about something."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: She is excited ___ the trip.",
+    "options": ["about", "with", "at", "in"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'about' in 'excited about the trip'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'TRANQUIL'?",
+    "options": ["Chaotic", "Peaceful", "Noisy", "Restless"],
+    "correct_answer": 1,
+    "justification": "'Tranquil' means calm or peaceful."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'The concert was amazing!'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 2,
+    "justification": "The sentence expresses strong emotion with an exclamation mark, making it exclamatory."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'FATE'.",
+    "options": ["Fat", "Feet", "Fit", "Fete"],
+    "correct_answer": 3,
+    "justification": "The vowel sound in 'fate' (/eɪ/) matches the vowel sound in 'fete'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word most nearly opposite in meaning to 'FLEXIBLE'.",
+    "options": ["Adaptable", "Rigid", "Pliable", "Soft"],
+    "correct_answer": 1,
+    "justification": "'Flexible' means adaptable or bendable, so the opposite is 'rigid'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the part of speech of the underlined word in: The *river* flows gently.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correct_answer": 2,
+    "justification": "'River' is a person, place, or thing, making it a noun."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct form: All the books ___ on the shelf.",
+    "options": ["is", "are", "was", "has"],
+    "correct_answer": 1,
+    "justification": "'Books' is plural, so the plural verb 'are' is correct."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is correctly spelled?",
+    "options": ["Definate", "Definite", "Definiete", "Definit"],
+    "correct_answer": 1,
+    "justification": "'Definite' is the correct spelling."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the synonym of 'INNOVATIVE'?",
+    "options": ["Traditional", "Creative", "Ordinary", "Old"],
+    "correct_answer": 1,
+    "justification": "'Innovative' means introducing new ideas, so 'creative' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She write a letter.",
+      "She writes a letter.",
+      "She writing a letter.",
+      "She written a letter."
+    ],
+    "correct_answer": 1,
+    "justification": "'She writes' uses the correct third-person singular present tense."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word has the correct stress pattern for 'EXAMINATION'?",
+    "options": ["exAMInation", "examINAtion", "exaMINation", "examinAtion"],
+    "correct_answer": 2,
+    "justification": "The stress in 'examination' is on the third syllable: exaMINation."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word that best completes the sentence: The event was ___ by everyone.",
+    "options": ["Celebrated", "Ignored", "Cancelled", "Postponed"],
+    "correct_answer": 0,
+    "justification": "'Celebrated' implies a positive response from everyone."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the figure of speech in: 'The world is a stage.'",
+    "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+    "correct_answer": 0,
+    "justification": "The world is directly compared to a stage without 'like' or 'as', making it a metaphor."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct plural form of 'Child'.",
+    "options": ["Childs", "Children", "Childrens", "Childes"],
+    "correct_answer": 1,
+    "justification": "The plural of 'child' is 'children'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the meaning of the idiom 'Bite the bullet'?",
+    "options": [
+      "To avoid a problem",
+      "To face a difficult situation bravely",
+      "To give up easily",
+      "To criticize someone"
+    ],
+    "correct_answer": 1,
+    "justification": "'Bite the bullet' means to endure a painful or difficult situation with courage."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the correct preposition: He is good ___ mathematics.",
+    "options": ["at", "in", "on", "with"],
+    "correct_answer": 0,
+    "justification": "The correct preposition is 'at' in 'good at mathematics'."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which word is a synonym for 'BRIEF'?",
+    "options": ["Long", "Short", "Detailed", "Complex"],
+    "correct_answer": 1,
+    "justification": "'Brief' means short in duration or extent, so 'short' is the synonym."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Identify the type of sentence: 'What a beautiful day it is!'",
+    "options": ["Declarative", "Interrogative", "Exclamatory", "Imperative"],
+    "correct_answer": 2,
+    "justification": "The sentence expresses strong emotion with an exclamation mark, making it exclamatory."
+  },
+  {
+    "subject": "English",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Choose the word with the same vowel sound as 'CAT'.",
+    "options": ["Hate", "Hat", "Height", "Hot"],
+    "correct_answer": 1,
+    "justification": "The vowel sound in 'cat' (/æ/) matches the vowel sound in 'hat'."
+  }
+]

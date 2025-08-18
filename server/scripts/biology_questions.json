@@ -1,0 +1,866 @@
+[
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the primary source of energy for Earth's ecosystem?",
+    "options": ["Wind", "Sun", "Geothermal", "Tides"],
+    "correct_answer": 1,
+    "justification": "The Sun provides energy for photosynthesis, which is the basis of energy flow in ecosystems."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organelle is responsible for protein synthesis in a cell?",
+    "options": ["Mitochondrion", "Ribosome", "Nucleus", "Golgi apparatus"],
+    "correct_answer": 1,
+    "justification": "Ribosomes are the sites where proteins are synthesized in the cell."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main function of the cell membrane?",
+    "options": ["Energy production", "Controlling cell activities", "Regulating substances in and out", "Synthesizing proteins"],
+    "correct_answer": 2,
+    "justification": "The cell membrane regulates the movement of substances into and out of the cell."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which gas is primarily used by plants during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correct_answer": 1,
+    "justification": "Plants use carbon dioxide during photosynthesis to produce glucose."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the basic unit of life?",
+    "options": ["Tissue", "Cell", "Organ", "Molecule"],
+    "correct_answer": 1,
+    "justification": "The cell is the smallest unit capable of performing life functions."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "correct_answer": 3,
+    "justification": "Blood group O is the universal donor as it lacks antigens, making it compatible with all blood types."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process by which plants lose water through their leaves?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Absorption"],
+    "correct_answer": 1,
+    "justification": "Transpiration is the loss of water vapor through the stomata of leaves."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which part of a flower produces pollen grains?",
+    "options": ["Ovary", "Stigma", "Anther", "Petal"],
+    "correct_answer": 2,
+    "justification": "The anther is the part of the stamen that produces pollen grains."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the genetic material in most living organisms?",
+    "options": ["RNA", "DNA", "Protein", "Carbohydrate"],
+    "correct_answer": 1,
+    "justification": "DNA is the primary genetic material that carries hereditary information in most organisms."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of cell division results in gamete formation?",
+    "options": ["Mitosis", "Meiosis", "Binary fission", "Budding"],
+    "correct_answer": 1,
+    "justification": "Meiosis produces gametes with half the chromosome number for sexual reproduction."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main function of the kidneys in humans?",
+    "options": ["Digestion", "Filtration of blood", "Respiration", "Circulation"],
+    "correct_answer": 1,
+    "justification": "The kidneys filter blood to remove waste and regulate water and electrolyte balance."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of mammals?",
+    "options": ["Cold-blooded", "Lay eggs", "Have mammary glands", "Have scales"],
+    "correct_answer": 2,
+    "justification": "Mammals have mammary glands that produce milk to nourish their young."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of chlorophyll in plants?",
+    "options": ["Transport water", "Absorb light energy", "Store nutrients", "Protect against pests"],
+    "correct_answer": 1,
+    "justification": "Chlorophyll absorbs light energy for photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a decomposer?",
+    "options": ["Grass", "Fungi", "Lion", "Eagle"],
+    "correct_answer": 1,
+    "justification": "Fungi break down dead organic matter, acting as decomposers in ecosystems."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process of breaking down food into simpler substances called?",
+    "options": ["Respiration", "Digestion", "Photosynthesis", "Excretion"],
+    "correct_answer": 1,
+    "justification": "Digestion is the process of breaking down food into simpler substances for absorption."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organ is responsible for pumping blood in the human body?",
+    "options": ["Liver", "Heart", "Lung", "Kidney"],
+    "correct_answer": 1,
+    "justification": "The heart pumps blood throughout the body via the circulatory system."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for organisms that produce their own food?",
+    "options": ["Heterotrophs", "Autotrophs", "Carnivores", "Omnivores"],
+    "correct_answer": 1,
+    "justification": "Autotrophs, like plants, produce their own food through processes like photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the root system in plants?",
+    "options": ["Photosynthesis", "Anchorage", "Reproduction", "Respiration"],
+    "correct_answer": 1,
+    "justification": "Roots anchor plants in the soil and absorb water and nutrients."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the genetic makeup of an organism called?",
+    "options": ["Phenotype", "Genotype", "Allele", "Trait"],
+    "correct_answer": 1,
+    "justification": "The genotype is the genetic makeup of an organism, determining its traits."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which gas is released as a byproduct of photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correct_answer": 1,
+    "justification": "Oxygen is released as a byproduct during photosynthesis in plants."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main function of the respiratory system in humans?",
+    "options": ["Digestion", "Gas exchange", "Circulation", "Excretion"],
+    "correct_answer": 1,
+    "justification": "The respiratory system facilitates gas exchange, supplying oxygen and removing carbon dioxide."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of arthropods?",
+    "options": ["Backbone", "Exoskeleton", "Mammary glands", "Gills"],
+    "correct_answer": 1,
+    "justification": "Arthropods have an exoskeleton made of chitin, providing support and protection."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process by which organisms produce offspring?",
+    "options": ["Respiration", "Reproduction", "Excretion", "Nutrition"],
+    "correct_answer": 1,
+    "justification": "Reproduction is the process by which organisms produce offspring to continue their species."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which biomolecule is the primary source of energy for the body?",
+    "options": ["Protein", "Carbohydrate", "Lipid", "Nucleic acid"],
+    "correct_answer": 1,
+    "justification": "Carbohydrates are the primary source of energy, broken down into glucose for cellular use."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the stomata in plants?",
+    "options": ["Absorb sunlight", "Gas exchange", "Store nutrients", "Transport water"],
+    "correct_answer": 1,
+    "justification": "Stomata allow gas exchange, taking in carbon dioxide and releasing oxygen."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a producer in a food chain?",
+    "options": ["Lion", "Grass", "Hawk", "Snake"],
+    "correct_answer": 1,
+    "justification": "Grass is a producer, as it synthesizes its own food through photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of the nucleus in a cell?",
+    "options": ["Energy production", "Controlling cell activities", "Protein synthesis", "Waste removal"],
+    "correct_answer": 1,
+    "justification": "The nucleus controls cell activities and contains genetic material."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of reproduction involves only one parent?",
+    "options": ["Sexual reproduction", "Asexual reproduction", "Binary fission", "Budding"],
+    "correct_answer": 1,
+    "justification": "Asexual reproduction involves one parent and produces genetically identical offspring."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main source of energy for cellular respiration?",
+    "options": ["Glucose", "Oxygen", "Carbon dioxide", "Water"],
+    "correct_answer": 0,
+    "justification": "Glucose is broken down during cellular respiration to release energy."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondrion", "Ribosome", "Lysosome"],
+    "correct_answer": 1,
+    "justification": "Mitochondria produce ATP, the cell’s energy currency, through respiration."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the physical expression of an organism’s genes?",
+    "options": ["Genotype", "Phenotype", "Allele", "Chromosome"],
+    "correct_answer": 1,
+    "justification": "The phenotype is the observable physical or biochemical traits of an organism."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the liver?",
+    "options": ["Pumping blood", "Detoxifying harmful substances", "Gas exchange", "Producing urine"],
+    "correct_answer": 1,
+    "justification": "The liver detoxifies harmful substances and performs metabolic functions."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of bacteria?",
+    "options": ["Have a nucleus", "Lack a nucleus", "Multicellular", "Have chloroplasts"],
+    "correct_answer": 1,
+    "justification": "Bacteria are prokaryotes and lack a true nucleus."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process by which water moves through a plant from roots to leaves?",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Absorption"],
+    "correct_answer": 1,
+    "justification": "Transpiration drives the movement of water from roots to leaves through the plant."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of tissue provides support in plants?",
+    "options": ["Parenchyma", "Sclerenchyma", "Collenchyma", "Xylem"],
+    "correct_answer": 1,
+    "justification": "Sclerenchyma provides structural support with its thick, lignified cell walls."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of red blood cells in the human body?",
+    "options": ["Fight infections", "Transport oxygen", "Clot blood", "Digest food"],
+    "correct_answer": 1,
+    "justification": "Red blood cells transport oxygen from the lungs to body tissues."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a symbiotic relationship?",
+    "options": ["Predation", "Mutualism", "Competition", "Parasitism"],
+    "correct_answer": 1,
+    "justification": "Mutualism is a symbiotic relationship where both organisms benefit."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of the pancreas in digestion?",
+    "options": ["Produces bile", "Produces digestive enzymes", "Absorbs nutrients", "Stores food"],
+    "correct_answer": 1,
+    "justification": "The pancreas produces digestive enzymes that help break down carbohydrates, proteins, and fats."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of viruses?",
+    "options": ["Have a cell wall", "Reproduce independently", "Require a host to reproduce", "Perform photosynthesis"],
+    "correct_answer": 2,
+    "justification": "Viruses require a host cell to reproduce as they lack their own metabolic machinery."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the variety of life in an ecosystem?",
+    "options": ["Population", "Biodiversity", "Community", "Habitat"],
+    "correct_answer": 1,
+    "justification": "Biodiversity refers to the variety of life forms in an ecosystem."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which part of the human brain controls balance and coordination?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "correct_answer": 1,
+    "justification": "The cerebellum is responsible for balance and coordination."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process by which organisms adapt to their environment over generations?",
+    "options": ["Evolution", "Mutation", "Reproduction", "Respiration"],
+    "correct_answer": 0,
+    "justification": "Evolution is the process of adaptation through natural selection over generations."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the xylem in plants?",
+    "options": ["Transport food", "Transport water", "Support leaves", "Produce flowers"],
+    "correct_answer": 1,
+    "justification": "Xylem transports water and minerals from roots to other parts of the plant."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for a change in an organism’s DNA?",
+    "options": ["Evolution", "Mutation", "Adaptation", "Selection"],
+    "correct_answer": 1,
+    "justification": "A mutation is a change in the DNA sequence of an organism."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a primary consumer in a food chain?",
+    "options": ["Lion", "Grasshopper", "Hawk", "Snake"],
+    "correct_answer": 1,
+    "justification": "Grasshoppers are primary consumers as they feed directly on producers like plants."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of white blood cells in the human body?",
+    "options": ["Transport oxygen", "Fight infections", "Clot blood", "Carry nutrients"],
+    "correct_answer": 1,
+    "justification": "White blood cells are part of the immune system and fight infections."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of amphibians?",
+    "options": ["Dry skin", "Live entirely in water", "Moist skin", "Have feathers"],
+    "correct_answer": 2,
+    "justification": "Amphibians have moist skin, which aids in respiration."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the movement of water across a semi-permeable membrane?",
+    "options": ["Diffusion", "Osmosis", "Active transport", "Filtration"],
+    "correct_answer": 1,
+    "justification": "Osmosis is the movement of water across a semi-permeable membrane from high to low concentration."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organ in humans produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "correct_answer": 1,
+    "justification": "The pancreas produces insulin to regulate blood sugar levels."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the phloem in plants?",
+    "options": ["Transport water", "Transport food", "Support stem", "Absorb sunlight"],
+    "correct_answer": 1,
+    "justification": "Phloem transports food (sugars) produced during photosynthesis to other parts of the plant."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a method of asexual reproduction in plants?",
+    "options": ["Pollination", "Vegetative propagation", "Fertilization", "Seed dispersal"],
+    "correct_answer": 1,
+    "justification": "Vegetative propagation involves producing new plants from stems, roots, or leaves."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for organisms that feed on both plants and animals?",
+    "options": ["Herbivores", "Carnivores", "Omnivores", "Decomposers"],
+    "correct_answer": 2,
+    "justification": "Omnivores consume both plant and animal matter."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which part of the human eye detects light?",
+    "options": ["Cornea", "Retina", "Lens", "Iris"],
+    "correct_answer": 1,
+    "justification": "The retina contains photoreceptors that detect light and form images."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process of cell division that produces identical daughter cells?",
+    "options": ["Meiosis", "Mitosis", "Binary fission", "Budding"],
+    "correct_answer": 1,
+    "justification": "Mitosis produces two identical daughter cells for growth and repair."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the skeletal system?",
+    "options": ["Gas exchange", "Support and movement", "Digestion", "Excretion"],
+    "correct_answer": 1,
+    "justification": "The skeletal system provides support and enables movement."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the relationship where one organism benefits and the other is harmed?",
+    "options": ["Mutualism", "Parasitism", "Commensalism", "Competition"],
+    "correct_answer": 1,
+    "justification": "Parasitism involves one organism benefiting at the expense of another."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of fungi?",
+    "options": ["Perform photosynthesis", "Have chlorophyll", "Absorb nutrients", "Are autotrophs"],
+    "correct_answer": 2,
+    "justification": "Fungi absorb nutrients from their environment as they lack chlorophyll."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of the small intestine in digestion?",
+    "options": ["Store food", "Absorb nutrients", "Produce bile", "Break down proteins"],
+    "correct_answer": 1,
+    "justification": "The small intestine is the primary site for nutrient absorption in digestion."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a source of variation in populations?",
+    "options": ["Mitosis", "Mutation", "Photosynthesis", "Respiration"],
+    "correct_answer": 1,
+    "justification": "Mutation introduces genetic variation by altering DNA sequences."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the role of the spinal cord in the human nervous system?",
+    "options": ["Control emotions", "Transmit nerve impulses", "Regulate hormones", "Produce blood cells"],
+    "correct_answer": 1,
+    "justification": "The spinal cord transmits nerve impulses between the brain and body."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of reptiles?",
+    "options": ["Moist skin", "Scaly skin", "Feathers", "Mammary glands"],
+    "correct_answer": 1,
+    "justification": "Reptiles have scaly skin that prevents water loss."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the movement of substances from high to low concentration without energy?",
+    "options": ["Active transport", "Diffusion", "Osmosis", "Filtration"],
+    "correct_answer": 1,
+    "justification": "Diffusion is the passive movement of substances from high to low concentration."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which organ in humans filters blood and produces urine?",
+    "options": ["Liver", "Kidney", "Heart", "Lung"],
+    "correct_answer": 1,
+    "justification": "The kidneys filter blood and produce urine to excrete waste."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the level of organization that includes all living organisms in an area?",
+    "options": ["Population", "Community", "Ecosystem", "Biosphere"],
+    "correct_answer": 1,
+    "justification": "A community includes all living organisms in a specific area."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the endocrine system?",
+    "options": ["Transport oxygen", "Regulate hormones", "Digest food", "Support movement"],
+    "correct_answer": 1,
+    "justification": "The endocrine system regulates body functions through hormone production."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for organisms that feed only on plants?",
+    "options": ["Carnivores", "Herbivores", "Omnivores", "Decomposers"],
+    "correct_answer": 1,
+    "justification": "Herbivores feed exclusively on plants."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which part of a plant is primarily responsible for photosynthesis?",
+    "options": ["Root", "Leaf", "Stem", "Flower"],
+    "correct_answer": 1,
+    "justification": "Leaves contain chlorophyll and are the primary site of photosynthesis."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the inheritance of traits from parents to offspring?",
+    "options": ["Evolution", "Heredity", "Mutation", "Adaptation"],
+    "correct_answer": 1,
+    "justification": "Heredity is the process by which traits are passed from parents to offspring."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the nervous system?",
+    "options": ["Produce hormones", "Coordinate body activities", "Transport nutrients", "Digest food"],
+    "correct_answer": 1,
+    "justification": "The nervous system coordinates body activities through nerve impulses."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of birds?",
+    "options": ["Scaly skin", "Feathers", "Moist skin", "Gills"],
+    "correct_answer": 1,
+    "justification": "Birds are characterized by feathers, which aid in flight and insulation."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the interaction between two species where one benefits and the other is unaffected?",
+    "options": ["Mutualism", "Commensalism", "Parasitism", "Competition"],
+    "correct_answer": 1,
+    "justification": "Commensalism is a relationship where one species benefits and the other is unaffected."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the Golgi apparatus?",
+    "options": ["Energy production", "Modify and package proteins", "Synthesize DNA", "Break down waste"],
+    "correct_answer": 1,
+    "justification": "The Golgi apparatus modifies, packages, and sorts proteins for secretion."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the living components of an ecosystem?",
+    "options": ["Abiotic factors", "Biotic factors", "Habitat", "Niche"],
+    "correct_answer": 1,
+    "justification": "Biotic factors include all living organisms in an ecosystem."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the skin in humans?",
+    "options": ["Gas exchange", "Temperature regulation", "Blood production", "Digestion"],
+    "correct_answer": 1,
+    "justification": "The skin regulates body temperature through sweating and vasoconstriction."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process by which organisms maintain a stable internal environment?",
+    "options": ["Evolution", "Homeostasis", "Adaptation", "Metabolism"],
+    "correct_answer": 1,
+    "justification": "Homeostasis is the process of maintaining a stable internal environment."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of prokaryotes?",
+    "options": ["Have a nucleus", "Lack a nucleus", "Multicellular", "Have chloroplasts"],
+    "correct_answer": 1,
+    "justification": "Prokaryotes, like bacteria, lack a true nucleus."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of the trachea in the respiratory system?",
+    "options": ["Absorb oxygen", "Conduct air to lungs", "Produce mucus", "Filter blood"],
+    "correct_answer": 1,
+    "justification": "The trachea conducts air to and from the lungs during respiration."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a method of seed dispersal?",
+    "options": ["Photosynthesis", "Wind dispersal", "Transpiration", "Respiration"],
+    "correct_answer": 1,
+    "justification": "Wind dispersal is a method by which seeds are spread to new locations."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the role an organism plays in its ecosystem?",
+    "options": ["Population", "Niche", "Community", "Habitat"],
+    "correct_answer": 1,
+    "justification": "The niche is the role or function of an organism in its ecosystem."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the large intestine in humans?",
+    "options": ["Digest proteins", "Absorb water", "Produce bile", "Store food"],
+    "correct_answer": 1,
+    "justification": "The large intestine absorbs water and forms feces."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the evolutionary process where organisms better suited to their environment survive?",
+    "options": ["Mutation", "Natural selection", "Adaptation", "Heredity"],
+    "correct_answer": 1,
+    "justification": "Natural selection is the process where organisms better adapted to their environment survive and reproduce."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of monocots?",
+    "options": ["Taproot system", "Parallel leaf veins", "Two seed leaves", "Woody stems"],
+    "correct_answer": 1,
+    "justification": "Monocots have parallel leaf veins, unlike dicots with net-like veins."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of platelets in the blood?",
+    "options": ["Transport oxygen", "Fight infections", "Clot blood", "Carry nutrients"],
+    "correct_answer": 2,
+    "justification": "Platelets are responsible for blood clotting to prevent excessive bleeding."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the lysosome in a cell?",
+    "options": ["Produce energy", "Break down waste", "Synthesize proteins", "Store nutrients"],
+    "correct_answer": 1,
+    "justification": "Lysosomes break down waste materials and cellular debris."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the non-living components of an ecosystem?",
+    "options": ["Biotic factors", "Abiotic factors", "Producers", "Consumers"],
+    "correct_answer": 1,
+    "justification": "Abiotic factors include non-living components like water, air, and sunlight."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the thyroid gland?",
+    "options": ["Regulate blood sugar", "Regulate metabolism", "Produce digestive enzymes", "Filter blood"],
+    "correct_answer": 1,
+    "justification": "The thyroid gland produces hormones that regulate metabolism."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for organisms that feed on dead organic matter?",
+    "options": ["Producers", "Decomposers", "Herbivores", "Carnivores"],
+    "correct_answer": 1,
+    "justification": "Decomposers break down dead organic matter to recycle nutrients."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which part of a flower develops into a fruit after fertilization?",
+    "options": ["Ovary", "Anther", "Stigma", "Petal"],
+    "correct_answer": 0,
+    "justification": "The ovary develops into a fruit after fertilization in plants."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the process by which organisms use oxygen to produce energy?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Digestion"],
+    "correct_answer": 1,
+    "justification": "Respiration uses oxygen to break down glucose and produce energy."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of dicots?",
+    "options": ["Parallel leaf veins", "One seed leaf", "Net-like leaf veins", "Fibrous roots"],
+    "correct_answer": 2,
+    "justification": "Dicots have net-like leaf veins, unlike monocots with parallel veins."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the function of the hypothalamus in the human brain?",
+    "options": ["Control balance", "Regulate body temperature", "Produce blood cells", "Coordinate movement"],
+    "correct_answer": 1,
+    "justification": "The hypothalamus regulates body temperature, hunger, and hormone release."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a method of preventing soil erosion?",
+    "options": ["Deforestation", "Afforestation", "Overgrazing", "Urbanization"],
+    "correct_answer": 1,
+    "justification": "Afforestation involves planting trees to stabilize soil and prevent erosion."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the group of individuals of the same species living in an area?",
+    "options": ["Community", "Population", "Ecosystem", "Biosphere"],
+    "correct_answer": 1,
+    "justification": "A population is a group of individuals of the same species in a specific area."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a function of the circulatory system?",
+    "options": ["Gas exchange", "Transport nutrients", "Produce hormones", "Digest food"],
+    "correct_answer": 1,
+    "justification": "The circulatory system transports nutrients, oxygen, and waste throughout the body."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the term for the loss of water vapor from plant surfaces?",
+    "options": ["Respiration", "Transpiration", "Photosynthesis", "Excretion"],
+    "correct_answer": 1,
+    "justification": "Transpiration is the loss of water vapor, primarily through stomata."
+  },
+  {
+    "subject": "Biology",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of chordates?",
+    "options": ["Exoskeleton", "Notochord", "Gills", "Scales"],
+    "correct_answer": 1,
+    "justification": "Chordates have a notochord at some stage of development."
+  }
+]

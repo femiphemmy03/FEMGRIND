@@ -1,0 +1,966 @@
+[
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the SI unit of the amount of substance?",
+    "options": ["Gram", "Mole", "Kilogram", "Liter"],
+    "correct_answer": 1,
+    "justification": "The SI unit for the amount of substance is the mole, which measures the number of particles."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which subatomic particle has a negative charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "correct_answer": 2,
+    "justification": "Electrons carry a negative charge, while protons are positive and neutrons are neutral."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the atomic number of an element with 11 protons and 12 neutrons?",
+    "options": ["11", "12", "23", "1"],
+    "correct_answer": 0,
+    "justification": "The atomic number is equal to the number of protons, which is 11."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which gas is known as the laughing gas?",
+    "options": ["Carbon dioxide", "Nitrous oxide", "Nitrogen", "Oxygen"],
+    "correct_answer": 1,
+    "justification": "Nitrous oxide (N₂O) is commonly called laughing gas due to its euphoric effects."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What type of bond is formed by the sharing of electrons between atoms?",
+    "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+    "correct_answer": 1,
+    "justification": "A covalent bond involves the sharing of electrons between non-metal atoms."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for water?",
+    "options": ["H₂O", "CO₂", "HCl", "NaCl"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for water is H₂O, indicating two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a noble gas?",
+    "options": ["Nitrogen", "Helium", "Oxygen", "Chlorine"],
+    "correct_answer": 1,
+    "justification": "Helium is a noble gas, characterized by a complete valence electron shell."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the pH of a neutral solution at 25°C?",
+    "options": ["0", "7", "14", "10"],
+    "correct_answer": 1,
+    "justification": "A neutral solution has a pH of 7 at 25°C, indicating equal concentrations of H⁺ and OH⁻ ions."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which element is the most electronegative?",
+    "options": ["Oxygen", "Fluorine", "Chlorine", "Nitrogen"],
+    "correct_answer": 1,
+    "justification": "Fluorine is the most electronegative element on the periodic table."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the mass of one mole of carbon-12?",
+    "options": ["12 g", "1 g", "6 g", "24 g"],
+    "correct_answer": 0,
+    "justification": "One mole of carbon-12 has a mass of 12 grams, equal to its molar mass."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a physical change?",
+    "options": ["Burning wood", "Rusting iron", "Melting ice", "Cooking an egg"],
+    "correct_answer": 2,
+    "justification": "Melting ice is a physical change as it involves a change in state without altering the chemical composition."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the formula for sulfuric acid?",
+    "options": ["HCl", "H₂SO₄", "HNO₃", "H₂CO₃"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for sulfuric acid is H₂SO₄."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of reaction releases energy?",
+    "options": ["Endothermic", "Exothermic", "Neutralization", "Decomposition"],
+    "correct_answer": 1,
+    "justification": "Exothermic reactions release energy, usually in the form of heat."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main component of natural gas?",
+    "options": ["Ethane", "Methane", "Propane", "Butane"],
+    "correct_answer": 1,
+    "justification": "Methane (CH₄) is the primary component of natural gas."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which gas is essential for respiration in humans?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Argon"],
+    "correct_answer": 2,
+    "justification": "Oxygen is required for cellular respiration in humans."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the oxidation state of hydrogen in water (H₂O)?",
+    "options": ["-1", "+1", "0", "+2"],
+    "correct_answer": 1,
+    "justification": "In water, hydrogen has an oxidation state of +1, as oxygen is more electronegative."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a greenhouse gas?",
+    "options": ["Nitrogen", "Carbon dioxide", "Oxygen", "Argon"],
+    "correct_answer": 1,
+    "justification": "Carbon dioxide is a greenhouse gas that traps heat in the atmosphere."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the molar mass of water (H₂O)?",
+    "options": ["18 g/mol", "16 g/mol", "20 g/mol", "14 g/mol"],
+    "correct_answer": 0,
+    "justification": "Molar mass of H₂O = (2 × 1) + 16 = 18 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of acids?",
+    "options": ["Turn blue litmus red", "Turn red litmus blue", "Neutral pH", "Produce OH⁻ ions"],
+    "correct_answer": 0,
+    "justification": "Acids turn blue litmus paper red due to their acidic nature."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "correct_answer": 1,
+    "justification": "The chemical symbol for gold is Au, derived from its Latin name 'aurum'."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of bond exists in a sodium chloride crystal?",
+    "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+    "correct_answer": 1,
+    "justification": "Sodium chloride forms an ionic bond due to the transfer of electrons between sodium and chlorine."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the product of a neutralization reaction between an acid and a base?",
+    "options": ["Salt and water", "Salt and oxygen", "Water and carbon dioxide", "Salt and hydrogen"],
+    "correct_answer": 0,
+    "justification": "A neutralization reaction produces a salt and water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an allotrope of carbon?",
+    "options": ["Graphite", "Iron", "Sulfur", "Nitrogen"],
+    "correct_answer": 0,
+    "justification": "Graphite is an allotrope of carbon, along with diamond and fullerenes."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the formula for ammonia?",
+    "options": ["NH₃", "NO₂", "N₂O", "NH₄"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for ammonia is NH₃."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a non-metal?",
+    "options": ["Sodium", "Sulfur", "Iron", "Copper"],
+    "correct_answer": 1,
+    "justification": "Sulfur is a non-metal, while sodium, iron, and copper are metals."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process of separating a solid from a liquid by passing through a porous material called?",
+    "options": ["Distillation", "Filtration", "Evaporation", "Sublimation"],
+    "correct_answer": 1,
+    "justification": "Filtration separates a solid from a liquid using a porous material like filter paper."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Oxygen", "Helium", "Carbon dioxide", "Nitrogen"],
+    "correct_answer": 1,
+    "justification": "Helium is lighter than air, causing balloons to float."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the number of electrons in the outermost shell of a chlorine atom?",
+    "options": ["1", "7", "2", "8"],
+    "correct_answer": 1,
+    "justification": "Chlorine has 7 electrons in its outermost shell (group 17)."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of an organic compound?",
+    "options": ["Sodium chloride", "Methane", "Water", "Carbon dioxide"],
+    "correct_answer": 1,
+    "justification": "Methane (CH₄) is an organic compound containing carbon and hydrogen."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the percentage composition of oxygen in water (H₂O)?",
+    "options": ["88.9%", "11.1%", "50%", "75%"],
+    "correct_answer": 0,
+    "justification": "Molar mass of H₂O = 18 g/mol. Oxygen = 16 g/mol. Percentage = (16/18) × 100 = 88.9%."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of metals?",
+    "options": ["Brittle", "Good conductor of electricity", "Low melting point", "Dull appearance"],
+    "correct_answer": 1,
+    "justification": "Metals are good conductors of electricity due to free electrons."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for sodium hydroxide?",
+    "options": ["NaCl", "NaOH", "Na₂CO₃", "NaHCO₃"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for sodium hydroxide is NaOH."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which type of reaction involves the combination of two or more substances to form one product?",
+    "options": ["Decomposition", "Synthesis", "Displacement", "Combustion"],
+    "correct_answer": 1,
+    "justification": "A synthesis reaction combines reactants to form a single product."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the main source of energy in the Haber process?",
+    "options": ["Solar energy", "Heat energy", "Electrical energy", "Nuclear energy"],
+    "correct_answer": 1,
+    "justification": "The Haber process uses heat energy to produce ammonia under high pressure."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a halogen?",
+    "options": ["Sodium", "Chlorine", "Magnesium", "Potassium"],
+    "correct_answer": 1,
+    "justification": "Chlorine is a halogen, belonging to group 17 of the periodic table."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the process of separating components of a liquid mixture based on boiling points?",
+    "options": ["Filtration", "Distillation", "Evaporation", "Crystallization"],
+    "correct_answer": 1,
+    "justification": "Distillation separates liquids based on differences in their boiling points."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a product of complete combustion of hydrocarbons?",
+    "options": ["Carbon monoxide", "Carbon dioxide", "Soot", "Sulfur dioxide"],
+    "correct_answer": 1,
+    "justification": "Complete combustion of hydrocarbons produces carbon dioxide and water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the oxidation state of oxygen in hydrogen peroxide (H₂O₂)?",
+    "options": ["-2", "-1", "0", "+1"],
+    "correct_answer": 1,
+    "justification": "In hydrogen peroxide, oxygen has an oxidation state of -1, unlike -2 in most compounds."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Natural gas", "Biogas", "Petroleum"],
+    "correct_answer": 2,
+    "justification": "Biogas is renewable, produced from organic matter like waste."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for calcium carbonate?",
+    "options": ["CaCO₃", "CaCl₂", "CaSO₄", "Ca(OH)₂"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for calcium carbonate is CaCO₃."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of bases?",
+    "options": ["Turn red litmus blue", "Turn blue litmus red", "Produce H⁺ ions", "Sour taste"],
+    "correct_answer": 0,
+    "justification": "Bases turn red litmus paper blue due to their alkaline nature."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the molar mass of sodium chloride (NaCl)?",
+    "options": ["58.5 g/mol", "35.5 g/mol", "23 g/mol", "40 g/mol"],
+    "correct_answer": 0,
+    "justification": "Molar mass of NaCl = 23 (Na) + 35.5 (Cl) = 58.5 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a homogeneous mixture?",
+    "options": ["Sand and water", "Salt solution", "Oil and water", "Soil"],
+    "correct_answer": 1,
+    "justification": "A salt solution is a homogeneous mixture with uniform composition."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process where a solid turns directly into a gas?",
+    "options": ["Melting", "Sublimation", "Evaporation", "Condensation"],
+    "correct_answer": 1,
+    "justification": "Sublimation is the direct transition of a solid to a gas without passing through the liquid state."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a transition metal?",
+    "options": ["Sodium", "Iron", "Potassium", "Calcium"],
+    "correct_answer": 1,
+    "justification": "Iron is a transition metal, located in the d-block of the periodic table."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for ethanol?",
+    "options": ["C₂H₅OH", "CH₃OH", "C₃H₇OH", "C₂H₄"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for ethanol is C₂H₅OH."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of ionic compounds?",
+    "options": ["Low melting point", "High melting point", "Malleable", "Non-conductive in solid state"],
+    "correct_answer": 1,
+    "justification": "Ionic compounds have high melting points due to strong ionic bonds."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the gas that makes up about 78% of Earth’s atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "correct_answer": 1,
+    "justification": "Nitrogen constitutes approximately 78% of Earth’s atmosphere."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a catalyst in the Haber process?",
+    "options": ["Iron", "Copper", "Zinc", "Silver"],
+    "correct_answer": 0,
+    "justification": "Iron is used as a catalyst in the Haber process to produce ammonia."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the empirical formula of a compound with a molecular formula of C₆H₁₂O₆?",
+    "options": ["C₃H₆O₃", "CH₂O", "C₂H₄O₂", "C₆H₁₂O₆"],
+    "correct_answer": 1,
+    "justification": "The empirical formula is the simplest ratio: C₆H₁₂O₆ ÷ 6 = CH₂O."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of alkanes?",
+    "options": ["Unsaturated", "Single bonds only", "Contain double bonds", "Highly reactive"],
+    "correct_answer": 1,
+    "justification": "Alkanes are saturated hydrocarbons with single bonds only."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process used to extract metals from their ores?",
+    "options": ["Electrolysis", "Smelting", "Distillation", "Filtration"],
+    "correct_answer": 1,
+    "justification": "Smelting is the process of extracting metals from their ores by heating."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a strong acid?",
+    "options": ["Acetic acid", "Hydrochloric acid", "Carbonic acid", "Citric acid"],
+    "correct_answer": 1,
+    "justification": "Hydrochloric acid is a strong acid as it completely dissociates in water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for carbon monoxide?",
+    "options": ["CO", "CO₂", "C₂O", "CH₄"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for carbon monoxide is CO."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a polymer?",
+    "options": ["Glucose", "Polythene", "Ethanol", "Methane"],
+    "correct_answer": 1,
+    "justification": "Polythene is a polymer made from repeating ethylene units."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the pH of a solution with a hydrogen ion concentration of 10⁻³ M?",
+    "options": ["3", "7", "10", "1"],
+    "correct_answer": 0,
+    "justification": "pH = -log[H⁺] = -log(10⁻³) = 3."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of alkenes?",
+    "options": ["Single bonds only", "Double bonds", "Triple bonds", "No bonds"],
+    "correct_answer": 1,
+    "justification": "Alkenes are unsaturated hydrocarbons with at least one double bond."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process where a liquid turns into a gas at its surface?",
+    "options": ["Sublimation", "Evaporation", "Condensation", "Boiling"],
+    "correct_answer": 1,
+    "justification": "Evaporation is the process where a liquid turns into a gas at its surface."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which element is used in thermometers due to its low melting point?",
+    "options": ["Iron", "Mercury", "Copper", "Zinc"],
+    "correct_answer": 1,
+    "justification": "Mercury is used in thermometers due to its low melting point and thermal expansion."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "options": ["H₂SO₄", "HCl", "HNO₃", "H₂CO₃"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for hydrochloric acid is HCl."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of covalent compounds?",
+    "options": ["High melting point", "Conduct electricity in solid state", "Low melting point", "Form crystals"],
+    "correct_answer": 2,
+    "justification": "Covalent compounds typically have low melting points due to weak intermolecular forces."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the number of protons in an oxygen atom?",
+    "options": ["8", "16", "6", "10"],
+    "correct_answer": 0,
+    "justification": "The atomic number of oxygen is 8, indicating 8 protons."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a product of the electrolysis of sodium chloride solution?",
+    "options": ["Oxygen", "Chlorine", "Nitrogen", "Carbon dioxide"],
+    "correct_answer": 1,
+    "justification": "Electrolysis of sodium chloride solution produces chlorine gas at the anode."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH₄", "C₂H₆", "C₃H₈", "C₄H₁₀"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for methane is CH₄."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a catalyst?",
+    "options": ["Consumed in reaction", "Increases reaction rate", "Changes the products", "Decreases energy"],
+    "correct_answer": 1,
+    "justification": "A catalyst increases the rate of a reaction without being consumed."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process used to purify copper?",
+    "options": ["Smelting", "Electrolysis", "Distillation", "Filtration"],
+    "correct_answer": 1,
+    "justification": "Electrolysis is used to purify copper by electrorefining."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a weak acid?",
+    "options": ["Hydrochloric acid", "Acetic acid", "Sulfuric acid", "Nitric acid"],
+    "correct_answer": 1,
+    "justification": "Acetic acid is a weak acid as it partially dissociates in water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for sodium carbonate?",
+    "options": ["NaCl", "Na₂CO₃", "NaOH", "NaHCO₃"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for sodium carbonate is Na₂CO₃."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of alkynes?",
+    "options": ["Single bonds only", "Double bonds", "Triple bonds", "No bonds"],
+    "correct_answer": 2,
+    "justification": "Alkynes are unsaturated hydrocarbons with at least one triple bond."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the gas used in fire extinguishers?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "correct_answer": 1,
+    "justification": "Carbon dioxide is used in fire extinguishers to displace oxygen and extinguish fires."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of acids?",
+    "options": ["Slippery feel", "Bitter taste", "Sour taste", "Turn red litmus blue"],
+    "correct_answer": 2,
+    "justification": "Acids have a sour taste and turn blue litmus red."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the molar mass of oxygen gas (O₂)?",
+    "options": ["16 g/mol", "32 g/mol", "8 g/mol", "24 g/mol"],
+    "correct_answer": 1,
+    "justification": "Molar mass of O₂ = 2 × 16 = 32 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a heterogeneous mixture?",
+    "options": ["Salt solution", "Air", "Sand and water", "Sugar syrup"],
+    "correct_answer": 2,
+    "justification": "Sand and water form a heterogeneous mixture with non-uniform composition."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process where a gas turns directly into a solid?",
+    "options": ["Sublimation", "Deposition", "Evaporation", "Condensation"],
+    "correct_answer": 1,
+    "justification": "Deposition is the direct transition of a gas to a solid."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which element is used in batteries due to its reactivity?",
+    "options": ["Iron", "Lithium", "Copper", "Zinc"],
+    "correct_answer": 1,
+    "justification": "Lithium is used in batteries due to its high reactivity and lightweight properties."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for nitric acid?",
+    "options": ["HNO₃", "H₂SO₄", "HCl", "H₂CO₃"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for nitric acid is HNO₃."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of metallic bonding?",
+    "options": ["Low conductivity", "Brittle structure", "Delocalized electrons", "Low melting point"],
+    "correct_answer": 2,
+    "justification": "Metallic bonding involves delocalized electrons, enabling conductivity."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the number of neutrons in a carbon-14 atom?",
+    "options": ["6", "8", "7", "14"],
+    "correct_answer": 1,
+    "justification": "Carbon-14 has 6 protons and a mass number of 14, so neutrons = 14 - 6 = 8."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a product of the electrolysis of water?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Sulfur dioxide"],
+    "correct_answer": 1,
+    "justification": "Electrolysis of water produces oxygen at the anode and hydrogen at the cathode."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for ethane?",
+    "options": ["CH₄", "C₂H₆", "C₃H₈", "C₂H₄"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for ethane is C₂H₆."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a reversible reaction?",
+    "options": ["Proceeds only in one direction", "Reaches equilibrium", "Produces no products", "Is always exothermic"],
+    "correct_answer": 1,
+    "justification": "A reversible reaction reaches equilibrium where forward and reverse reactions occur at equal rates."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process used to separate crude oil into fractions?",
+    "options": ["Filtration", "Fractional distillation", "Evaporation", "Crystallization"],
+    "correct_answer": 1,
+    "justification": "Fractional distillation separates crude oil based on different boiling points of its components."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a strong base?",
+    "options": ["Ammonium hydroxide", "Sodium hydroxide", "Calcium carbonate", "Ammonia"],
+    "correct_answer": 1,
+    "justification": "Sodium hydroxide is a strong base as it completely dissociates in water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for potassium hydroxide?",
+    "options": ["KCl", "KOH", "K₂CO₃", "KHCO₃"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for potassium hydroxide is KOH."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of aromatic hydrocarbons?",
+    "options": ["Single bonds only", "Contain a benzene ring", "Highly saturated", "No carbon atoms"],
+    "correct_answer": 1,
+    "justification": "Aromatic hydrocarbons, like benzene, contain a benzene ring structure."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the gas used in welding?",
+    "options": ["Oxygen", "Acetylene", "Nitrogen", "Carbon dioxide"],
+    "correct_answer": 1,
+    "justification": "Acetylene is used in welding due to its high flame temperature."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of bases?",
+    "options": ["Sour taste", "Slippery feel", "Turn red litmus blue", "Produce H⁺ ions"],
+    "correct_answer": 1,
+    "justification": "Bases have a slippery feel and turn red litmus blue."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the molar mass of carbon dioxide (CO₂)?",
+    "options": ["44 g/mol", "32 g/mol", "28 g/mol", "16 g/mol"],
+    "correct_answer": 0,
+    "justification": "Molar mass of CO₂ = 12 (C) + 2 × 16 (O) = 44 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a suspension?",
+    "options": ["Salt solution", "Milk", "Sugar syrup", "Air"],
+    "correct_answer": 1,
+    "justification": "Milk is a suspension with visible particles dispersed in a liquid."
+  },
+  
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process where a solid dissolves in a liquid to form a solution?",
+    "options": ["Sublimation", "Dissolution", "Evaporation", "Condensation"],
+    "correct_answer": 1,
+    "justification": "Dissolution is the process where a solid dissolves in a liquid to form a solution."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which element is used in fluorescent lamps?",
+    "options": ["Neon", "Mercury", "Argon", "Krypton"],
+    "correct_answer": 1,
+    "justification": "Mercury vapor is used in fluorescent lamps to produce ultraviolet light."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for ammonium chloride?",
+    "options": ["NH₄Cl", "NH₃", "NH₄OH", "NCl₃"],
+    "correct_answer": 0,
+    "justification": "The chemical formula for ammonium chloride is NH₄Cl."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of gases?",
+    "options": ["Fixed shape", "Fixed volume", "High compressibility", "High density"],
+    "correct_answer": 2,
+    "justification": "Gases have high compressibility due to large spaces between particles."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the number of electrons in a sodium ion (Na⁺)?",
+    "options": ["11", "10", "12", "13"],
+    "correct_answer": 1,
+    "justification": "A sodium atom has 11 electrons; Na⁺ loses one electron, leaving 10."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a product of fermentation of glucose?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Sulfur dioxide"],
+    "correct_answer": 0,
+    "justification": "Fermentation of glucose produces ethanol and carbon dioxide."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for propene?",
+    "options": ["C₃H₈", "C₃H₆", "C₂H₄", "C₄H₁₀"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for propene, an alkene, is C₃H₆."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of a redox reaction?",
+    "options": ["No electron transfer", "Electron transfer occurs", "Produces only water", "Involves only acids"],
+    "correct_answer": 1,
+    "justification": "A redox reaction involves the transfer of electrons between species."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process used to produce aluminum from its ore?",
+    "options": ["Smelting", "Electrolysis", "Distillation", "Filtration"],
+    "correct_answer": 1,
+    "justification": "Electrolysis is used to extract aluminum from bauxite in the Hall-Héroult process."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a weak base?",
+    "options": ["Sodium hydroxide", "Ammonia", "Potassium hydroxide", "Calcium hydroxide"],
+    "correct_answer": 1,
+    "justification": "Ammonia is a weak base as it partially dissociates in water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the chemical formula for sodium bicarbonate?",
+    "options": ["Na₂CO₃", "NaHCO₃", "NaCl", "NaOH"],
+    "correct_answer": 1,
+    "justification": "The chemical formula for sodium bicarbonate is NaHCO₃."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a characteristic of alcohols?",
+    "options": ["Contain a carboxyl group", "Contain a hydroxyl group", "Contain a triple bond", "Are inorganic"],
+    "correct_answer": 1,
+    "justification": "Alcohols have a hydroxyl group (-OH) bonded to a carbon atom."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the gas used in neon lights?",
+    "options": ["Helium", "Neon", "Argon", "Krypton"],
+    "correct_answer": 1,
+    "justification": "Neon gas is used in neon lights to produce a red-orange glow."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is a property of acids?",
+    "options": ["Bitter taste", "Produce OH⁻ ions", "Conduct electricity in solution", "Slippery feel"],
+    "correct_answer": 2,
+    "justification": "Acids conduct electricity in solution due to the presence of H⁺ ions."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the molar mass of sulfuric acid (H₂SO₄)?",
+    "options": ["98 g/mol", "64 g/mol", "80 g/mol", "32 g/mol"],
+    "correct_answer": 0,
+    "justification": "Molar mass of H₂SO₄ = (2 × 1) + 32 + (4 × 16) = 98 g/mol."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which of the following is an example of a colloid?",
+    "options": ["Salt solution", "Milk", "Sugar syrup", "Pure water"],
+    "correct_answer": 1,
+    "justification": "Milk is a colloid with dispersed fat particles in water."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "What is the name of the process where a liquid turns into a solid?",
+    "options": ["Sublimation", "Freezing", "Evaporation", "Condensation"],
+    "correct_answer": 1,
+    "justification": "Freezing is the process where a liquid turns into a solid."
+  },
+  {
+    "subject": "Chemistry",
+    "grade_level": "SSCE",
+    "exam_type": null,
+    "question": "Which element is used in nuclear reactors as a fuel?",
+    "options": ["Iron", "Uranium", "Copper", "Zinc"],
+    "correct_answer": 1,
+    "justification": "Uranium is used as a fuel in nuclear reactors due to its fissionable properties."
+  }
+]
