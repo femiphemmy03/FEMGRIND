@@ -18,7 +18,7 @@ const ResultPage = () => {
   const handleDownload = async () => {
     try {
       const response = await axios.post(
-        "http://localhost:5000/api/download/pdf",
+        "https://femgrind.onrender.com/api/download/pdf",
         { result, formData },
         { responseType: 'blob' }
       );

@@ -17,7 +17,7 @@ const ExamPage = () => {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const response = await axios.post("http://localhost:5000/api/start-session", {
+        const response = await axios.post("https://femgrind.onrender.com/api/start-session", {
           username,
           subject,
           examType,
@@ -69,7 +69,7 @@ const ExamPage = () => {
       }
     }
     try {
-      const response = await axios.post("http://localhost:5000/api/submit", {
+      const response = await axios.post("https://femgrind.onrender.com/api/submit", {
         answers,
         questions,
         formData: { username, examType, subject, duration },
