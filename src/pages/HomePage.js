@@ -20,7 +20,7 @@ const HomePage = () => {
     {
       id: 1,
       image: "/images/femgrind-ad1.jpg",
-      link: "https://www.femgrind.ng",
+      link: "https://femgrindng.onrender.com",
       alt: "FEMGRIND - Your Success Partner",
       fallbackTitle: "FEMGRIND",
       fallbackSubtitle: "Your Success Partner",
@@ -29,7 +29,7 @@ const HomePage = () => {
     {
       id: 2,
       image: "/images/femgrind-ad2.jpg",
-      link: "https://www.femgrind.ng",
+      link: "https://femgrindng.onrender.com",
       alt: "FEMGRIND - Exam Excellence",
       fallbackTitle: "FEMGRIND",
       fallbackSubtitle: "Exam Excellence",
