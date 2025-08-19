@@ -2,12 +2,10 @@ const { Pool } = require('pg');
 require('dotenv').config({ path: '../.env' });
 
 const pool = new Pool({
-  user: process.env.DB_USER,
-  database: process.env.DB_NAME,
-  password: process.env.DB_PASSWORD,
-  host: process.env.DB_HOST,
-  port: process.env.DB_PORT,
+  connectionString: process.env.DATABASE_URL,
+  ssl: { rejectUnauthorized: false }
 });
+
 
 const subjects = ['maths_questions.json','government_questions.json','crs_questions.json',  'commerce_questions.json',  'economics_questions.json',  'chemistry_questions.json', 'biology_questions.json',  'physics_questions.json',  'civic_questions.json',  'english_questions.json'];
 
