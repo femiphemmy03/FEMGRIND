@@ -36,8 +36,8 @@ const ResultPage = () => {
   };
 
   const handleShare = async () => {
-  const shareText = `${formData.username}, I just scored ${score.toFixed(1)}% (${result.totalCorrect || correctQuestions.length}/20) in ${formData.examType} ${formData.subject} on FEMGRIND! Come and try out FEMGRIND to boost your scores!`;
-  const shareUrl = "https://femgrind.ng";
+  const shareText = ` I just scored ${score.toFixed(1)}% (${result.totalCorrect || correctQuestions.length}/20) in ${formData.examType} ${formData.subject} on FEMGRIND! Come and try out FEMGRIND to boost your scores!`;
+  const shareUrl = "https://femgrindng.onrender.com";
 
   if (navigator.share) {
     try {
